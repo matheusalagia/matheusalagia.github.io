@@ -311,6 +311,7 @@ section h3.section-subheading {
   position: relative;
   max-width: 350px;
   margin: 0 auto;
+  padding-bottom: 4px;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   background: rgba(254, 209, 54, 0.9);
