@@ -31,3 +31,34 @@
     })
 
 })(jQuery); // End of use strict
+
+
+//scroll
+$(window).on("load scroll",function(){
+    
+    var st = $(window).scrollTop();
+    
+    //cycle
+    if ($("#bottom").length>0) {
+        if (!slider_iniciado) {
+            var slider_ponto = $("#bottom").offset().top - $("#bottom").outerHeight() + 250;
+            //console.log(st +' ' +slider_ponto);
+            if (st>slider_ponto) {
+                $("#bottom .slides").cycle('resume');
+                //var html = $("#bottom1 .iphone").html();
+                //$("#bottom1 .iphone").html("");
+                //$("#bottom1 .iphone").html(html);
+                var src = $("#bottom1 .iphone .frame").attr("src");
+                $("#bottom1 .iphone .frame").attr("src",src);
+                $("#bottom .slides").on("cycle-before",function(event, optionHash, outgoingSlideEl, incomingSlideEl, forwardFlag){
+                    var $frame = $(incomingSlideEl).find(".iphone .frame");
+                    var src = $frame.attr("src");
+                    $frame.attr("src",src);
+                });
+                slider_iniciado = true;
+            }
+        }
+    }
+    
+    
+});
