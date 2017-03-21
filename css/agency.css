@@ -10,8 +10,12 @@ body {
 .text-muted {
   color: #777777;
 }
-.text-blue{
-    color: #40A3FF;
+.text-white{
+    color: #FFFFFF;
+}
+
+.text-dark{
+    color: #3D3C44;
 }
 .text-primary {
   color: #FEC503;
@@ -762,27 +766,15 @@ body {
 
 #midia .principal { padding: 55px 0 70px 0; }
 #midia .principal h3 { text-align: center; font-size: 30px; font-weight: bold; }
-#midia .principal .midia { margin: 0 0 65px 0; }
-#midia .principal .midia ul { display: table; width: 100%; }
-#midia .principal .midia ul li { display: table-cell; text-align: center; padding: 0 15px 30px 15px; }
-#midia .principal .midia ul li .logo { margin: 0 0 14px 0; }
-#midia .principal .midia ul li .logo img { display: block; margin: auto; max-width: 100%; }
-#midia .principal .midia ul li p { font-size: 21px; line-height: 1.15em; font-style: italic; }
-#midia .principal .noticia { text-align: center;}
+#midia .principal .midia img { display: block; margin: auto; max-width: 100%; }
+#midia .principal .midia p { font-size: 21px; line-height: 1.15em; font-style: italic; }
 #midia .principal .noticia h5 { font-size: 36px; font-weight: bold; line-height: 1.3em; margin: 0 0 0.7em 0; color: #FFFFFF;}
 #midia .principal .noticia a p { font-size: 28px; line-height: 1.15em; font-style: italic; }
 
-#sobre { background: #FDCD07; padding: 100px 0; color: #3B3C44; }
-#sobre .inicio { display: table; width: 100%; margin: 0 0 130px 0; }
-#sobre .inicio .img { display: table-cell; padding-right: 30px; width: 34%; vertical-align: middle; }
-#sobre .inicio .img img { display: block; max-width: 100%; }
-#sobre .inicio .intro { display: table-cell; font-size: 20px; line-height: 1.25em; vertical-align: middle; text-align: justify; }
-#sobre .equipe { overflow: hidden; }
-#sobre .equipe li { float: left; width: 20%; padding: 0 10px; margin: 0 0 30px 0; font-size: 18px; line-height: 1.2em; text-align: center; list-style-type: none; }
-#sobre .equipe li .foto { display: block; margin: 0 0 10px 0; }
-#sobre .equipe li .foto img { display: block; width: 100%; max-width: 152px; margin: auto; border-radius: 76px; border: solid 3px #3B3C44; }
-#sobre .equipe li .nome { font-size: 1.333em; font-weight: bold; line-height: 1.3em; }
-
+#sobre { background: #FDCD07; padding: 100px 0;}
+#sobre .equipe .foto { display: block; margin: 0 0 10px 0; }
+#sobre .equipe .foto img { display: block; width: 100%; max-width: 152px; margin: auto; border-radius: 76px; border: solid 3px #3B3C44; }
+#sobre .equipe .nome { font-size: 1.333em; font-weight: bold; line-height: 1.3em; color: #3D3C44;}
 
 #footer { background: #3B3B43; font-size: 16px; line-height: 1.25em; color: #fff; padding: 0 0 60px 0; }
 #footer .header { display: table; width: 100%; margin: 0 0 12px 0; }
@@ -791,21 +783,16 @@ body {
 #footer .header .logo img { display: block; }
 #footer .header .linha { position: relative; }
 #footer .header .linha:after { position: relative; width: 100%; height: 1px; background: #fff; content: ""; display: block; }
-#footer .contatos { display: table; width: 100%; }
-#footer .contatos > div { display: table-cell; vertical-align: middle; padding: 8px 30px 8px 0; }
-#footer .contatos > div:last-child { padding-right: 0 !important; padding-left: 20px; }
-#footer .contatos .fones { padding-left: 62px; background: url(../img/footer_fone.png) left center no-repeat; }
-#footer .contatos .local { padding-left: 60px; background: url(../img/footer_local.png) left center no-repeat; }
-#footer .contatos .mail { padding-left: 60px; background: url(../img/footer_mail.png) left center no-repeat; }
-#footer .contatos .social { white-space: nowrap; }
-#footer .contatos .social ul { }
-#footer .contatos .social ul li { font-size: 20px; line-height: 30px; margin: 0 8px 0 0; display: inline-block; }
-#footer .contatos .social ul li:last-child { margin-right: 0 !important; }
-#footer .contatos .social ul li a { display: block; }
-#footer .contatos .social ul li a:hover { opacity: 0.8; }
+
+@media (max-width: 768px) {
+    #footer .header { display: none;}    
+}
+
+#footer .contatos .vcenter {display: inline-block;vertical-align: middle;float: none;}
+#footer .contatos .middle-text {line-height: 3.6em;}
+#footer .contatos a {line-height: 2.6em;}
 #footer .noticia { text-align: center; padding: 50px 0 70px 0; }
 #footer .noticia h5 { font-size: 36px; font-weight: bold; line-height: 1.3em; margin: 0 0 0.7em 0; }
-
 
 .header-case { background-position: center center; background-repeat: no-repeat; background-size: cover; background-attachment: fixed; position: relative; padding: 100px 0 75px 0; }
 .header-case .bg { position: absolute; left: 0; top: 0; z-index: 1; width: 100%; height: 100%; background: rgba(0,0,0,0.75); }
