@@ -789,8 +789,7 @@ body {
 }
 
 #footer .contatos .vcenter {display: inline-block;vertical-align: middle;float: none;}
-#footer .contatos .middle-text {line-height: 3.6em;}
-#footer .contatos a {line-height: 2.6em;}
+#footer .contatos .middle-text {line-height: 2.6em;}
 #footer .noticia { text-align: center; padding: 50px 0 70px 0; }
 #footer .noticia h5 { font-size: 36px; font-weight: bold; line-height: 1.3em; margin: 0 0 0.7em 0; }
 
