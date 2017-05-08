@@ -3,10 +3,10 @@
   <channel>
     <title>Ubots | Blog</title>
     <description>Blog da Ubots</description>
-    <link>ubots.com.br/blog/</link>
-    <atom:link href="ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 24 Apr 2017 13:39:10 -0300</pubDate>
-    <lastBuildDate>Mon, 24 Apr 2017 13:39:10 -0300</lastBuildDate>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 08 May 2017 16:35:07 -0300</pubDate>
+    <lastBuildDate>Mon, 08 May 2017 16:35:07 -0300</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -44,8 +44,8 @@
 &lt;p&gt;A Ubots, parceira da VTEX e desenvolvedora do chatbot da rede de Farmácias Panvel, desenvolveu uma plataforma de chatbots totalmente integrada ao sistema da VTEX e ao Facebook Messenger. Por meio dessa plataforma, o seu e-commerce possuirá um atendimento automatizado e inteligente alcançando seus clientes onde eles estão. Acompanhamento de status de pedidos, SAC, busca e vendas de produtos são apenas alguns exemplos das opções que você pode disponibilizar através dessa plataforma.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Jan 2017 00:00:00 -0200</pubDate>
-        <link>ubots.com.br/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</link>
-        <guid isPermaLink="true">ubots.com.br/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</guid>
+        <link>http://localhost:4000/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</guid>
         
         
         <category>e-commerce</category>
@@ -95,8 +95,8 @@
 &lt;p&gt;Four pounds… foooour pounds as if two pounds wasn’t bad enough. we’re talking two three hundred boxes of sinus pills there ain’t that many Smurfs in the world. So no sudo? So you do have a plan! Yeah, Mr. White! Yeah, science!&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
-        <link>ubots.com.br/blog/science/2015/08/08/yeah-mr-white-yeah-science.html</link>
-        <guid isPermaLink="true">ubots.com.br/blog/science/2015/08/08/yeah-mr-white-yeah-science.html</guid>
+        <link>http://localhost:4000/blog/science/2015/08/08/yeah-mr-white-yeah-science.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/science/2015/08/08/yeah-mr-white-yeah-science.html</guid>
         
         
         <category>Science</category>
@@ -141,8 +141,8 @@
 &lt;p&gt;I… am very sorry. Is there anything I can do? I am on the board of this hospital. I can recommend doctors. Make sure he gets whatever he needs. The best treatment. How did that happen? This current batch is surely ruined now, correct? Stay with the boy. Tyrus will dump what’s there and clean the tanks. You will start a new batch when you are ready to return. Next week.&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
-        <link>ubots.com.br/blog/business/2015/08/08/i-handle-the-business-operations.html</link>
-        <guid isPermaLink="true">ubots.com.br/blog/business/2015/08/08/i-handle-the-business-operations.html</guid>
+        <link>http://localhost:4000/blog/business/2015/08/08/i-handle-the-business-operations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/business/2015/08/08/i-handle-the-business-operations.html</guid>
         
         
         <category>business</category>
@@ -192,8 +192,8 @@
 &lt;p&gt;Drum roll, please. Wait for it. Lazer tag. Lazer tag! 7,000 square feet of rollicking fun in the heart of northern Bernalillo County! It adds up perfectly. Walt’s a scientist, scientists love lazers. Plus, they got bumper boats, so…&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Aug 2015 00:00:00 -0300</pubDate>
-        <link>ubots.com.br/blog/badass/2015/08/08/because-i-say-so.html</link>
-        <guid isPermaLink="true">ubots.com.br/blog/badass/2015/08/08/because-i-say-so.html</guid>
+        <link>http://localhost:4000/blog/badass/2015/08/08/because-i-say-so.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/badass/2015/08/08/because-i-say-so.html</guid>
         
         
         <category>Badass</category>
@@ -216,8 +216,8 @@
 &lt;/pre&gt;
 </description>
         <pubDate>Fri, 07 Aug 2015 00:51:00 -0300</pubDate>
-        <link>ubots.com.br/blog/javascript/2015/08/07/lets-parse-some-css.html</link>
-        <guid isPermaLink="true">ubots.com.br/blog/javascript/2015/08/07/lets-parse-some-css.html</guid>
+        <link>http://localhost:4000/blog/javascript/2015/08/07/lets-parse-some-css.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/javascript/2015/08/07/lets-parse-some-css.html</guid>
         
         
         <category>Javascript</category>
@@ -259,8 +259,8 @@
 &lt;p&gt;It’s complicated and I don’t wish to discuss it. It’s none of your concern. You know what, let’s just say that I have a hell of a lot more on my mind, right now, than thinking about buying a damn car wash. Okay? So if you could just… please.&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Aug 2015 00:00:00 -0300</pubDate>
-        <link>ubots.com.br/blog/breaking/2015/08/07/i-am-the-one-who-knocks.html</link>
-        <guid isPermaLink="true">ubots.com.br/blog/breaking/2015/08/07/i-am-the-one-who-knocks.html</guid>
+        <link>http://localhost:4000/blog/breaking/2015/08/07/i-am-the-one-who-knocks.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/breaking/2015/08/07/i-am-the-one-who-knocks.html</guid>
         
         
         <category>Breaking</category>
@@ -284,8 +284,8 @@
 
 </description>
         <pubDate>Thu, 06 Aug 2015 23:04:00 -0300</pubDate>
-        <link>ubots.com.br/blog/css/2015/08/06/the-real-secrets-of-css.html</link>
-        <guid isPermaLink="true">ubots.com.br/blog/css/2015/08/06/the-real-secrets-of-css.html</guid>
+        <link>http://localhost:4000/blog/css/2015/08/06/the-real-secrets-of-css.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/css/2015/08/06/the-real-secrets-of-css.html</guid>
         
         
         <category>css</category>
