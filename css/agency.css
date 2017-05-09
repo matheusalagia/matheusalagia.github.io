@@ -5,8 +5,22 @@
  */
 body {
   overflow-x: hidden;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif
+  font-family: open sans,sans-serif
 }
+
+header {
+    background-image: url(../img/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
 .text-muted {
   color: #777777;
 }
@@ -49,7 +63,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -66,7 +80,7 @@ h6 {
   color: white;
   background-color: #FEC503;
   border-color: #FEC503;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -110,11 +124,9 @@ fieldset[disabled] .btn-primary.active {
   color: white;
   background-color: #FEC503;
   border-color: #FEC503;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-weight: 700;
   border-radius: 3px;
-  font-size: 18px;
+  font: normal normal 700 16px/1.4em 'open sans',sans-serif;
   padding: 20px 40px;
 }
 .btn-xl:hover,
@@ -159,7 +171,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-brand {
   color: #FEC503;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif
+  font-family: open sans,sans-serif
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -173,7 +185,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-toggle {
   background-color: #FEC503;
   border-color: #FEC503;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   color: white;
   font-size: 12px;
@@ -183,7 +195,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: #FEC503;
 }
 .navbar-custom .nav li a {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 1px;
@@ -246,14 +258,13 @@ header .intro-text {
   padding-bottom: 50px;
 }
 header .intro-text .intro-lead-in {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-style: italic;
+  font-family: open sans,sans-serif;
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
 }
 header .intro-text .intro-heading {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 50px;
@@ -266,17 +277,16 @@ header .intro-text .intro-heading {
     padding-bottom: 200px;
   }
   header .intro-text .intro-lead-in {
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-style: italic;
-    font-size: 40px;
+    font-family: open sans,sans-serif;
+    font-size: 36px;
     line-height: 40px;
     margin-bottom: 25px;
   }
   header .intro-text .intro-heading {
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: open sans,sans-serif;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 75px;
+    font-size: 40px;
     line-height: 75px;
     margin-bottom: 50px;
   }
@@ -284,17 +294,21 @@ header .intro-text .intro-heading {
 section {
   padding: 80px 0;
 }
-section h2.section-heading {
-  font-size: 40px;
+section h1.section-heading {
+  font-size: 30px;
   margin-top: 0;
   margin-bottom: 15px;
 }
 section h3.section-subheading {
   font-size: 16px;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: none;
   font-weight: 400;
+  width: 70%;
+  margin: auto;
   margin-bottom: 75px;
+  line-height: normal;
+  letter-spacing: normal;
 }
 @media (min-width: 768px) {
   section {
@@ -359,7 +373,7 @@ section h3.section-subheading {
   margin: 0;
 }
 #portfolio .portfolio-item .portfolio-caption p {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   font-style: italic;
   font-size: 16px;
   margin: 0;
@@ -584,27 +598,27 @@ section#contact .form-control:focus {
   box-shadow: none;
 }
 section#contact ::-webkit-input-placeholder {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   color: #eeeeee;
 }
 section#contact :-moz-placeholder {
   /* Firefox 18- */
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   color: #eeeeee;
 }
 section#contact ::-moz-placeholder {
   /* Firefox 19+ */
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   color: #eeeeee;
 }
 section#contact :-ms-input-placeholder {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   color: #eeeeee;
@@ -618,39 +632,27 @@ footer {
 }
 footer span.copyright {
   line-height: 40px;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   text-transform: none;
 }
 footer ul.quicklinks {
   margin-bottom: 0;
   line-height: 40px;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   text-transform: uppercase;
   text-transform: none;
 }
-ul.social-buttons {
-  margin-bottom: 0;
+
+.custom-social-link{
+    display: inline-block;
 }
-ul.social-buttons li a {
-  display: block;
-  background-color: #222222;
-  height: 40px;
-  width: 40px;
-  border-radius: 100%;
-  font-size: 20px;
-  line-height: 40px;
-  color: white;
-  outline: none;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  transition: all 0.3s;
+.custom-social-link:hover,
+.custom-social-link:focus,
+.custom-social-link:active{
+    text-decoration: none;    
 }
-ul.social-buttons li a:hover,
-ul.social-buttons li a:focus,
-ul.social-buttons li a:active {
-  background-color: #FEC503;
-}
+
 .btn:focus,
 .btn:active,
 .btn.active,
@@ -681,7 +683,7 @@ ul.social-buttons li a:active {
 }
 .portfolio-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: open sans,sans-serif;
   font-style: italic;
   font-size: 16px;
 }
@@ -776,18 +778,7 @@ body {
 #sobre .equipe .foto img { display: block; width: 100%; max-width: 152px; margin: auto; border-radius: 76px; border: solid 3px #3B3C44; }
 #sobre .equipe .nome { font-size: 1.333em; font-weight: bold; line-height: 1.3em; color: #3D3C44;}
 
-#footer { background: #3B3B43; font-size: 16px; line-height: 1.25em; color: #fff; padding: 0 0 60px 0; }
-#footer .header { display: table; width: 100%; margin: 0 0 12px 0; }
-#footer .header > div { display: table-cell; vertical-align: middle; }
-#footer .header .logo { width: 10%; padding: 0 22px 0 0; }
-#footer .header .logo img { display: block; }
-#footer .header .linha { position: relative; }
-#footer .header .linha:after { position: relative; width: 100%; height: 1px; background: #fff; content: ""; display: block; }
-
-@media (max-width: 768px) {
-    #footer .header { display: none;}    
-}
-
+#footer { background: #3B3B43; font-size: 16px; line-height: 1.25em; color: #fff; padding: 10px 0 10px 0; border-top: 1px solid #FFFFFF; }
 #footer .contatos .vcenter {display: inline-block;vertical-align: middle;float: none;}
 #footer .contatos .middle-text {line-height: 2.6em;}
 #footer .noticia { text-align: center; padding: 50px 0 70px 0; }
