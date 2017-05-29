@@ -3,10 +3,10 @@
   <channel>
     <title>Ubots | Blog</title>
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
-    <link>http://localhost:4000/blog/</link>
-    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 May 2017 13:09:59 -0300</pubDate>
-    <lastBuildDate>Mon, 29 May 2017 13:09:59 -0300</lastBuildDate>
+    <link>http://ubots.com.br/blog/</link>
+    <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 29 May 2017 17:43:22 -0300</pubDate>
+    <lastBuildDate>Mon, 29 May 2017 17:43:22 -0300</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
@@ -26,11 +26,13 @@
 &lt;p&gt;Mito! Mesmo com as recentes evoluções a inteligência artificial ainda possui limitações e, por este motivo, os chatbots ainda não podem substituir totalmente o atendimento humano. Além disso, um dos usos mais eficientes da IA é “&lt;a href=&quot;https://www.cbinsights.com/blog/ai-vs-intelligence-augmentation-applications/&quot;&gt;aumentar a Inteligência humana&lt;/a&gt;”, ou seja, a aplicação de inteligência artificial e chatbots nos centros de atendimento será capaz de agilizar o atendimento, respondendo perguntas mais corriqueiras e oferecer mais insumos para os atendentes, provendo uma melhor experiência para o cliente.&lt;/p&gt;
 
 &lt;h3 id=&quot;mito-5-todo-chatbot-é-baseado-em-inteligência-artificial&quot;&gt;Mito 5: Todo chatbot é baseado em inteligência artificial&lt;/h3&gt;
-&lt;p&gt;Como mencionado anteriormente, os chatbots podem ser baseados em inteligência artificial mas também podem ser baseados em script. Um chatbot baseado em script é aquele que apresenta uma série de opções para você clicar e após o clique exibe uma resposta. Na &lt;a href=&quot;http://ubots.com.br/&quot;&gt;Ubots&lt;/a&gt;, por exemplo, geralmente os projetos contam com tecnologia híbrida, ou seja, questões simples como&lt;/p&gt;
+&lt;p&gt;Como mencionado anteriormente, os chatbots podem ser baseados em inteligência artificial mas também podem ser baseados em script. Um chatbot baseado em script é aquele que apresenta uma série de opções para você clicar e após o clique exibe uma resposta. Na &lt;a href=&quot;http://ubots.com.br/&quot;&gt;Ubots&lt;/a&gt;, por exemplo, geralmente os projetos contam com tecnologia híbrida, ou seja, questões simples como números de pedido, CPF, etc, são baseadas em script. Já perguntas mais abertas sobre produtos e serviços, podem ser baseadas em inteligência artificial.&lt;/p&gt;
+
+&lt;p&gt;Existem muitos outros mitos sobre os chatbots, mas não pretendemos esgotar todos eles aqui. Até porque, a criatividade humana não tem limites! Se você conhece algum mito que queira discutir, envie pra gente pelos nossos canais online. Quem sabe vira uma nova postagem. :)&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 May 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/blog/chatbots/2017/05/29/mitos-e-verdades-sobre-chatbots.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/chatbots/2017/05/29/mitos-e-verdades-sobre-chatbots.html</guid>
+        <link>http://ubots.com.br/blog/chatbots/2017/05/29/mitos-e-verdades-sobre-chatbots.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/29/mitos-e-verdades-sobre-chatbots.html</guid>
         
         
         <category>chatbots</category>
@@ -52,8 +54,8 @@
 &lt;p&gt;Especializada na criação de chatbots baseados em inteligência artificial, a startup lançada em 2016 desenvolveu uma plataforma própria que agiliza o processo de construção dos atendentes virtuais. A Ubots também foi responsável pela criação do Ben, chatbot da Rede Panvel de farmácias que já está em produção desde outubro de 2016.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 May 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</guid>
+        <link>http://ubots.com.br/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</guid>
         
         
         <category>chatbots</category>
@@ -100,8 +102,8 @@
 &lt;p&gt;Os chatbots são extremamente adaptáveis. Um dos seus benefícios é o fato de estarem disponíveis para os usuários 24 horas por dia, sem interrupção. Quando baseados em inteligência artificial e com o treino adequado, eles são capazes de desempenhar diversas funções de alta relevância, como prestar atendimento a clientes, fornecer informações de forma proativa, dar informações específicas como status de um pedido, data de um show. Enfim, as possibilidades são infinitas e a tendência é se expandir cada vez mais.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 May 2017 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/blog/chatbots/2017/05/08/o-que-sao-chatbots-e-por-que-eles-sao-tendencia.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/chatbots/2017/05/08/o-que-sao-chatbots-e-por-que-eles-sao-tendencia.html</guid>
+        <link>http://ubots.com.br/blog/chatbots/2017/05/08/o-que-sao-chatbots-e-por-que-eles-sao-tendencia.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/08/o-que-sao-chatbots-e-por-que-eles-sao-tendencia.html</guid>
         
         
         <category>chatbots</category>
@@ -143,8 +145,8 @@
 &lt;p&gt;A Ubots, parceira da VTEX e desenvolvedora do chatbot da rede de Farmácias Panvel, desenvolveu uma plataforma de chatbots totalmente integrada ao sistema da VTEX e ao Facebook Messenger. Por meio dessa plataforma, o seu e-commerce possuirá um atendimento automatizado e inteligente alcançando seus clientes onde eles estão. Acompanhamento de status de pedidos, SAC, busca e vendas de produtos são apenas alguns exemplos das opções que você pode disponibilizar através dessa plataforma.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Jan 2017 00:00:00 -0200</pubDate>
-        <link>http://localhost:4000/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</guid>
+        <link>http://ubots.com.br/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</guid>
         
         
         <category>e-commerce</category>
