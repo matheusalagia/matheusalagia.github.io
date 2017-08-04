@@ -3,11 +3,46 @@
   <channel>
     <title>Ubots | Blog</title>
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
-    <link>http://ubots.com.br/blog/</link>
-    <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 19 Jul 2017 11:17:51 -0300</pubDate>
-    <lastBuildDate>Wed, 19 Jul 2017 11:17:51 -0300</lastBuildDate>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 04 Aug 2017 11:36:24 -0300</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2017 11:36:24 -0300</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Como funciona o processamento de linguagem natural nos chatbots</title>
+        <description>&lt;p&gt;Quando conversamos com alguém, fornecemos através da linguagem informações que podem ser compreendidas pelo nosso interlocutor, a partir de um contexto. A forma como as pessoas se comunicam no dia a dia, é uma linguagem natural.&lt;/p&gt;
+
+&lt;p&gt;Partindo para o universo da computação, um dos maiores desafios da ciência é habilitar as máquinas para que elas sejam capazes de interpretar e reagir às informações fornecidas por uma pessoa, de forma natural, como em uma conversa. Esse conhecimento é uma das áreas de inteligência artificial, conhecida como processamento de linguagem natural ou NLP (Natural Language Processing).
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;No post sobre Elementos essenciais para a experiência de um chatbot falamos sobre os estilos de comunicação. Lá mencionamos que uma das possibilidades de comunicação é a interação conversacional. É exatamente nesse ponto que o processamento de linguagem natural reside.&lt;/p&gt;
+
+&lt;h2 id=&quot;como-as-pessoas-acham-que-é&quot;&gt;Como as pessoas acham que é&lt;/h2&gt;
+&lt;p&gt;Puxando para o contexto dos chatbots, há uma certa confusão sobre a capacidade e o limite desse tipo de processamento, que pretendemos esclarecer aqui. Muitas pessoas imaginam que o chatbot será um robô tão inteligente quanto o C3PO (o robô doméstico do Star Wars), capaz de conversar livremente sobre qualquer assunto, a qualquer momento, respondendo inclusive questões sobre a vida, o universo e tudo o mais. Infelizmente, a realidade ainda não permite esse nível de interação. O mais próximo disso que já existe no mercado são os assistentes virtuais, como Alexa (Amazon), Siri (Apple) e Allo (Google). E ainda assim, eles “não vão entender” boa parte do que você disser, porque eles ainda estão aprendendo.&lt;/p&gt;
+
+&lt;h2 id=&quot;como-realmente-funciona&quot;&gt;Como realmente funciona&lt;/h2&gt;
+&lt;p&gt;Como já mencionamos, interpretar linguagem natural é extremamente desafiador. É algo muito complexo, pois além das estruturas linguísticas (frase, sujeito, verbo, etc), existe ambiguidade em um vocabulário muito extenso. Assim, é preciso saber compreender o contexto para identificar o sentido que uma determinada expressão pode ter. Esse contexto conta com diversos fatores, como o assunto que está sendo conversado, o local onde a pessoa se encontra e uma série de outros fatores.&lt;/p&gt;
+
+&lt;p&gt;Para trabalhar com toda essa complexidade, existe uma parte da ciência da computação chamada machine learning. Com essa tecnologia é possível gerar programas que aprendem a se comunicar, sem serem programados explicitamente para isso. Dentro de machine learning existe a deep learning, que permite criar algoritmos que conseguem aprender padrões mais complexos.&lt;/p&gt;
+
+&lt;p&gt;Basicamente, esses sistemas partem de uma coleção de treino, que fornece os dados iniciais para que possam identificar intenções. Quanto mais aprofundada a tecnologia, maior a capacidade da máquina de “fazer o match” entre uma intenção e uma possível resposta, de forma natural. Ou seja, ele usa esse treinamento para construir frases coerentes, que sejam compreendidas por pessoas, como um diálogo natural. As limitações estão justamente na etapa do treino.&lt;/p&gt;
+
+&lt;h2 id=&quot;nlp-em-um-contexto-de-chatbot&quot;&gt;NLP em um contexto de chatbot&lt;/h2&gt;
+&lt;p&gt;Os chatbots desenvolvidos para empresas podem ser baseados em inteligência artificial e utilizar o processamento de linguagem natural. Para isso, é necessário determinar em que contexto o chatbot irá operar. Isso fará parte da etapa de treino, que mencionamos acima. Quanto mais abrangente for, mais demorado e complexo será o desenvolvimento. Ele precisa ser carregado de intenções, ser integrado à bases de dados que contenham as informações que eles precisam para responder aos usuários. Na prática, é necessário que eles sejam treinados, assim como um novo funcionário, para identificar intenções e fornecer as respostas.&lt;/p&gt;
+
+&lt;p&gt;A diferença de um chatbot baseado em script para um chatbot baseado em processamento de linguagem natural, é que o primeiro irá ter um menu de opções e a partir da seleção, dará uma resposta pré-configurada, podendo seguir um fluxo padrão. Já o segundo irá buscar a resposta mais coerente a partir da interpretação da mensagem do usuário, como em uma conversa. Isso significa que ele não irá seguir um fluxo padrão, pois pode ocorrer de um usuário fazer uma pergunta que exigirá ao bot solicitar uma nova informação para continuar e outro pode entrar e já fornecer toda a informação necessária, quebrando o script.&lt;/p&gt;
+
+&lt;p&gt;Esse entendimento é de extrema importância! Muitos projetos de chatbot falham por falta de clareza quanto a esse processo. Uma das coisas mais desagradáveis é obrigar um cliente a interagir com um robô que obriga ele a seguir um fluxo, ignorando todas as informações já passadas, como ocorre em alguns call centers por aí. A tecnologia deve facilitar a vida dos usuários e otimizar os processos das empresas. Afinal, espera-se dos robôs no mínimo que sejam eficientes e capazes de solucionar problemas, aumentando a satisfação dos usuários.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Aug 2017 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/blog/chatbots/2017/08/04/como-funciona-o-processamento-de-linguagem-natural-nos-chatbots.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chatbots/2017/08/04/como-funciona-o-processamento-de-linguagem-natural-nos-chatbots.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>Como preparar sua equipe de atendimento para a adoção de chatbots</title>
@@ -26,8 +61,8 @@
 &lt;p&gt;Pesquisa recente realizada pelo CIP (Centro Integrado de Pesquisa - PUCPR) revela que apenas 60% das empresas disponibilizam comunicação por chat no Brasil. No entanto, a mesma pesquisa revela que esse foi o canal que teve o maior crescimento no último ano 34,1% e é o preferido pela perspectiva dos consumidores pela sua eficiência na solução de problemas. Assim, investir na preparação do seu time para adotar o uso desse canal com eficiência pode ser o divisor de águas para sua empresa ampliar a qualidade do serviço. Ao mesmo tempo em que o uso do chatbot poderá acelerar o atendimento resolvendo em tempo real as questões mais corriqueiras.&lt;/p&gt;
 </description>
         <pubDate>Wed, 19 Jul 2017 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/07/19/como-preparar-sua-equipe-de-atendimento-para-a-adocao-de-chatbots.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/07/19/como-preparar-sua-equipe-de-atendimento-para-a-adocao-de-chatbots.html</guid>
+        <link>http://localhost:4000/blog/chatbots/2017/07/19/como-preparar-sua-equipe-de-atendimento-para-a-adocao-de-chatbots.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chatbots/2017/07/19/como-preparar-sua-equipe-de-atendimento-para-a-adocao-de-chatbots.html</guid>
         
         
         <category>chatbots</category>
@@ -66,8 +101,8 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
 &lt;p&gt;E a sua empresa, já está preparada para os desafios que o novo consumidor está impondo?&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Jun 2017 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/06/28/chatbots-para-atendimento-ao-cliente.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/06/28/chatbots-para-atendimento-ao-cliente.html</guid>
+        <link>http://localhost:4000/blog/chatbots/2017/06/28/chatbots-para-atendimento-ao-cliente.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chatbots/2017/06/28/chatbots-para-atendimento-ao-cliente.html</guid>
         
         
         <category>chatbots</category>
@@ -106,8 +141,8 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
 &lt;p&gt;Esses são os aspectos essenciais ao se pensar na UX de um chatbot. Lembrando que essas decisões também são impactadas pela escolha dos canais onde seu bot atuará. Se quiser saber mais sobre como seu bot pode ser planejado, acesse nosso Facebook e comente. Quem sabe sua dúvida vira um novo post.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 May 2017 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/05/29/elementos-essenciais-para-a-experiencia-de-um-chatbot.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/29/elementos-essenciais-para-a-experiencia-de-um-chatbot.html</guid>
+        <link>http://localhost:4000/blog/chatbots/2017/05/29/elementos-essenciais-para-a-experiencia-de-um-chatbot.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chatbots/2017/05/29/elementos-essenciais-para-a-experiencia-de-um-chatbot.html</guid>
         
         
         <category>chatbots</category>
@@ -136,8 +171,8 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
 &lt;p&gt;Existem muitos outros mitos sobre os chatbots, mas não pretendemos esgotar todos eles aqui. Até porque, a criatividade humana não tem limites! Se você conhece algum mito que queira discutir, envie pra gente pelos nossos canais online. Quem sabe vira uma nova postagem. :)&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 May 2017 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/05/29/mitos-e-verdades-sobre-chatbots.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/29/mitos-e-verdades-sobre-chatbots.html</guid>
+        <link>http://localhost:4000/blog/chatbots/2017/05/29/mitos-e-verdades-sobre-chatbots.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chatbots/2017/05/29/mitos-e-verdades-sobre-chatbots.html</guid>
         
         
         <category>chatbots</category>
@@ -159,8 +194,8 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
 &lt;p&gt;Especializada na criação de chatbots baseados em inteligência artificial, a startup lançada em 2016 desenvolveu uma plataforma própria que agiliza o processo de construção dos atendentes virtuais. A Ubots também foi responsável pela criação do Ben, chatbot da Rede Panvel de farmácias que já está em produção desde outubro de 2016.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 May 2017 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</guid>
+        <link>http://localhost:4000/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</guid>
         
         
         <category>chatbots</category>
@@ -207,8 +242,8 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
 &lt;p&gt;Os chatbots são extremamente adaptáveis. Um dos seus benefícios é o fato de estarem disponíveis para os usuários 24 horas por dia, sem interrupção. Quando baseados em inteligência artificial e com o treino adequado, eles são capazes de desempenhar diversas funções de alta relevância, como prestar atendimento a clientes, fornecer informações de forma proativa, dar informações específicas como status de um pedido, data de um show. Enfim, as possibilidades são infinitas e a tendência é se expandir cada vez mais.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 May 2017 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/05/08/o-que-sao-chatbots-e-por-que-eles-sao-tendencia.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/08/o-que-sao-chatbots-e-por-que-eles-sao-tendencia.html</guid>
+        <link>http://localhost:4000/blog/chatbots/2017/05/08/o-que-sao-chatbots-e-por-que-eles-sao-tendencia.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/chatbots/2017/05/08/o-que-sao-chatbots-e-por-que-eles-sao-tendencia.html</guid>
         
         
         <category>chatbots</category>
@@ -250,8 +285,8 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
 &lt;p&gt;A Ubots, parceira da VTEX e desenvolvedora do chatbot da rede de Farmácias Panvel, desenvolveu uma plataforma de chatbots totalmente integrada ao sistema da VTEX e ao Facebook Messenger. Por meio dessa plataforma, o seu e-commerce possuirá um atendimento automatizado e inteligente alcançando seus clientes onde eles estão. Acompanhamento de status de pedidos, SAC, busca e vendas de produtos são apenas alguns exemplos das opções que você pode disponibilizar através dessa plataforma.&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Jan 2017 00:00:00 -0200</pubDate>
-        <link>http://ubots.com.br/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</guid>
+        <link>http://localhost:4000/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</guid>
         
         
         <category>e-commerce</category>
