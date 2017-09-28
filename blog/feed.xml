@@ -5,9 +5,32 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 04 Sep 2017 17:46:33 -0300</pubDate>
-    <lastBuildDate>Mon, 04 Sep 2017 17:46:33 -0300</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2017 14:31:36 -0300</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2017 14:31:36 -0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>O uso de chatbots em ações de cunho social</title>
+        <description>&lt;p&gt;O uso de chatbots está se expandindo a passos largos, nos mais diversos setores da economia, em nível global. Mas se engana quem pensa que eles são úteis apenas para agilizar processos de atendimento para empresas com fins lucrativos. Recentemente, a Ubots teve a oportunidade de apoiar a Santa Casa de Misericórdia de Porto Alegre, com o desenvolvimento de um chatbot simplificado, encarregado por dar mais informações sobre a campanha de doação de órgãos, promovida pela instituição.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;A fila de espera por um órgão tem aproximadamente 35 mil pessoas e chega a demorar até cinco anos no Brasil. Por mais que esse seja o desejo de uma pessoa, não há outra forma de realizar a doação que não seja através da autorização da família do doador. Existem muitas dúvidas em relação a esse tema, tanto por parte de quem deseja doar quanto por parte da família de alguém que tenha esse desejo. Esse chatbot foi desenvolvido exatamente para servir de elo entre a Santa Casa e os interessados nesse assunto, tirando dúvidas e orientando sobre como ser um doador.&lt;/p&gt;
+
+&lt;p&gt;Segundo Adriana Abad, Assessora de Imprensa da instituição, desde que a divulgação da campanha foi iniciada no Facebook da Santa Casa, diversas pessoas entraram em contato por mensagem questionando como poderiam ser doadores de órgãos. Por isso, a ação via chatbot veio em um momento certo onde as pessoas precisam de informação na hora, sem espera, de uma maneira didática e rápida. O Facebook foi escolhido por ser um canal de massa, de fácil acesso e que a maioria dos internautas já está acostumado a utilizar.&lt;/p&gt;
+
+&lt;p&gt;Com isso, espera-se liberar os atendimentos humanos para outras questões, ao mesmo tempo em que os interessados em doar podem obter a informação desejada em tempo real. O chatbot também servirá como um piloto para a instituição que, após mensurar o desempenho das interações e interesses, pretende expandir o projeto para o agendamento de consultas, bem como outras campanhas.&lt;/p&gt;
+
+&lt;p&gt;Para falar com o chatbot da campanha, basta acessar a página da &lt;a href=&quot;https://www.facebook.com/SantaCasaPortoAlegre&quot;&gt;Santa casa de Misericórdia de Porto Alegre no Facebook&lt;/a&gt; e enviar uma mensagem questionando sobre a doação de órgãos. Tire suas dúvidas e seja um doador você também!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Sep 2017 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2017/09/04/o-uso-de-chatbots-em-acoes-de-cunho-social.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/09/04/o-uso-de-chatbots-em-acoes-de-cunho-social.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>Chatbots para o RH</title>
