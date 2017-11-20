@@ -5,9 +5,69 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 28 Sep 2017 14:31:36 -0300</pubDate>
-    <lastBuildDate>Thu, 28 Sep 2017 14:31:36 -0300</lastBuildDate>
+    <pubDate>Mon, 20 Nov 2017 12:22:08 -0200</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2017 12:22:08 -0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Um resumo da trilha de chatbots do TDC Porto Alegre 2017</title>
+        <description>&lt;p&gt;No sábado dia 11 de novembro, tive a imensa satisfação de participar do &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilhas&quot;&gt;The Developer’s Conference&lt;/a&gt; Porto Alegre. Fui, juntamente com o &lt;a href=&quot;https://twitter.com/jacksonfdam&quot;&gt;Jackson Mafra&lt;/a&gt;, um dos coordenadores da trilha de &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilha-chatbots-e-interfaces-conversacionais&quot;&gt;Chatbots e Interfaces Conversacionais&lt;/a&gt; onde tivemos a felicidade de contar com excelentes palestras e palestrantes que expuseram um pouco do cenário atual dos chatbots no Brasil.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Posso afirmar que começamos a trilha com o pé direito. O &lt;a href=&quot;https://twitter.com/dcollioni&quot;&gt;Douglas Collioni&lt;/a&gt; mostrou os principais desafios enfrentados pela Superplayer para desenvolver e manter um “chatbot produto”. Para quem não sabe, a ideia da Superplayer de utilizar chatbots para transmitir suas músicas foi tão diferenciada que eles acabaram virando &lt;a href=&quot;https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/mnewlands/2017/03/23/this-brazilian-streaming-music-player-is-challenging-spotify-using-chatbots/&quot;&gt;notícia internacional&lt;/a&gt; por isso.&lt;/p&gt;
+
+&lt;p&gt;O Douglas nos mostrou como foi realizado o piloto do chatbot, que contou com um primeiro &lt;a href=&quot;https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment&quot;&gt;teste manual&lt;/a&gt; no whatsapp, indo para a utilização do chatbot dentro do aplicativo da própria empresa, passando pelo slack e indo até a publicação do &lt;a href=&quot;https://www.messenger.com/t/SuperplayerBR&quot;&gt;bot no messenger&lt;/a&gt;. Achei muito interessante como a junção de duas ferramentas, elasticsearch e wit.ai, foram fundamentais para entregar uma ótima experiência na busca de músicas, artistas e playlists.&lt;/p&gt;
+
+&lt;p&gt;O segundo palestrante mostrou que o altíssimo nível da trilha permaneceria o mesmo durante o dia todo. O &lt;a href=&quot;https://medium.com/@grobelr&quot;&gt;Ricardo Grobel&lt;/a&gt; falou sobre relações entre chatbots e &lt;a href=&quot;https://www.thinkwithgoogle.com/marketing-resources/micro-moments/how-micromoments-are-changing-rules/&quot;&gt;micro-momentos&lt;/a&gt; respondendo a pergunta:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mas se os chatbots estão ai há tanto tempo, porque agora?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ricardo nos mostrou que os chatbots reduzem os passos necessários para as pessoas satisfazerem suas necessidades, criando uma melhor experiência nas interações e que isso está totalmente alinhado com uma recente mudança de comportamento de consumidores usuários da internet. O Ricardo também nos deu dicas sobre o que esperar da plataforma do whatsapp e dos quais são os próximos passos do messenger, mas essas dicas só quem estava lá vai saber!&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&quot;https://www.linkedin.com/in/daiane-novaes-5a2a5484/&quot;&gt;Daiane Novaes&lt;/a&gt; e a &lt;a href=&quot;https://twitter.com/Isafrobreak&quot;&gt;Isabelli Gonçalves&lt;/a&gt; fizeram uma excelente apresentação na qual mostraram que criar um chatbot vai muito além da programação, que o conteúdo provido e o entendimento do contexto é essencial ao sucesso de um bot. As gurias revelaram que não há mágicas, mas sim muito trabalho e inteligência para projetar o bot, entender o contexto do cliente e gerar conteúdo levando uma boa experiência para os chatbots de atendimento ao consumidor. Daiane e Isabelli demonstram que, mesmo em um evento técnico para desenvolvedores, uma visão diferenciada e ampla do problema faz toda diferença!&lt;/p&gt;
+
+&lt;p&gt;Na volta do almoço, ao retornar a sala, me deparo com muitos fios, lâmpadas e chips eletrônicos sobre a mesa. Me pergunto: “O professor pardal vai palestrar?”&lt;/p&gt;
+
+&lt;p&gt;Não! Estava começando a palestra do &lt;a href=&quot;https://twitter.com/bgastaldi&quot;&gt;Bruno Gastaldi&lt;/a&gt; sobre automação Industrial e residencial com chatbots. Não sei se foi proposital, mas o Bruno não deixou o pessoal ter aquela leve sonolência pós almoço fazendo uma das palestras mais interativa do dia. Bruno nos disse que um grande e recente avanço tecnológico está viabilizando, economicamente, a automação residencial. Ele mostrou alguns dados e exemplos mas, o mais incrível, foi poder, no meio da palestra, falar com um Bot no Telegram que acendia e apagava uma lâmpada na mesa do palestrante. Imaginem se os espectadores não tentaram quebrar o chatbot do Bruno de todas as formas.&lt;/p&gt;
+
+&lt;p&gt;Logo após, a &lt;a href=&quot;https://www.linkedin.com/in/cohen-dani&quot;&gt;Danielle Cohen&lt;/a&gt; nos deu uma verdadeira aula sobre indicadores de desempenho para chatbots. Ela falou sobre o famoso “Gatilho de Confusão”, taxa de retenção além de outros indicadores e métricas que devem ser acompanhados em chatbots em produção, sempre contextualizando com a sua experiência no desenvolvimento e acompanhamento de chatbots.&lt;/p&gt;
+
+&lt;p&gt;Na segunda metade da sua apresentação a Danielle mostrou um pouco mais da ferramenta de análise de bots &lt;a href=&quot;https://chatbase.com/&quot;&gt;Chatbase&lt;/a&gt; e, ao final, frisou:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Não adianta ter bot se não sabemos se ele está fazendo um bom trabalho!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Uma breve pausa nas palestras para um provocativo &lt;a href=&quot;http://agiletrendsbr.com/fishbowls/&quot;&gt;Fishbowl&lt;/a&gt; conduzido pelo TDC Rockstar &lt;a href=&quot;https://twitter.com/dwildt&quot;&gt;Daniel Wildt&lt;/a&gt; juntamente comigo e com o Jackson. O Tema principal foi: como desenhar a conversa do seu chatbot.&lt;/p&gt;
+
+&lt;p&gt;Discutimos se os chatbots são realmente uma tendência ou somente um hype, concluo que são uma real tendência, mas devem ser utilizados em problemas nos quais eles trazem uma melhor experiência ao usuário resolvendo um problema real. Conversamos sobre os desafios de IA relacionados aos agentes conversacionais; concluo que a Inteligência Artificial ainda tem bastante a evoluir, mas que não dependemos somente disso para poder criar bons chatbots agora. Também falamos sobre como os papéis e profissões estão se adaptando para a criação de chatbots; entendo que não temos definições claras de papéis, mas temos sim necessidades de pessoas cuidando de UX, conteúdo, treinamento e desenvolvimento dos bots.&lt;/p&gt;
+
+&lt;p&gt;Foram muitos os tópicos abordados e a participação dos palestrantes e espectadores foi enriquecedora.&lt;/p&gt;
+
+&lt;p&gt;A essa hora a trilha já havia superado todas minhas expectativas e então fomos para &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilha-stadium-sabado&quot;&gt;Stadium&lt;/a&gt;. O &lt;a href=&quot;https://twitter.com/maedabr&quot;&gt;Andherson Maeda&lt;/a&gt; impressionou o público com um trabalho de pesquisa no qual ele utilizou Deep Learning para criar um chatbot sem a necessidade de definir regras e padrões manualmente. Ele utilizou, entre outras, as suas próprias conversas do whatsapp para criar um agente conversacional e nos mostrou o quão relevantes e próximos da sua forma de se comunicar foram os resultados.&lt;/p&gt;
+
+&lt;p&gt;O Maeda nos trouxe algumas das maiores novidades em pesquisa na área, um breve histórico sobre o assunto e ainda nos mostrou importantes conceitos, como, por exemplo, a diferenciação acadêmica feita entre chatbots e agentes orientados a tarefas.&lt;/p&gt;
+
+&lt;p&gt;Voltando para nossa trilha e quase no final do dia, a &lt;a href=&quot;https://www.linkedin.com/in/anita-raquel-da-silva-01291520/&quot;&gt;Anita Raquel da Silva&lt;/a&gt; nos apresentou seu belo trabalho utilizando chatbots para melhorar a comunicação com os alunos do &lt;a href=&quot;http://ifrs.edu.br/&quot;&gt;IFRS&lt;/a&gt;. Ela mostrou as possibilidades de utilizar &lt;a href=&quot;http://www.alicebot.org/aiml.html&quot;&gt;AIML&lt;/a&gt; no contexto educacional como ferramenta para suprimir a falta, momentânea, de professores e tutores ajudando alunos a tirar dúvidas e obter conteúdos.&lt;/p&gt;
+
+&lt;p&gt;A troca de informações e dicas durante a palestra da Anita foi incrível! Não se surpreendam se ouvirem falar de uma junção do trabalho dela com a pesquisa do Andherson Maeda somados a comunidade do &lt;a href=&quot;https://moodle.org/?lang=pt_br&quot;&gt;moodle&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para fechar com chave de ouro o meu amigo &lt;a href=&quot;https://twitter.com/mvalvess&quot;&gt;Marcos Alves&lt;/a&gt; juntamente com a &lt;a href=&quot;https://www.linkedin.com/in/%C3%A9thel-de-almeida-ribas-7b4133113/&quot;&gt;Éthel Ribas&lt;/a&gt; realizaram um verdadeiro dueto! Foi excepcional o entrosamento e a forma que os dois encontraram para apresentar os desafios de ambos os lados:  de quem desenvolve e implementa e de quem compra e aplica um chatbot para o atendimento ao consumidor.&lt;/p&gt;
+
+&lt;p&gt;Marcos falou sobre o modelo de concepção, NLP, execução de MVP, tecnologias empregadas e a anatomia de um chatbot, sempre com a Éthel trazendo uma visão de negócios que ia desde a sua “desconfiança” com a proposta, das preocupações do seu time de atendimento chegando ao atual estágio onde o chatbot &lt;a href=&quot;https://www.messenger.com/t/panvelfarmacias&quot;&gt;Ben&lt;/a&gt; a ajuda a ter um dos melhores índices de atendimento ao consumidor do Brasil com redução de custos.&lt;/p&gt;
+
+&lt;p&gt;Esse foi um resumo sobre o que rolou na trilha de chatbots no TDC Porto Alegre de 2017. Meu agradecimento especial a &lt;a href=&quot;https://twitter.com/yarasenger&quot;&gt;Yara Senger&lt;/a&gt; e a toda &lt;a href=&quot;https://twitter.com/TheDevConf&quot;&gt;organização do TDC&lt;/a&gt; pelo espaço concedido e por acreditar na trilha, ao público que prestigiou a trilha, aos palestrantes com os quais eu aprendi muito e ao &lt;a href=&quot;https://twitter.com/jacksonfdam&quot;&gt;Jackson Mafra&lt;/a&gt; que foi mais do que fundamental para a organização e o sucesso da trilha.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Nov 2017 00:00:00 -0200</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2017/11/20/um-resumo-da-trilha-de-chatbots-do-tdc-porto-alegre-2017.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/11/20/um-resumo-da-trilha-de-chatbots-do-tdc-porto-alegre-2017.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>O uso de chatbots em ações de cunho social</title>
@@ -296,49 +356,6 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
         
         
         <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>Chatbots para impulsionar as vendas no e-commerce</title>
-        <description>&lt;p&gt;José, 24 anos, acaba de comprar um perfume no seu e-commerce favorito, ao final da compra, seleciona a opção de receber informações sobre a situação do pedido pelo Facebook Messenger. Dois dias depois ele recebe uma mensagem do Facebook Messenger, no seu celular, avisando que o seu pedido encontra-se com a transportadora e chegará em mais um dia. José agradece e aproveita para perguntar se a empresa possui uma colônia pós barba, o “atendente” responde que infelizmente não possui o produto em estoque, mas avisará assim que o produto estiver disponível.&lt;/p&gt;
-
-&lt;p&gt;José agradece novamente e, ao final, fica sabendo que quem estava do outro lado da conversa não era um humano e sim um “chatbot”.&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Há um tempo plataformas de mensagens como o Facebook Messenger, Skype e Telegram eram responsáveis, unicamente, por intermediar conversas entre usuários humanos. As recentes evoluções em Inteligência Artificial e a criação de plataformas em torno desses aplicativos são os principais combustíveis para a ascensão dos chatbots.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Chatbots são softwares que utilizam inteligência artificial para conversar com pessoas através de aplicativos de mensagens.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Chatbots podem, por exemplo, disponibilizar produtos e serviços através de conversas e possuem potencial para ser o próximo grande passo na evolução das interações na internet.&lt;/p&gt;
-
-&lt;p&gt;Em abril de 2016 Mark Zuckerberg, o criador do Facebook, &lt;a href=&quot;http://olhardigital.uol.com.br/pro/noticia/facebook-lanca-plataforma-de-robos-para-o-messenger/57116&quot;&gt;anunciou a plataforma&lt;/a&gt; que possibilita que empresas criem seus próprios chatbots e softwares atrelados ao Facebook Messenger. Entre outras afirmações, Zuckerberg disse: “você deveria ser capaz de enviar uma mensagem para uma empresa da mesma forma que envia a um amigo” e ainda afirmou: “você nunca mais terá de ligar para um call center”.&lt;/p&gt;
-
-&lt;p&gt;Em maio de 2016, logo após o lançamento, a plataforma do Messenger já contava com &lt;a href=&quot;http://g1.globo.com/tecnologia/noticia/2016/07/facebook-ja-tem-11-mil-robos-batendo-papo-no-messenger.html&quot;&gt;mais de 11 mil chatbots registrados&lt;/a&gt; e, desde então, vem sofrendo constantes evoluções para se tornar uma forma completa de interação entre as empresas e seus consumidores.&lt;/p&gt;
-
-&lt;p&gt;De acordo com o relatório da &lt;a href=&quot;http://www.kpcb.com/internet-trends&quot;&gt;KBPC sobre tendências da internet&lt;/a&gt;, os aplicativos de mensagem já ultrapassaram as mídias sociais como método preferido de comunicação da Geração Y (geração das pessoas que nasceram após os anos 80).&lt;/p&gt;
-
-&lt;p&gt;As gigantes empresas americanas de tecnologia como Google, Microsoft, Apple, IBM e Facebook estão conduzindo grandes avanços nas áreas de inteligência artificial e computação cognitiva. Essas empresas estão produzindo novos produtos e tecnologias a cada dia, além de estarem, constantemente, realizando aquisições de empresas menores que possuem inovações relevantes na área.&lt;/p&gt;
-
-&lt;p&gt;Outras empresas de diversos setores e portes já estão tirando proveito de todos esses avanços e utilizando chatbots no Messenger para melhorar a comunicação com  seus clientes. Como são os casos do Banco Original, Vivo, CNN por exemplo.&lt;/p&gt;
-
-&lt;p&gt;Algumas empresas de e-commerce também estão atentas a essa nova oportunidade e já lançaram os seus chatbots, a americana &lt;a href=&quot;http://digiday.com/brands/two-months-1-800-flowers-facebook-bot-working&quot;&gt;1-800 flowers&lt;/a&gt; (venda de flores), a europeia &lt;a href=&quot;https://www.skyscanner.net/news/tools/skyscanner-facebook-messenger-bot/&quot;&gt;Skyscanner&lt;/a&gt; (um dos principais sites de pesquisa de viagens do mundo) e a Panvel Farmácias (maior rede do sul do país) são exemplos disso. Segundo Chris McCann, presidente da 1-800 Flowers, após apenas alguns meses, mais de 70% das compras feitas pelo chatbot foi de novos clientes. Já Éthel Ribas, uma das responsáveis pelo serviço de atendimento ao cliente da Panvel Farmácias, relata que, em menos de 3 meses, houve uma perceptível melhora na qualidade e, principalmente, na capacidade do atendimento sem aumentar os custos operacionais.&lt;/p&gt;
-
-&lt;p&gt;Segundo uma &lt;a href=&quot;http://www.abcomm.org/pesquisa-atendimento-no-ecommerce.php&quot;&gt;recente pesquisa&lt;/a&gt; da Associação Brasileira de Comércio Eletrônico (ABCom) 73% dos consumidores preferem falar com a empresa por um chat. No entanto, apesar deste alto índice, menos da metade das lojas estão utilizando essa ferramenta e algumas delas ainda escondem essa informação ao invés de colocá-la em destaque.&lt;/p&gt;
-
-&lt;p&gt;As empresas de e-commerce devem se preparar para essa nova realidade e potencializar o atendimento aos clientes utilizando as plataformas de mensagens, especialmente o Facebook Messenger, como um novo canal automatizado e inteligente de SAC e vendas.&lt;/p&gt;
-
-&lt;p&gt;Se a sua empresa utiliza o &lt;a href=&quot;http://e-commerce.vtex.com/10-motivos-para-escolher-a-plataforma-de-e-commerce-vtex&quot;&gt;sistema de e-commerce da VTEX&lt;/a&gt;, saiba que já pode contar com um chatbot no Facebook Messenger.&lt;/p&gt;
-
-&lt;p&gt;A Ubots, parceira da VTEX e desenvolvedora do chatbot da rede de Farmácias Panvel, desenvolveu uma plataforma de chatbots totalmente integrada ao sistema da VTEX e ao Facebook Messenger. Por meio dessa plataforma, o seu e-commerce possuirá um atendimento automatizado e inteligente alcançando seus clientes onde eles estão. Acompanhamento de status de pedidos, SAC, busca e vendas de produtos são apenas alguns exemplos das opções que você pode disponibilizar através dessa plataforma.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 Jan 2017 00:00:00 -0200</pubDate>
-        <link>http://ubots.com.br/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/e-commerce/2017/01/04/chatbots-para-impulsionar-as-vendas-no-e-commerce.html</guid>
-        
-        
-        <category>e-commerce</category>
         
       </item>
     
