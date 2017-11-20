@@ -5,9 +5,9 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Nov 2017 12:49:08 -0200</pubDate>
-    <lastBuildDate>Mon, 20 Nov 2017 12:49:08 -0200</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Mon, 20 Nov 2017 18:32:50 -0200</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2017 18:32:50 -0200</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Um resumo da trilha de chatbots do TDC Porto Alegre 2017</title>
@@ -50,7 +50,7 @@
 
 &lt;p&gt;O Maeda nos trouxe algumas das maiores novidades em pesquisa na área, um breve histórico sobre o assunto e ainda nos mostrou importantes conceitos, como, por exemplo, a diferenciação acadêmica feita entre chatbots e agentes orientados a tarefas.&lt;/p&gt;
 
-&lt;p&gt;Voltando para nossa trilha e quase no final do dia, a &lt;a href=&quot;https://www.linkedin.com/in/anita-raquel-da-silva-01291520/&quot;&gt;Anita Raquel da Silva&lt;/a&gt; nos apresentou seu belo trabalho utilizando chatbots para melhorar a comunicação com os alunos do &lt;a href=&quot;http://ifrs.edu.br/&quot;&gt;IFRS&lt;/a&gt;. Ela mostrou as possibilidades de utilizar &lt;a href=&quot;http://www.alicebot.org/aiml.html&quot;&gt;AIML&lt;/a&gt; no contexto educacional como ferramenta para suprimir a falta, momentânea, de professores e tutores ajudando alunos a tirar dúvidas e obter conteúdos.&lt;/p&gt;
+&lt;p&gt;Voltando para nossa trilha e quase no final do dia, a &lt;a href=&quot;https://www.linkedin.com/in/anita-raquel-da-silva-01291520/&quot;&gt;Anita Raquel da Silva&lt;/a&gt; nos apresentou seu belo trabalho utilizando chatbots para melhorar a comunicação com os alunos do UFRGS. Ela mostrou as possibilidades de utilizar &lt;a href=&quot;http://www.alicebot.org/aiml.html&quot;&gt;AIML&lt;/a&gt; no contexto educacional como ferramenta para suprimir a falta, momentânea, de professores e tutores ajudando alunos a tirar dúvidas e obter conteúdos.&lt;/p&gt;
 
 &lt;p&gt;A troca de informações e dicas durante a palestra da Anita foi incrível! Não se surpreendam se ouvirem falar de uma junção do trabalho dela com a pesquisa do Andherson Maeda somados a comunidade do &lt;a href=&quot;https://moodle.org/?lang=pt_br&quot;&gt;moodle&lt;/a&gt;.&lt;/p&gt;
 
@@ -127,7 +127,7 @@
 
 &lt;p&gt;No post sobre &lt;a href=&quot;http://ubots.com.br/blog/chatbots/2017/05/29/elementos-essenciais-para-a-experiencia-de-um-chatbot.html&quot;&gt;Elementos essenciais para a experiência de um chatbot&lt;/a&gt; falamos sobre os estilos de comunicação. Lá mencionamos que uma das possibilidades de comunicação é a interação conversacional. É exatamente nesse ponto que o processamento de linguagem natural reside.&lt;/p&gt;
 
-&lt;h2 id=&quot;como-as-pessoas-acham-que-&quot;&gt;Como as pessoas acham que é&lt;/h2&gt;
+&lt;h2 id=&quot;como-as-pessoas-acham-que-é&quot;&gt;Como as pessoas acham que é&lt;/h2&gt;
 &lt;p&gt;Puxando para o contexto dos chatbots, há uma certa confusão sobre a capacidade e o limite desse tipo de processamento, que pretendemos esclarecer aqui. Muitas pessoas imaginam que o chatbot será um robô tão inteligente quanto o C3PO (o robô doméstico do Star Wars), capaz de conversar livremente sobre qualquer assunto, a qualquer momento, respondendo inclusive questões sobre a vida, o universo e tudo o mais. Infelizmente, a realidade ainda não permite esse nível de interação. O mais próximo disso que já existe no mercado são os assistentes virtuais, como Alexa (Amazon), Siri (Apple) e Allo (Google). E ainda assim, eles “não vão entender” boa parte do que você disser, porque eles ainda estão aprendendo.&lt;/p&gt;
 
 &lt;h2 id=&quot;como-realmente-funciona&quot;&gt;Como realmente funciona&lt;/h2&gt;
@@ -157,12 +157,12 @@
         <title>Como preparar sua equipe de atendimento para a adoção de chatbots</title>
         <description>&lt;p&gt;Seguidamente ouvimos pessoas questionando o que ocorrerá com os empregos dos atendentes com a popularização dos chatbots. Não somos especialistas em RH, mas estamos sempre em busca de conhecimento em relação a comportamento e transições de mercado, para compreender os impactos da tecnologia que desenvolvemos. O que estamos observando é uma transferência de responsabilidades. O que é mais básico e repetitivo, está passando a ser atendido pelos chatbots. Já o que é mais complexo, continua sendo objeto de atenção dos atendentes.&lt;!--more--&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;mudana-de-paradigma&quot;&gt;Mudança de paradigma&lt;/h2&gt;
+&lt;h2 id=&quot;mudança-de-paradigma&quot;&gt;Mudança de paradigma&lt;/h2&gt;
 &lt;p&gt;Engana-se quem pensa que o chatbot é um ser autônomo que simplesmente absorverá todas as informações contidas em uma base de dados e sairá de lá respondendo questões relacionadas à vida, o universo e tudo o mais. Ele depende de pessoas para construir conversas, treiná-lo e retreiná-lo incansavelmente, para que a experiência oferecida ao consumidor seja adequada às expectativas. &lt;strong&gt;Com isso, está havendo uma transição na qual as pessoas passam a focar no desenvolvimento de conteúdos.&lt;/strong&gt; Essa atuação amplia-se numa esfera de curadoria, capaz de adaptar a comunicação do bot.&lt;/p&gt;
 
 &lt;p&gt;Os atendentes de hoje mais do que ninguém sabem como os clientes se comportam. Que linguagem utilizam, como gostam de ser tratados. Muitas vezes, ficam frustrados ao terem que seguir um script “robotizado”, que gera insatisfação no cliente. Essas pessoas serão a mente por trás bot, que executará as atividades mais simples dando liberdade para que elas possam realizar atividades mais complexas e relevantes para a organização.&lt;/p&gt;
 
-&lt;h2 id=&quot;como-preparar-sua-equipe-para-essa-transio&quot;&gt;Como preparar sua equipe para essa transição&lt;/h2&gt;
+&lt;h2 id=&quot;como-preparar-sua-equipe-para-essa-transição&quot;&gt;Como preparar sua equipe para essa transição&lt;/h2&gt;
 &lt;p&gt;Antes de tudo, é importante destacar que a tecnologia não é uma inimiga mas sim uma aliada dos processos. Passamos um terço do nosso dia no ambiente de trabalho. É frustrante e desmotivador para qualquer pessoa realizar um trabalho repetitivo e muitas vezes criticado.&lt;/p&gt;
 
 &lt;p&gt;Assim, um bom passo é ir preparando as pessoas da sua empresa para ter uma visão mais analítica. Investir em capacitações relacionadas à redação de conteúdos para web também pode ser um bom ponto de partida.&lt;/p&gt;
@@ -262,19 +262,19 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
         <title>Mitos e verdades sobre chatbots</title>
         <description>&lt;p&gt;Com a crescente atenção da mídia e interesse público sobre o tema, ganha força uma série de mitos sobre a realidade dos chatbots. Alguns deles até são possíveis no futuro, mas ainda não são uma realidade. Para desmistificar esse assunto vamos listar alguns dos principais mitos e explicar, como funcionam realmente os chatbots.&lt;!--more--&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;mito-1-chatbots-tm-capacidade-ilimitada&quot;&gt;Mito 1: Chatbots têm capacidade ilimitada&lt;/h3&gt;
+&lt;h3 id=&quot;mito-1-chatbots-têm-capacidade-ilimitada&quot;&gt;Mito 1: Chatbots têm capacidade ilimitada&lt;/h3&gt;
 &lt;p&gt;Já falamos sobre isso em um dos nossos &lt;a href=&quot;https://www.youtube.com/channel/UClPuz0n1vWrEk0RI0fsv9Ng&quot;&gt;vídeos&lt;/a&gt;. Muitos acham que o chatbot é uma máquina que uma vez ligada aprenderá tudo à medida que conversa com as pessoas até o ponto em que ganhará vida própria. Desculpe a decepção, mas (ao menos por enquanto) isso é apenas um enredo de filmes de ficção científica. Os chatbots são robôs virtuais capazes de interpretar perguntas e resolver problemas recorrentes, utilizando uma linguagem conversacional. Seu treinamento depende do registro de perguntas e respostas em uma base de dados, na qual ele será programado para realizar algumas combinações possíveis.&lt;/p&gt;
 
-&lt;h3 id=&quot;mito-2-chatbots-so-faq&quot;&gt;Mito 2: Chatbots são FAQ&lt;/h3&gt;
+&lt;h3 id=&quot;mito-2-chatbots-são-faq&quot;&gt;Mito 2: Chatbots são FAQ&lt;/h3&gt;
 &lt;p&gt;Esse é outro mito que chega a entristecer os chatbots! Se eles não são a inteligência mais avançada do universo, limitar seu uso para uma simples FAQ também está incorreto. Nas FAQs as pessoas clicam em perguntas já cadastradas e lêem respostas, igualmente cadastradas. Um chatbot pode ser programado para agir dessa forma? Pode! É o que chamamos de respostas baseadas em script. No entanto, seu potencial permite mais do que isso. Ao usar uma linguagem natural, ele absorve as perguntas dos usuários para escolher a melhor resposta.&lt;/p&gt;
 
-&lt;h3 id=&quot;mito-3-chatbots-e-assistente-virtuais-so-a-mesma-coisa&quot;&gt;Mito 3: Chatbots e Assistente virtuais são a mesma coisa&lt;/h3&gt;
+&lt;h3 id=&quot;mito-3-chatbots-e-assistente-virtuais-são-a-mesma-coisa&quot;&gt;Mito 3: Chatbots e Assistente virtuais são a mesma coisa&lt;/h3&gt;
 &lt;p&gt;Existem algumas linhas que diferenciam chatbots de assistentes virtuais. Podemos dizer que os chatbots possuem propósitos mais específicos (atendimento a clientes e compra de passagens aéreas por exemplo) e interação com os usuários via aplicativos de mensagens de texto. Já os assistentes virtuais (como Alexa da Amazon e Siri da Apple) estão mais ligados ao cotidiano de um usuário executando ações e provendo informações em um contexto mais amplo.&lt;/p&gt;
 
-&lt;h3 id=&quot;mito-4-se-uma-empresa-implantar-chatbots-demitir-toda-a-rea-de-atendimento&quot;&gt;Mito 4: Se uma empresa implantar chatbots, demitirá toda a área de atendimento&lt;/h3&gt;
+&lt;h3 id=&quot;mito-4-se-uma-empresa-implantar-chatbots-demitirá-toda-a-área-de-atendimento&quot;&gt;Mito 4: Se uma empresa implantar chatbots, demitirá toda a área de atendimento&lt;/h3&gt;
 &lt;p&gt;Mito! Mesmo com as recentes evoluções a inteligência artificial ainda possui limitações e, por este motivo, os chatbots ainda não podem substituir totalmente o atendimento humano. Além disso, um dos usos mais eficientes da IA é “&lt;a href=&quot;https://www.cbinsights.com/blog/ai-vs-intelligence-augmentation-applications/&quot;&gt;aumentar a Inteligência humana&lt;/a&gt;”, ou seja, a aplicação de inteligência artificial e chatbots nos centros de atendimento será capaz de agilizar o atendimento, respondendo perguntas mais corriqueiras e oferecer mais insumos para os atendentes, provendo uma melhor experiência para o cliente.&lt;/p&gt;
 
-&lt;h3 id=&quot;mito-5-todo-chatbot--baseado-em-inteligncia-artificial&quot;&gt;Mito 5: Todo chatbot é baseado em inteligência artificial&lt;/h3&gt;
+&lt;h3 id=&quot;mito-5-todo-chatbot-é-baseado-em-inteligência-artificial&quot;&gt;Mito 5: Todo chatbot é baseado em inteligência artificial&lt;/h3&gt;
 &lt;p&gt;Como mencionado anteriormente, os chatbots podem ser baseados em inteligência artificial mas também podem ser baseados em script. Um chatbot baseado em script é aquele que apresenta uma série de opções para você clicar e após o clique exibe uma resposta. Na &lt;a href=&quot;http://ubots.com.br/&quot;&gt;Ubots&lt;/a&gt;, por exemplo, geralmente os projetos contam com tecnologia híbrida, ou seja, questões simples como números de pedido, CPF, etc, são baseadas em script. Já perguntas mais abertas sobre produtos e serviços, podem ser baseadas em inteligência artificial.&lt;/p&gt;
 
 &lt;p&gt;Existem muitos outros mitos sobre os chatbots, mas não pretendemos esgotar todos eles aqui. Até porque, a criatividade humana não tem limites! Se você conhece algum mito que queira discutir, envie pra gente pelos nossos canais online. Quem sabe vira uma nova postagem. :)&lt;/p&gt;
