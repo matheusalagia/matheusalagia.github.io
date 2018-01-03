@@ -5,9 +5,41 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Nov 2017 18:32:50 -0200</pubDate>
-    <lastBuildDate>Mon, 20 Nov 2017 18:32:50 -0200</lastBuildDate>
+    <pubDate>Wed, 03 Jan 2018 17:22:56 -0200</pubDate>
+    <lastBuildDate>Wed, 03 Jan 2018 17:22:56 -0200</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Venha trabalhar na Ubots!</title>
+        <description>&lt;p&gt;Estamos contratando desenvolvedores backend que saibam escrever um bom código (clean code) e que possuam experiência com desenvolvimento ágil.&lt;/p&gt;
+
+&lt;p&gt;A oportunidade é para trabalhar com Chatbots e produtos de softwares que aplicam inteligência artificial em uma empresa em pleno crescimento.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;O desenvolvedor terá a oportunidade de, entre outras tecnologias, trabalhar com:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Groovy e Java / JVM&lt;/li&gt;
+  &lt;li&gt;AWS&lt;/li&gt;
+  &lt;li&gt;Ansible&lt;/li&gt;
+  &lt;li&gt;Git&lt;/li&gt;
+  &lt;li&gt;Postgresql&lt;/li&gt;
+  &lt;li&gt;Docker&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para esta vaga, ser especialista em frameworks ou linguagens não é importante. O principal é ser um ótimo desenvolvedor. Buscamos profissionais proativos, comprometidos, que tenham disponibilidade e interesse em aprender e se manter atualizados.&lt;/p&gt;
+
+&lt;p&gt;Topa encarar este desafio?
+Envie seu currículo com Github para &lt;a href=&quot;mailto:oportunidades@ubots.com.br&quot;&gt;oportunidades@ubots.com.br&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Jan 2018 00:00:00 -0200</pubDate>
+        <link>http://ubots.com.br/blog/oportunidades/2018/01/03/oportunidade-desenvolvedor-backend.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/oportunidades/2018/01/03/oportunidade-desenvolvedor-backend.html</guid>
+        
+        
+        <category>oportunidades</category>
+        
+      </item>
     
       <item>
         <title>Um resumo da trilha de chatbots do TDC Porto Alegre 2017</title>
@@ -50,7 +82,7 @@
 
 &lt;p&gt;O Maeda nos trouxe algumas das maiores novidades em pesquisa na área, um breve histórico sobre o assunto e ainda nos mostrou importantes conceitos, como, por exemplo, a diferenciação acadêmica feita entre chatbots e agentes orientados a tarefas.&lt;/p&gt;
 
-&lt;p&gt;Voltando para nossa trilha e quase no final do dia, a &lt;a href=&quot;https://www.linkedin.com/in/anita-raquel-da-silva-01291520/&quot;&gt;Anita Raquel da Silva&lt;/a&gt; nos apresentou seu belo trabalho utilizando chatbots para melhorar a comunicação com os alunos do UFRGS. Ela mostrou as possibilidades de utilizar &lt;a href=&quot;http://www.alicebot.org/aiml.html&quot;&gt;AIML&lt;/a&gt; no contexto educacional como ferramenta para suprimir a falta, momentânea, de professores e tutores ajudando alunos a tirar dúvidas e obter conteúdos.&lt;/p&gt;
+&lt;p&gt;Voltando para nossa trilha e quase no final do dia, a &lt;a href=&quot;https://www.linkedin.com/in/anita-raquel-da-silva-01291520/&quot;&gt;Anita Raquel da Silva&lt;/a&gt; nos apresentou seu belo trabalho utilizando chatbots para melhorar a comunicação com os alunos da UFRGS. Ela mostrou as possibilidades de utilizar &lt;a href=&quot;http://www.alicebot.org/aiml.html&quot;&gt;AIML&lt;/a&gt; no contexto educacional como ferramenta para suprimir a falta, momentânea, de professores e tutores ajudando alunos a tirar dúvidas e obter conteúdos.&lt;/p&gt;
 
 &lt;p&gt;A troca de informações e dicas durante a palestra da Anita foi incrível! Não se surpreendam se ouvirem falar de uma junção do trabalho dela com a pesquisa do Andherson Maeda somados a comunidade do &lt;a href=&quot;https://moodle.org/?lang=pt_br&quot;&gt;moodle&lt;/a&gt;.&lt;/p&gt;
 
@@ -305,54 +337,6 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
         <pubDate>Tue, 16 May 2017 00:00:00 -0300</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>O que são chatbots e por que eles são tendência</title>
-        <description>&lt;p&gt;Você deve ter notado, recentemente, um aumento do interesse no entorno de Chatbots. Ao que tudo indica, a adoção dessa tecnologia deve aumentar drasticamente, o que fomenta o grande interesse da mídia. Nos principais veículos, em eventos de todos os portes, lá está o tema presente, despertando interesse e curiosidade.&lt;/p&gt;
-
-&lt;p&gt;Chatbots são softwares desenvolvidos para interagir com pessoas através de aplicativos de chat, como Facebook Messenger, Telegram e outros. Eles podem ser baseados em scripts ou em inteligência artificial, sendo que o último formato permite uma interação mais amigável, como uma conversa.&lt;/p&gt;
-
-&lt;p&gt;De forma simplificada, você está conversando com um Chatbot quando você está utilizando um aplicativo de mensagens e quem está lhe respondendo do outro lado não é um ser humano, e sim, um software.&lt;/p&gt;
-
-&lt;p&gt;Embora o grande interesse nos chatbots seja recente, a tecnologia em si já tem bastante tempo. Para que você possa compreender um pouco melhor essa evolução, vamos voltar no tempo rapidamente.&lt;/p&gt;
-
-&lt;p&gt;Em 1950 Alan Turing, que é considerado o “pai” da informática, publicou pela primeira vez o que hoje é conhecido como &lt;a href=&quot;https://pt.wikipedia.org/wiki/Teste_de_Turing&quot;&gt;Teste de Turing&lt;/a&gt;. De forma simplificada, podemos dizer que o teste avalia a habilidade de um programa de computador se passar por um ser humano, em uma conversação em tempo real.&lt;/p&gt;
-
-&lt;p&gt;No exemplo original, o teste deveria ser executado em uma forma de “jogo” onde um jogador humano (o juiz) conversa com outro humano e com uma máquina. Todos os participantes estão separados uns dos outros. Se o juiz não for capaz de distinguir, com segurança, a máquina do humano, diz-se que a máquina passou no teste.&lt;/p&gt;
-
-&lt;p&gt;Esse teste foi o grande influenciador do desenvolvimento dos chatbots. Nas décadas que sucederam a publicação de Turing, vários pesquisadores criaram Chatbots com o objetivo de passar no Teste de Turing. Os destaques são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;ELIZA:&lt;/strong&gt; considerado o primeiro Chatbot, criado no MIT em 1966 por Joseph Weizenbaum. Esse chatbot usava scripts e correspondência de padrões para entender e responder os usuários. O Script mais famoso criado simulava a conversa com um psicoterapeuta.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;A.L.I.C.E:&lt;/strong&gt; Criada em 1995 e inspirada em ELIZA é um dos mais famosos chatbots. Considera-se que ALICE foi uma evolução de ELIZA.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Com o passar dos anos e a evolução da tecnologia, diversos outros chatbots e  sistemas baseados em conversação começaram a surgir. Dentre os mais recentes destacam-se Watson da IBM, Siri, Cortana, Google Now e Google Allo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mas se, como foi mencionado, os Chatbots não são um conceito novo qual é o motivo por trás dessa verdadeira “revolução dos chatbots”. Por que agora?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Podemos considerar que agora, existe um ambiente muito propício para o crescimento na adoção de Chatbots. Os principais fatores desse ambiente são: o aumento do acesso à internet através de smartphones, o uso massivo de aplicativos de mensagens e a dificuldade que muitas pessoas têm de baixar aplicativos em seus smartphones. Além disso, o chat proporciona retorno imediato (ou quase) enquanto um e-mail pode demorar a ser retornado e uma ligação pode causar stress desnecessário.&lt;/p&gt;
-
-&lt;p&gt;Grandes players de tecnologia vêm apontando para uma tendência de final da fase da internet de mídias sociais e o início da fase dos aplicativos e mensagens. Essa tendência é ratificada por um relatório da &lt;a href=&quot;http://www.businessinsider.com/the-messaging-app-report-2015-11&quot;&gt;Business Insider&lt;/a&gt; que mostra que a quantidade de usuários ativos mensalmente em aplicativos de mensagens ultrapassou a de aplicativos de mídias sociais.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Em resumo, as pessoas estão utilizando mais aplicativos de mensagens do que de mídias sociais.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Outro aspecto importante é que uma verdadeira revolução de Chatbots já foi iniciada e está em curso em um vizinho distante: A China. Lá, o aplicativo de mensagens Wechat possui uma plataforma de chatbots, de extremo sucesso, desde 2013, servindo de referência para outros mercados.&lt;/p&gt;
-
-&lt;p&gt;Os chatbots são extremamente adaptáveis. Um dos seus benefícios é o fato de estarem disponíveis para os usuários 24 horas por dia, sem interrupção. Quando baseados em inteligência artificial e com o treino adequado, eles são capazes de desempenhar diversas funções de alta relevância, como prestar atendimento a clientes, fornecer informações de forma proativa, dar informações específicas como status de um pedido, data de um show. Enfim, as possibilidades são infinitas e a tendência é se expandir cada vez mais.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 May 2017 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/05/08/o-que-sao-chatbots-e-por-que-eles-sao-tendencia.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/08/o-que-sao-chatbots-e-por-que-eles-sao-tendencia.html</guid>
         
         
         <category>chatbots</category>
