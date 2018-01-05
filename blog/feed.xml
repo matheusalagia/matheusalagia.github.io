@@ -5,9 +5,47 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 03 Jan 2018 17:22:56 -0200</pubDate>
-    <lastBuildDate>Wed, 03 Jan 2018 17:22:56 -0200</lastBuildDate>
-    <generator>Jekyll v3.6.2</generator>
+    <pubDate>Fri, 05 Jan 2018 16:16:57 -0200</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2018 16:16:57 -0200</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Como os chatbots podem melhorar a experiência do consumidor?</title>
+        <description>&lt;p&gt;Um consumidor não vai se importar de pagar um pouco mais para uma empresa que reduz seu tempo de compra ao oferecer assistência rápida na escolha de produtos ou no momento de finalizar a compra. Um paciente não se importará de pagar uma taxa a mais para um plano de saúde que prontamente fornece consultas e serviços úteis.&lt;/p&gt;
+
+&lt;p&gt;Os consumidores de hoje não estão apenas comprando um produto ou serviço, eles estão adquirindo uma experiência. E estão dispostos a pagar um preço mais alto pela melhor experiência do cliente.&lt;/p&gt;
+
+&lt;p&gt;Os chatbots estão rompendo com a maneira com que empresas e clientes costumavam interagir e cada vez mais empresas, organizações sem fins lucrativos e governos estão aproveitando a capacidade dos chatbots de fazer a diferença na experiência do consumidor. Embora os chatbots sejam assistentes virtuais, eles estão causando um impacto real. Entenda como:&lt;/p&gt;
+
+&lt;h2 id=&quot;1-oferecendo-uma-experiência-personalizada&quot;&gt;1. Oferecendo uma experiência personalizada&lt;/h2&gt;
+
+&lt;p&gt;Os chatbots podem trabalhar harmoniosamente com o ecossistema da TI e auxiliar as empresas a entregar uma experiência do consumidor personalizada baseada no perfil do cliente, suas solicitações anteriores ou reclamações. A personalização fortalece o consumidor, o que pode fazer com que ele passe de um cliente comum a um cliente fiel.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-tornando-a-conversa-interativa-e-cativante&quot;&gt;2. Tornando a conversa interativa e cativante&lt;/h2&gt;
+
+&lt;p&gt;O Processamento de Linguagem Natural (PLN), o bloco fundador dos chatbots de inteligência artificial conversacional, faz do chatbot um cavalo de tróia que consegue adentrar no contexto da conversa e decodificar sua intenção (positiva ou negativa), permitindo, assim, que a ferramenta responda ao usuário naturalmente como um humano o faria. Curiosamente, o PLN consegue encontrar padrões de sentimentos em um volume de interações com os clientes, o que as empresas podem usar como alavanca para melhorar seus processos e operações.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-tornando-as-entregas-mais-rápidas&quot;&gt;3. Tornando as entregas mais rápidas&lt;/h2&gt;
+
+&lt;p&gt;Chatbots fazem com que as informações e serviços sejam facilmente acessíveis aos consumidores através de qualquer smartphone ou computador. Por exemplo, chatbots bancários como Nina (Suécia), Erica (Bank of America) , Eno (Capital One), Aida (SEB) e Wells Fargo (Wells Fargo) estão auxiliando os clientes de seus respectivos bancos no acesso à informação e na realização de transações bancárias de forma rápida e fácil.&lt;/p&gt;
+
+&lt;p&gt;O chatbot de serviços de saúde, Lark, atua como um instrutor de saúde e dá dicas sobre saúde e atividades físicas para que as pessoas tenham uma vida mais saudável. O chatbot está ajudando as empresas a construir uma equipe de trabalho saudável e as seguradoras a conter reivindicações de seguro de saúde.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-entregando-soluções-rapidamente&quot;&gt;4. Entregando soluções rapidamente&lt;/h2&gt;
+
+&lt;p&gt;A rotatividade de clientes é como um buraco em um recipiente: se não for consertado a tempo, esvaziará o recipiente. Felizmente, os chatbots são uma solução que repara bem este buraco, desde que sua conversação seja inspirada atentamente. Desenvolvedores e designers de chatbots precisam aprender sobre satisfação dos clientes e rotatividade, além de entender os prós e contras do framework de chatbots que utilizam.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Texto traduzido a partir do &lt;a href=&quot;https://chatbotsjournal.com/how-can-chatbot-increase-customer-experience-cx-1db70035403f&quot;&gt;Chatbots Journal&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 05 Jan 2018 00:00:00 -0200</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/01/05/como-chatbots-melhoram-experiencia-do-consumidor.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/01/05/como-chatbots-melhoram-experiencia-do-consumidor.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>Venha trabalhar na Ubots!</title>
@@ -314,29 +352,6 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
         <pubDate>Mon, 29 May 2017 00:00:00 -0300</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2017/05/29/mitos-e-verdades-sobre-chatbots.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/29/mitos-e-verdades-sobre-chatbots.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>Superdigital adota o uso de chatbot</title>
-        <description>&lt;p&gt;Desde a última terça (9), usuários da &lt;a href=&quot;https://www.superdigital.com.br&quot;&gt;Superdigital&lt;/a&gt;, plataforma recém lançada pelo &lt;a href=&quot;https://www.santander.com.br&quot;&gt;Santander&lt;/a&gt;, contam com o apoio de um chatbot de atendimento. Baseado em inteligência artificial e linguagem natural, o bot é capaz de resolver algumas das principais dúvidas dos usuários, de forma integrada através do site e aplicativos móveis.&lt;/p&gt;
-
-&lt;p&gt;Desenvolvido pela Ubots em conjunto com o time da &lt;a href=&quot;https://www.superdigital.com.br&quot;&gt;Superdigital&lt;/a&gt;, a solução interage em tempo real com os usuários que se cadastram para utilização dos serviços. Após dar as boas-vindas, ele fica disponível e, em caso de interação, busca interpretar a dúvida do usuário fornecendo respostas pré-cadastradas. Caso a pergunta não seja interpretada, ele oferece um menu de opções para que o usuário possa seguir adiante.&lt;/p&gt;
-
-&lt;p&gt;Segundo Marcos Alves, co-fundador da Ubots, os próximos passos serão a integração com os serviços da plataforma, fornecendo mais poder ao bot para resolver problemas de clientes 24 horas por dia, 7 dias por semana.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-plataforma&quot;&gt;A plataforma&lt;/h3&gt;
-&lt;p&gt;A &lt;a href=&quot;https://www.superdigital.com.br&quot;&gt;Superdigital&lt;/a&gt; é uma fintech adquirida  pelo Santander, que promete transformar o jeito como as pessoas trocam dinheiro diariamente. Criada anteriormente como ContaSuper, a plataforma foi relançada no último dia 9 em São Paulo, já contando com 1 milhão de clientes. Por ser integrada ao sistema financeiro nacional, permite que usuários dos principais bancos possam trocar dinheiro entre si, como em uma conversa via chat. Esse é um dos grandes diferenciais da solução, que democratiza os serviços financeiros mesmo para não clientes do banco, com uma série de opções de conveniência.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-ubots&quot;&gt;A Ubots&lt;/h3&gt;
-&lt;p&gt;Especializada na criação de chatbots baseados em inteligência artificial, a startup lançada em 2016 desenvolveu uma plataforma própria que agiliza o processo de construção dos atendentes virtuais. A Ubots também foi responsável pela criação do Ben, chatbot da Rede Panvel de farmácias que já está em produção desde outubro de 2016.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 16 May 2017 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/16/superdigital-adota-uso-de-chatbot.html</guid>
         
         
         <category>chatbots</category>
