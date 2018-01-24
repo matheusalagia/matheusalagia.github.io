@@ -5,9 +5,38 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 17 Jan 2018 11:30:39 -0200</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2018 11:30:39 -0200</lastBuildDate>
+    <pubDate>Wed, 24 Jan 2018 10:38:08 -0200</pubDate>
+    <lastBuildDate>Wed, 24 Jan 2018 10:38:08 -0200</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>As limitações dos chatbots no atendimento ao cliente</title>
+        <description>&lt;p&gt;Chatbots são ótimos e quanto a isso não restam dúvidas. Além de fáceis e divertidos de usar, eles têm se mostrado verdadeiros impulsionadores da mudança no que concerne o setor de atendimento ao cliente. Por serem uma ferramenta de comunicação automatizada, podem trabalhar 24 horas por dia e desafogar o fluxo de mensagens recebidas pelos atendentes das empresas, permitindo que estes concentrem seus esforços em atendimentos mais complexos e específicos.&lt;/p&gt;
+
+&lt;div style=&quot;text-align: justify; padding-bottom: 35px;&quot;&gt;
+Mas nem só de qualidades são feitos estes atendentes virtuais. Toda e qualquer tecnologia criada até hoje passou - e continua passando - por diversas etapas desde sua concepção até sua consolidação. E como não poderia ser diferente, os chatbots ainda estão em fase de desenvolvimento e aprimoramento. Sendo assim, ainda há limitações quanto ao uso destas ferramentas conversacionais.
+&lt;/div&gt;
+
+&lt;p&gt;Uma primeira limitação que pode ser apontada tem relação com o progresso da tecnologia adotada na criação dos chatbots. Embora boa parte dos chatbots utilizem inteligência artificial para adentrar no contexto da conversa e inferir a intenção do usuário (seja ela positiva ou negativa), essa tecnologia ainda é bastante limitada e não permite ao desenvolvedor imprimir no robô a mesma flexibilidade e capacidade analítica do ser humano.&lt;/p&gt;
+
+&lt;p&gt;Por não conseguir simular tais características essenciais da comunicação humana, a comunicação do chatbot tende a ser impessoal e fria. Mesmo que a empresa opte por adotar uma personalidade mais extrovertida na programação de seu robô, este não conseguirá transitar entre as particularidades do diálogo humano, pois ainda lhe falta inteligência para compreender o usuário no que diz respeito às suas expectativas e intenções.&lt;/p&gt;
+
+&lt;p&gt;Essa limitação faz com que os chatbots continuem a ocupar o mesmo status no relacionamento com os clientes por algum tempo ainda: o de assistir o atendimento humanizado, e não substituí-lo completamente.&lt;/p&gt;
+
+&lt;p&gt;Por fim, pode-se dizer que o fato de os chatbots serem uma tecnologia recentemente explorada no serviço de atendimento ao consumidor ainda os torna um grande desconhecido da população geral. Enquanto nos Estados Unidos as inteligências artificias interativas já vêm sendo utilizadas desde a década de 1960 e têm experienciado um grande crescimento no número de empresas que as adotam no suporte ao cliente, ainda há países onde a tecnologia é pouco conhecida, a exemplo da França - onde metade da população nunca ouviu falar de chatbots e apenas 5% das empresas os utilizam.&lt;/p&gt;
+
+&lt;p&gt;Embora as ferramentas conversacionais que fazem uso de inteligência artificial não sejam uma tecnologia recente, foi apenas com a Conferência Anual do Facebook de 2015, quando Mark Zuckerberg anunciou seus planos para a implantação de chatbots via aplicativo Messenger, que passou-se a observar um maior interesse e exploração dos chatbots. E a partir de 2017 constata-se o boom no desenvolvimento de plataformas e APIs para integração de chatbots.&lt;/p&gt;
+
+&lt;p&gt;Há, ainda, um longo caminho a ser trilhado pelos desenvolvedores e designers de chatbots, mas o que se pode afirmar é que estes novos atendentes virtuais chegaram para ficar e revolucionar a interação entre clientes e empresas.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jan 2018 00:00:00 -0200</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/01/24/as-limitacoes-dos-chatbots-no-atendimento-ao-cliente.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/01/24/as-limitacoes-dos-chatbots-no-atendimento-ao-cliente.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>O brasileiro está se tornando um omnishopper</title>
@@ -310,46 +339,6 @@ Como já mencionamos no post sobre &lt;a href=&quot;http://ubots.com.br/blog/cha
         <pubDate>Wed, 28 Jun 2017 00:00:00 -0300</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2017/06/28/chatbots-para-atendimento-ao-cliente.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/06/28/chatbots-para-atendimento-ao-cliente.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>Elementos essenciais para a experiência de um chatbot</title>
-        <description>&lt;p&gt;Os profissionais de marketing e comunicação há anos sabem o grande desafio de se trabalhar com &lt;a href=&quot;http://marketingdeconteudo.com/branding/&quot;&gt;branding&lt;/a&gt;. A gestão de marcas vai muito além da construção de uma identidade visual. E por isso, muitas vezes esses profissionais se sentem frustrados de terem toda estratégia contaminada por problemas que envolvem áreas como atendimento, vendas, etc.&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;As demais áreas, por sua vez, se sentem fortemente pressionadas, pois estimular pessoas a agirem como a personalidade de uma marca, é algo muito desafiador. Fora isso, o comportamento do consumidor mudou. Cada vez menos se aceita atendimentos convencionais com satisfação. Ele quer mais! Esse novo consumidor deseja ter suas necessidades atendidas na hora em que elas surgem, através dos meios nos quais já interage, com rapidez e qualidade.&lt;/p&gt;
-
-&lt;p&gt;Diante desse cenário, os chatbots surgem como uma alternativa de se buscar a tão desejada excelência. Isso porque eles podem ser configurados para ser uma “personificação” da personalidade da marca, aproveitando os investimentos já realizados para essa construção.&lt;/p&gt;
-
-&lt;p&gt;Mas para que isso ocorra, é fundamental contar com uma boa estratégia de UX (user experience). É na hora de elaborar essa estratégia que serão definidos objetivos, linguagem utilizada, fluxos de conversação, etc.&lt;/p&gt;
-
-&lt;h3 id=&quot;vamos-compreender-melhor-cada-uma-dessas-etapas&quot;&gt;Vamos compreender melhor cada uma dessas etapas:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Definição do objetivo:&lt;/strong&gt; Que problema seu chatbot irá resolver? Ele será um suporte, atendimento, vendedor? Como irá se apresentar? É essencial que o bot resolva problemas reais para que não se torne mais um entrave na tentativa do usuário de resolver suas necessidades. Quando ele está disponível apenas para enfeite, surge o que chamamos de “chatobot”.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Funcionalidades:&lt;/strong&gt; Após a definição do objetivo, deve-se mapear as funcionalidades. Para atender determinadas necessidades, que funcionalidades o bot deve ter? Com que sistemas internos ele deverá ser integrado para que consiga obter as respostas necessárias? Como será realizada essa integração?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Fluxos de interação:&lt;/strong&gt; Realizado o mapeamento das necessidades e funcionalidades, são definidos os fluxos de interação. Que respostas serão dadas a partir de determinadas interações? Até onde irá a atuação do bot? Quando será direcionado para uma interação humana e como?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Estilos de comunicação:&lt;/strong&gt; Estilos de comunicação: Nesta etapa, também deve ser definido como será a interação de seu bot com seus usuários. Ela será conversacional (interpretando de forma natural as perguntas a partir dos diferentes assuntos entendidos pelo Bot), será baseada em clique e interações com componentes oferecidos pelos aplicativos de mensagem como botões, menus ou carrosséis, ou será híbrida?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os fluxos mais amigáveis muitas vezes são aqueles que possuem um bom balanceamento entre interações realizadas via texto e as que são feitas através de componentes, tornando possível tanto que seja compreendido o contexto de uma conversa com o usuário, quanto oferecer formas mais objetivas para o usuário interagir com o Chatbot.&lt;/p&gt;
-
-&lt;p&gt;Esses são os aspectos essenciais ao se pensar na UX de um chatbot. Lembrando que essas decisões também são impactadas pela escolha dos canais onde seu bot atuará. Se quiser saber mais sobre como seu bot pode ser planejado, acesse nosso Facebook e comente. Quem sabe sua dúvida vira um novo post.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 May 2017 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/05/29/elementos-essenciais-para-a-experiencia-de-um-chatbot.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/05/29/elementos-essenciais-para-a-experiencia-de-um-chatbot.html</guid>
         
         
         <category>chatbots</category>
