@@ -5,42 +5,31 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Jan 2018 16:26:07 -0200</pubDate>
-    <lastBuildDate>Mon, 29 Jan 2018 16:26:07 -0200</lastBuildDate>
+    <pubDate>Wed, 31 Jan 2018 10:08:08 -0200</pubDate>
+    <lastBuildDate>Wed, 31 Jan 2018 10:08:08 -0200</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
     
       <item>
-        <title>Retrospectiva 2017</title>
-        <description>&lt;p&gt;Crescimento. Se tem uma palavra que pode descrever bem como foi o ano de 2017 para a Ubots é crescimento.&lt;/p&gt;
+        <title>Como os chatbots podem reduzir as reclamações na sua empresa</title>
+        <description>&lt;p&gt;Lidar com as reclamações dos clientes nunca é uma tarefa fácil, nem mesmo para agentes de serviço de atendimento ao consumidor experientes. Clientes insatisfeitos - e até mesmo irritados - demandam atenção e cuidado no atendimento para que sua reclamação seja esclarecida e resolvida e ele retorne a fazer negócios com a empresa. Na maioria dos casos, as reclamações dos clientes são oriundas de serviço/atendimento de má qualidade, ao invés de algum problema ocorrido.&lt;/p&gt;
 
-&lt;p&gt;Nosso segundo ano de atuação foi marcado pelo constante desenvolvimento de novas funcionalidades e o aprimoramento de nossos chatbots. Destacamos, entre os avanços, a integração com o Skype e com os aplicativos de nossos clientes, o lançamento do WebChat, as APIs de integração entre os clientes e a Ubots e o lançamento da nossa plataforma de atendimentos e da interface de treinamento autônomo.&lt;/p&gt;
+&lt;p&gt;Para que se possa reduzir o número de reclamações, é preciso qualificar o serviço ou atendimento e prevenir situações que possam gerar descontentamento. Por exemplo: se um banco experiencia uma falha no funcionamento de seu aplicativo mobile, suas reclamações serão drasticamente reduzidas caso ele informe aos seus clientes sobre o problema antes mesmo que estes possam experienciá-lo também. Se o banco não informar seus clientes de antemão, ao notarem que o aplicativo está com problemas em seu funcionamento, estes irão bombardear os canais de atendimento do banco com reclamações, tornando mais difícil o processo de atendimento delas.&lt;/p&gt;
 
-&lt;p&gt;2017 também foi o ano em que novas empresas #DisseramOlá aos chatbots e confiaram na Ubots para levar inovação e tecnologia aos seus serviços de atendimento. Contar com empresas como Sicredi, Agco, Santa Casa, Nacional, Superdigital e Quanta como clientes só reforça nosso sentimento de que todo nosso trabalho tem rendido grandes frutos e parcerias singulares.&lt;/p&gt;
+&lt;p&gt;Os clientes precisam sentir que não é necessário um esforço muito grande para se comunicar com a empresa. Outros fatores que auxiliam na redução das reclamações de clientes são o tempo de espera em um atendimento, a falha na obtenção de informações corretas, a dificuldade de encontrar soluções para problemas apontados e o difícil e/ou exaustivo acesso aos canais de atendimento ao consumidor.&lt;/p&gt;
 
-&lt;p&gt;Ao longo do ano, tivemos a oportunidade de palestrar em diversos eventos (alguns dos quais mencionamos abaixo), nos quais foi possível não somente relatar nossas experiências e cases de sucesso, como trocar conhecimentos com os mais variados profissionais da área de tecnologia. Tivemos, também, a oportunidade de patrocinar o evento Bot Experience Day, um seminário sobre bots, assistentes pessoais virtuais e inteligência artificial, ocorrido em São Paulo em novembro.&lt;/p&gt;
+&lt;p&gt;E é aí que entram os chatbots como uma alternativa eficaz na diminuição das reclamações contra as empresas. Estes atendentes virtuais estão disponíveis para interagir com os clientes 24 horas por dia, 7 dias por semana, 365 dias no ano. Integrados aos sistemas das empresas e programados de acordo com a personalidade que a empresa quer de transmitir aos seus clientes, os chatbots reduzem o tempo de espera por um atendimento, fornecem informações assertivas e propõem soluções para os problemas apontados pelos usuários.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;TechParty, Faccat (Abril)&lt;/li&gt;
-  &lt;li&gt;IX TELECOMPTEC, Universidade LaSalle (Maio)&lt;/li&gt;
-  &lt;li&gt;5º Salão de Iniciação Científica, Faculdade Senai (Junho)&lt;/li&gt;
-  &lt;li&gt;Conecta, Faculdades Integradas São Judas Tadeu (Outubro)&lt;/li&gt;
-  &lt;li&gt;Meetup de Chatbots, organizado pela Trinca (Outubro)&lt;/li&gt;
-  &lt;li&gt;The Developers Conference (Novembro)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Disponíveis em plataformas de chat integradas aos sites das empresas ou até mesmo em aplicativos de mensagens instantâneas - tais como Facebook Messenger, Telegram, Skype - os chatbots configuram uma ferramenta de fácil acesso aos usuários que querem solucionar problemas, tirar dúvidas, fazer solicitações e até mesmo reclamações.&lt;/p&gt;
 
-&lt;p&gt;Em setembro firmamos uma parceria com a ViaFlow, parceira da IBM há 14 anos, para projetos que envolvam a construção de chatbots com IBM Watson.&lt;/p&gt;
-
-&lt;p&gt;E o mês de novembro estabeleceu um novo marco para a empresa com a nossa mudança de casa. Agora, com um escritório amplo e bem localizado, estamos prontos para receber novos clientes e seguir atendendo nossos clientes com qualidade e comprometimento.&lt;/p&gt;
-
-&lt;p&gt;Em 2018, venha conversar conosco e #DigaOlá aos chatbots!&lt;/p&gt;
+&lt;p&gt;Por agilizarem e facilitarem o processo de interação entre clientes e empresas, os chatbots estão ajudando as empresas a reduzirem o número de reclamações recebidas e aumentar o nível de satisfação dos clientes, somando cada vez mais clientes fieis.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 29 Jan 2018 00:00:00 -0200</pubDate>
-        <link>http://ubots.com.br/blog/institucional/2018/01/29/retrospectiva-2017.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/institucional/2018/01/29/retrospectiva-2017.html</guid>
+        <pubDate>Wed, 31 Jan 2018 00:00:00 -0200</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/01/31/como-chatbots-podem-reduzir-reclamacoes.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/01/31/como-chatbots-podem-reduzir-reclamacoes.html</guid>
         
         
-        <category>institucional</category>
+        <category>chatbots</category>
         
       </item>
     
