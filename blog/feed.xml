@@ -5,9 +5,35 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 31 Jan 2018 10:50:50 -0200</pubDate>
-    <lastBuildDate>Wed, 31 Jan 2018 10:50:50 -0200</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2018 22:52:18 -0200</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2018 22:52:18 -0200</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Chatbot: conheça o novo membro da sua equipe</title>
+        <description>&lt;p&gt;Você já imaginou dividir seu ambiente de trabalho com um robô? Sim, parece algo saído de um filme de ficção científica, mas nem tudo é o que parece e esta é uma realidade mais do que plausível: já é real!&lt;/p&gt;
+
+&lt;p&gt;Mas, calma! Não estamos falando de um robô estruturado para se parecer com um humano… bom, quase isso. Estamos falando dos chatbots, ferramentas conversacionais construídas a partir de inteligência artificial que atuam como atendentes virtuais através de chats e aplicativos de mensagens instantâneas. Embora os chatbots não tenham um corpo simulando a estrutura física humana, eles são programados para interagir em situações de diálogo, resolvendo problemas e disponibilizando informações tal como um humano faria.&lt;/p&gt;
+
+&lt;p&gt;Chatbots baseados em inteligência artificial conseguem responder a uma série de dúvidas e solicitações, filtrando as mensagens recebidas pelos SACs das empresas e agilizando, assim, o atendimento daquelas solicitações mais complexas e específicas - essas, sim, ainda realizadas por atendentes humanos. Eles também têm a capacidade de aprender a partir de exemplos de atendimentos prévios, informações sobre produtos e serviços ou a partir da própria interação com os usuários e seu repertório de atendimento pode estar em constante desenvolvimento através dos retreinos.&lt;/p&gt;
+
+&lt;p&gt;Mas você deve estar se perguntando: se esses robôs são capazes de interagir com as pessoas através dos chats e resolver problemas, as empresas não precisarão mais de atendentes humanos? Isso não é verdade. Os chatbots são, sim, ferramentas automatizadas inteligentes com a habilidade de reconhecer diálogos, aferir intenções a partir deles e disponibilizar informações ou propor soluções a partir delas, mas ainda são uma tecnologia limitada e em fase de desenvolvimento.&lt;/p&gt;
+
+&lt;p&gt;A linguagem humana é muito complexa e cheia de particularidades que somente outro humano é capaz de compreender completamente. Embora as tecnologias de processamento de linguagem natural estejam evoluindo a cada dia, os chatbots ainda são muito limitados neste sentido e, por vezes, não serão capazes de compreender solicitações mais complexas. Nestes casos, a conversa é redirecionada a um atendente humano, que se baseará nas informações previamente obtidas pelo bot para fornecer um atendimento personalizado e mais eficiente.&lt;/p&gt;
+
+&lt;p&gt;Então, diferente daquilo que se imagina, os robôs não estão aqui para substituir os humanos, mas, sim, para nos auxiliar. E cada vez mais se observa a necessidade de tê-los como apoio no serviço de atendimento ao cliente, uma vez que ajudam as empresas a reduzirem gastos, ampliarem sua capacidade de atendimento e resolução de problemas e aumentar o nível de satisfação de seus clientes.&lt;/p&gt;
+
+&lt;p&gt;E a sua empresa, já #DisseOlá aos chatbots?&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Feb 2018 00:00:00 -0200</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/02/06/chatbot-conheca-o-novo-membro-da-sua-equipe.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/02/06/chatbot-conheca-o-novo-membro-da-sua-equipe.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>Como os chatbots podem reduzir as reclamações na sua empresa</title>
@@ -310,41 +336,6 @@ Envie seu currículo com Github para &lt;a href=&quot;mailto:oportunidades@ubots
         <pubDate>Mon, 04 Sep 2017 00:00:00 -0300</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2017/09/04/chatbots-para-o-rh.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/09/04/chatbots-para-o-rh.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>Como funciona o processamento de linguagem natural nos chatbots</title>
-        <description>&lt;p&gt;Quando conversamos com alguém, fornecemos através da linguagem informações que podem ser compreendidas pelo nosso interlocutor, a partir de um contexto. A forma como as pessoas se comunicam no dia a dia, é uma linguagem natural.&lt;/p&gt;
-
-&lt;p&gt;Partindo para o universo da computação, um dos maiores desafios da ciência é habilitar as máquinas para que elas sejam capazes de interpretar e reagir às informações fornecidas por uma pessoa, de forma natural, como em uma conversa. Esse conhecimento é uma das áreas de inteligência artificial, conhecida como processamento de linguagem natural ou NLP (Natural Language Processing).
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;No post sobre &lt;a href=&quot;http://ubots.com.br/blog/chatbots/2017/05/29/elementos-essenciais-para-a-experiencia-de-um-chatbot.html&quot;&gt;Elementos essenciais para a experiência de um chatbot&lt;/a&gt; falamos sobre os estilos de comunicação. Lá mencionamos que uma das possibilidades de comunicação é a interação conversacional. É exatamente nesse ponto que o processamento de linguagem natural reside.&lt;/p&gt;
-
-&lt;h2 id=&quot;como-as-pessoas-acham-que-é&quot;&gt;Como as pessoas acham que é&lt;/h2&gt;
-&lt;p&gt;Puxando para o contexto dos chatbots, há uma certa confusão sobre a capacidade e o limite desse tipo de processamento, que pretendemos esclarecer aqui. Muitas pessoas imaginam que o chatbot será um robô tão inteligente quanto o C3PO (o robô doméstico do Star Wars), capaz de conversar livremente sobre qualquer assunto, a qualquer momento, respondendo inclusive questões sobre a vida, o universo e tudo o mais. Infelizmente, a realidade ainda não permite esse nível de interação. O mais próximo disso que já existe no mercado são os assistentes virtuais, como Alexa (Amazon), Siri (Apple) e Allo (Google). E ainda assim, eles “não vão entender” boa parte do que você disser, porque eles ainda estão aprendendo.&lt;/p&gt;
-
-&lt;h2 id=&quot;como-realmente-funciona&quot;&gt;Como realmente funciona&lt;/h2&gt;
-&lt;p&gt;Como já mencionamos, interpretar linguagem natural é extremamente desafiador. É algo muito complexo, pois além das estruturas linguísticas (frase, sujeito, verbo, etc), existe ambiguidade em um vocabulário muito extenso. Assim, é preciso saber compreender o contexto para identificar o sentido que uma determinada expressão pode ter. Esse contexto conta com diversos fatores, como o assunto que está sendo conversado, o local onde a pessoa se encontra e uma série de outros fatores.&lt;/p&gt;
-
-&lt;p&gt;Para trabalhar com toda essa complexidade, existe uma parte da ciência da computação chamada machine learning. Com essa tecnologia é possível gerar programas que aprendem a se comunicar, sem serem programados explicitamente para isso. Dentro de machine learning existe a deep learning, que permite criar algoritmos que conseguem aprender padrões mais complexos.&lt;/p&gt;
-
-&lt;p&gt;Basicamente, esses sistemas partem de uma coleção de treino, que fornece os dados iniciais para que possam identificar intenções. Quanto mais aprofundada a tecnologia, maior a capacidade da máquina de “fazer o match” entre uma intenção e uma possível resposta, de forma natural. Ou seja, ele usa esse treinamento para construir frases coerentes, que sejam compreendidas por pessoas, como um diálogo natural. As limitações estão justamente na etapa do treino.&lt;/p&gt;
-
-&lt;h2 id=&quot;nlp-em-um-contexto-de-chatbot&quot;&gt;NLP em um contexto de chatbot&lt;/h2&gt;
-&lt;p&gt;Os chatbots desenvolvidos para empresas podem ser baseados em inteligência artificial e utilizar o processamento de linguagem natural. Para isso, é necessário determinar em que contexto o chatbot irá operar. Isso fará parte da etapa de treino, que mencionamos acima. Quanto mais abrangente for, mais demorado e complexo será o desenvolvimento. Ele precisa ser carregado de intenções, ser integrado à bases de dados que contenham as informações que eles precisam para responder aos usuários. Na prática, é necessário que eles sejam treinados, assim como um novo funcionário, para identificar intenções e fornecer as respostas.&lt;/p&gt;
-
-&lt;p&gt;A diferença de um chatbot baseado em script para um chatbot baseado em processamento de linguagem natural, é que o primeiro irá ter um menu de opções e a partir da seleção, dará uma resposta pré-configurada, podendo seguir um fluxo padrão. Já o segundo irá buscar a resposta mais coerente a partir da interpretação da mensagem do usuário, como em uma conversa. Isso significa que ele não irá seguir um fluxo padrão, pois pode ocorrer de um usuário fazer uma pergunta que exigirá ao bot solicitar uma nova informação para continuar e outro pode entrar e já fornecer toda a informação necessária, quebrando o script.&lt;/p&gt;
-
-&lt;p&gt;Esse entendimento é de extrema importância! Muitos projetos de chatbot falham por falta de clareza quanto a esse processo. Uma das coisas mais desagradáveis é obrigar um cliente a interagir com um robô que obriga ele a seguir um fluxo, ignorando todas as informações já passadas, como ocorre em alguns call centers por aí. A tecnologia deve facilitar a vida dos usuários e otimizar os processos das empresas. Afinal, espera-se dos robôs no mínimo que sejam eficientes e capazes de solucionar problemas, aumentando a satisfação dos usuários.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 Aug 2017 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/08/04/como-funciona-o-processamento-de-linguagem-natural-nos-chatbots.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/08/04/como-funciona-o-processamento-de-linguagem-natural-nos-chatbots.html</guid>
         
         
         <category>chatbots</category>
