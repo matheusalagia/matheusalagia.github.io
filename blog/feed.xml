@@ -5,9 +5,34 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 15 Feb 2018 10:51:52 -0200</pubDate>
-    <lastBuildDate>Thu, 15 Feb 2018 10:51:52 -0200</lastBuildDate>
+    <pubDate>Wed, 21 Feb 2018 09:32:54 -0300</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2018 09:32:54 -0300</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Como os chatbots ajudaram a Panvel a melhorar o atendimento</title>
+        <description>&lt;p&gt;Em outubro de 2016, a rede de farmácias Panvel realizou seus primeiros contatos com a Ubots para o desenvolvimento de um chatbot para atendimento no Facebook Messenger. A princípio, a empresa não observava a necessidade da integração de um bot ao serviço de atendimento via Facebook, mas entendia que a estratégia poderia agregar valor ao contato com os clientes e melhorar a qualidade das respostas e soluções oferecidas.&lt;/p&gt;
+
+&lt;p&gt;Num primeiro momento, o chatbot Ben foi programado para atuar em 50% dos atendimentos diários, enquanto os demais 50% eram realizados pela equipe de funcionários da rede. Para surpresa dos gestores, em poucas semanas notou-se uma boa aceitação do bot por parte dos clientes e do setor de operação, assim como uma diminuição significativa no número de respostas dadas pelo atendimento humanizado.&lt;/p&gt;
+
+&lt;p&gt;As primeiras interações realizadas pelo robô davam conta de fornecer informações sobre produtos, saldo de pontos no programa de fidelidade, fazer a adesão no programa e solucionar dúvidas. Com a praticidade e a facilidade de acesso ao robô, observou-se a consolidação da demanda por essas informações através do chat.&lt;/p&gt;
+
+&lt;p&gt;Atualmente, Ben realiza em média 80% dos atendimentos diários via Facebook Messenger, podendo esse número chegar a 90%. Com a integração do bot, houve uma redução no número de funcionários responsáveis pelo atendimentos das solicitações mais específicas e complexas.&lt;/p&gt;
+
+&lt;p&gt;Em 2017, a Panvel recebeu o prêmio Consumidor Moderno de Excelência em Serviços ao Cliente, concedido a nível nacional pelo Centro de Inteligência Padrão (CIP), na categoria Varejo - Farmácias. A Gestora de Relacionamento com o Cliente da Panvel, Éthel de Almeida Ribas, credita à integração do chatbot com o atendimento humanizado no chat do Facebook o recebimento deste prêmio, que é conferido após avaliação quantitativa e qualitativa dos atendimentos.&lt;/p&gt;
+
+&lt;p&gt;“Enquanto empresa, nossas expectativas quanto à inovação são sempre direcionadas à uma matriz de trabalho. Um dos pontos desta matriz determina que a inovação deve proporcionar valor ao cliente, para quem aquele fim se destina. Sempre procuramos oferecer um benefício ao cliente. Este foi o principal fator levado em consideração ao realizar esta parceria.”&lt;/p&gt;
+
+&lt;p&gt;Agora, em 2018, a Panvel segue buscando o aprimoramento de seu chatbot por meio da experiência com o cliente. Atenta às demandas do público, a empresa lançou no início de janeiro o serviço de compra através da ferramenta, ampliando suas opções de relacionamento com o consumidor. “Ouvimos estas necessidades e adaptamos a ferramenta, de acordo com o que nosso consumidor deseja”, explica o gerente de Novos Negócios do Grupo Dimed, Samir Mesquita. O bot, além de informar sobre preços e disponibilidade dos produtos, direciona o usuário durante o processo de compra, oferece opções de frete, pagamento e finaliza a compra dentro da própria interface de chat.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Feb 2018 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/02/21/como-chatbots-ajudaram-a-panvel.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/02/21/como-chatbots-ajudaram-a-panvel.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>As vantagens dos chatbots de inteligência artificial</title>
@@ -300,66 +325,6 @@ Envie seu currículo com Github para &lt;a href=&quot;mailto:oportunidades@ubots
         
         
         <category>oportunidades</category>
-        
-      </item>
-    
-      <item>
-        <title>Um resumo da trilha de chatbots do TDC Porto Alegre 2017</title>
-        <description>&lt;p&gt;No sábado dia 11 de novembro, tive a imensa satisfação de participar do &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilhas&quot;&gt;The Developer’s Conference&lt;/a&gt; Porto Alegre. Fui, juntamente com o &lt;a href=&quot;https://twitter.com/jacksonfdam&quot;&gt;Jackson Mafra&lt;/a&gt;, coordenador da trilha de &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilha-chatbots-e-interfaces-conversacionais&quot;&gt;Chatbots e Interfaces Conversacionais&lt;/a&gt;, onde contamos com excelentes palestras e palestrantes que expuseram um pouco do cenário atual dos chatbots no Brasil.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Posso afirmar que começamos a trilha com o pé direito. O &lt;a href=&quot;https://twitter.com/dcollioni&quot;&gt;Douglas Collioni&lt;/a&gt; mostrou os principais desafios enfrentados pela Superplayer para desenvolver e manter um “chatbot produto”. Para quem não sabe, a ideia da Superplayer de utilizar chatbots para transmitir suas músicas foi tão diferenciada que eles acabaram virando &lt;a href=&quot;https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/mnewlands/2017/03/23/this-brazilian-streaming-music-player-is-challenging-spotify-using-chatbots/&quot;&gt;notícia internacional&lt;/a&gt; por isso.&lt;/p&gt;
-
-&lt;p&gt;O Douglas nos mostrou como foi realizado o piloto do chatbot, que contou com um primeiro &lt;a href=&quot;https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment&quot;&gt;teste manual&lt;/a&gt; no whatsapp, indo para a utilização do chatbot dentro do aplicativo da própria empresa, passando pelo slack e indo até a publicação do &lt;a href=&quot;https://www.messenger.com/t/SuperplayerBR&quot;&gt;bot no messenger&lt;/a&gt;. Achei muito interessante como a junção de duas ferramentas, elasticsearch e wit.ai, foram fundamentais para entregar uma ótima experiência na busca de músicas, artistas e playlists.&lt;/p&gt;
-
-&lt;p&gt;O segundo palestrante mostrou que o altíssimo nível da trilha permaneceria o mesmo durante o dia todo. O &lt;a href=&quot;https://medium.com/@grobelr&quot;&gt;Ricardo Grobel&lt;/a&gt; falou sobre relações entre chatbots e &lt;a href=&quot;https://www.thinkwithgoogle.com/marketing-resources/micro-moments/how-micromoments-are-changing-rules/&quot;&gt;micro-momentos&lt;/a&gt; respondendo a pergunta:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Mas se os chatbots estão ai há tanto tempo, porque agora?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ricardo nos mostrou que os chatbots reduzem os passos necessários para as pessoas satisfazerem suas necessidades, criando uma melhor experiência nas interações e que isso está totalmente alinhado com uma recente mudança de comportamento de consumidores usuários da internet. O Ricardo também nos deu dicas sobre o que esperar da plataforma do whatsapp e dos quais são os próximos passos do messenger, mas essas dicas só quem estava lá vai saber!&lt;/p&gt;
-
-&lt;p&gt;A &lt;a href=&quot;https://www.linkedin.com/in/daiane-novaes-5a2a5484/&quot;&gt;Daiane Novaes&lt;/a&gt; e a &lt;a href=&quot;https://twitter.com/Isafrobreak&quot;&gt;Isabelli Gonçalves&lt;/a&gt; fizeram uma excelente apresentação na qual mostraram que criar um chatbot vai muito além da programação, que o conteúdo provido e o entendimento do contexto é essencial ao sucesso de um bot. As gurias revelaram que não há mágicas, mas sim muito trabalho e inteligência para projetar o bot, entender o contexto do cliente e gerar conteúdo levando uma boa experiência para os chatbots de atendimento ao consumidor. Daiane e Isabelli demonstram que, mesmo em um evento técnico para desenvolvedores, uma visão diferenciada e ampla do problema faz toda diferença!&lt;/p&gt;
-
-&lt;p&gt;Na volta do almoço, ao retornar a sala, me deparo com muitos fios, lâmpadas e chips eletrônicos sobre a mesa. Me pergunto: “O professor pardal vai palestrar?”&lt;/p&gt;
-
-&lt;p&gt;Não! Estava começando a palestra do &lt;a href=&quot;https://twitter.com/bgastaldi&quot;&gt;Bruno Gastaldi&lt;/a&gt; sobre automação Industrial e residencial com chatbots. Não sei se foi proposital, mas o Bruno não deixou o pessoal ter aquela leve sonolência pós almoço fazendo uma das palestras mais interativa do dia. Bruno nos disse que um grande e recente avanço tecnológico está viabilizando, economicamente, a automação residencial. Ele mostrou alguns dados e exemplos mas, o mais incrível, foi poder, no meio da palestra, falar com um Bot no Telegram que acendia e apagava uma lâmpada na mesa do palestrante. Imaginem se os espectadores não tentaram quebrar o chatbot do Bruno de todas as formas.&lt;/p&gt;
-
-&lt;p&gt;Logo após, a &lt;a href=&quot;https://www.linkedin.com/in/cohen-dani&quot;&gt;Danielle Cohen&lt;/a&gt; nos deu uma verdadeira aula sobre indicadores de desempenho para chatbots. Ela falou sobre o famoso “Gatilho de Confusão”, taxa de retenção além de outros indicadores e métricas que devem ser acompanhados em chatbots em produção, sempre contextualizando com a sua experiência no desenvolvimento e acompanhamento de chatbots.&lt;/p&gt;
-
-&lt;p&gt;Na segunda metade da sua apresentação a Danielle mostrou um pouco mais da ferramenta de análise de bots &lt;a href=&quot;https://chatbase.com/&quot;&gt;Chatbase&lt;/a&gt; e, ao final, frisou:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Não adianta ter bot se não sabemos se ele está fazendo um bom trabalho!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Uma breve pausa nas palestras para um provocativo &lt;a href=&quot;http://agiletrendsbr.com/fishbowls/&quot;&gt;Fishbowl&lt;/a&gt; conduzido pelo TDC Rockstar &lt;a href=&quot;https://twitter.com/dwildt&quot;&gt;Daniel Wildt&lt;/a&gt; juntamente comigo e com o Jackson. O Tema principal foi: como desenhar a conversa do seu chatbot.&lt;/p&gt;
-
-&lt;p&gt;Discutimos se os chatbots são realmente uma tendência ou somente um hype, concluo que são uma real tendência, mas devem ser utilizados em problemas nos quais eles trazem uma melhor experiência ao usuário resolvendo um problema real. Conversamos sobre os desafios de IA relacionados aos agentes conversacionais; concluo que a Inteligência Artificial ainda tem bastante a evoluir, mas que não dependemos somente disso para poder criar bons chatbots agora. Também falamos sobre como os papéis e profissões estão se adaptando para a criação de chatbots; entendo que não temos definições claras de papéis, mas temos sim necessidades de pessoas cuidando de UX, conteúdo, treinamento e desenvolvimento dos bots.&lt;/p&gt;
-
-&lt;p&gt;Foram muitos os tópicos abordados e a participação dos palestrantes e espectadores foi enriquecedora.&lt;/p&gt;
-
-&lt;p&gt;A essa hora a trilha já havia superado todas minhas expectativas e então fomos para &lt;a href=&quot;http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilha-stadium-sabado&quot;&gt;Stadium&lt;/a&gt;. O &lt;a href=&quot;https://twitter.com/maedabr&quot;&gt;Andherson Maeda&lt;/a&gt; impressionou o público com um trabalho de pesquisa no qual ele utilizou Deep Learning para criar um chatbot sem a necessidade de definir regras e padrões manualmente. Ele utilizou, entre outras, as suas próprias conversas do whatsapp para criar um agente conversacional e nos mostrou o quão relevantes e próximos da sua forma de se comunicar foram os resultados.&lt;/p&gt;
-
-&lt;p&gt;O Maeda nos trouxe algumas das maiores novidades em pesquisa na área, um breve histórico sobre o assunto e ainda nos mostrou importantes conceitos, como, por exemplo, a diferenciação acadêmica feita entre chatbots e agentes orientados a tarefas.&lt;/p&gt;
-
-&lt;p&gt;Voltando para nossa trilha e quase no final do dia, a &lt;a href=&quot;https://www.linkedin.com/in/anita-raquel-da-silva-01291520/&quot;&gt;Anita Raquel da Silva&lt;/a&gt; nos apresentou seu belo trabalho utilizando chatbots para melhorar a comunicação com os alunos da UFRGS. Ela mostrou as possibilidades de utilizar &lt;a href=&quot;http://www.alicebot.org/aiml.html&quot;&gt;AIML&lt;/a&gt; no contexto educacional como ferramenta para suprimir a falta, momentânea, de professores e tutores ajudando alunos a tirar dúvidas e obter conteúdos.&lt;/p&gt;
-
-&lt;p&gt;A troca de informações e dicas durante a palestra da Anita foi incrível! Não se surpreendam se ouvirem falar de uma junção do trabalho dela com a pesquisa do Andherson Maeda somados a comunidade do &lt;a href=&quot;https://moodle.org/?lang=pt_br&quot;&gt;moodle&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Para fechar com chave de ouro o meu amigo &lt;a href=&quot;https://twitter.com/mvalvess&quot;&gt;Marcos Alves&lt;/a&gt; juntamente com a &lt;a href=&quot;https://www.linkedin.com/in/%C3%A9thel-de-almeida-ribas-7b4133113/&quot;&gt;Éthel Ribas&lt;/a&gt; realizaram um verdadeiro dueto! Foi excepcional o entrosamento e a forma que os dois encontraram para apresentar os desafios de ambos os lados:  de quem desenvolve e implementa e de quem compra e aplica um chatbot para o atendimento ao consumidor.&lt;/p&gt;
-
-&lt;p&gt;Marcos falou sobre o modelo de concepção, NLP, execução de MVP, tecnologias empregadas e a anatomia de um chatbot, sempre com a Éthel trazendo uma visão de negócios que ia desde a sua “desconfiança” com a proposta, das preocupações do seu time de atendimento chegando ao atual estágio onde o chatbot &lt;a href=&quot;https://www.messenger.com/t/panvelfarmacias&quot;&gt;Ben&lt;/a&gt; a ajuda a ter um dos melhores índices de atendimento ao consumidor do Brasil com redução de custos.&lt;/p&gt;
-
-&lt;p&gt;Esse foi um resumo sobre o que rolou na trilha de chatbots no TDC Porto Alegre de 2017. Meu agradecimento especial a &lt;a href=&quot;https://twitter.com/yarasenger&quot;&gt;Yara Senger&lt;/a&gt; e a toda &lt;a href=&quot;https://twitter.com/TheDevConf&quot;&gt;organização do TDC&lt;/a&gt; pelo espaço concedido e por acreditar na trilha, ao público que prestigiou a trilha, aos palestrantes com os quais eu aprendi muito e ao &lt;a href=&quot;https://twitter.com/jacksonfdam&quot;&gt;Jackson Mafra&lt;/a&gt; que foi mais do que fundamental para a organização e o sucesso da trilha.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 Nov 2017 00:00:00 -0200</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2017/11/20/um-resumo-da-trilha-de-chatbots-do-tdc-porto-alegre-2017.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2017/11/20/um-resumo-da-trilha-de-chatbots-do-tdc-porto-alegre-2017.html</guid>
-        
-        
-        <category>chatbots</category>
         
       </item>
     
