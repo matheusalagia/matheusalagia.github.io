@@ -5,9 +5,44 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 21 Mar 2018 10:34:59 -0300</pubDate>
-    <lastBuildDate>Wed, 21 Mar 2018 10:34:59 -0300</lastBuildDate>
+    <pubDate>Wed, 28 Mar 2018 10:54:31 -0300</pubDate>
+    <lastBuildDate>Wed, 28 Mar 2018 10:54:31 -0300</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Gerando leads com seu chatbot</title>
+        <description>&lt;p&gt;Com o passar dos anos o processo de compra mudou drasticamente. Se antes era preciso ir até uma loja física para adquirir um produto ou serviço, hoje basta tirar o celular do bolso e, com alguns passos simples, o produto é adquirido e será entregue na porta de sua casa.&lt;/p&gt;
+
+&lt;p&gt;Com tanta comodidade e praticidade, os consumidores estão se tornando cada vez mais exigentes e as empresas precisam se manter constantemente atualizadas e buscar inovações que as aproximem do público. Meios de publicidade em massa - como o e-mail marketing - já não são tão eficientes na geração de leads como costumavam ser e os comerciantes e empresas precisam estar atentos aos canais onde seu público-alvo costuma interagir no meio online.&lt;/p&gt;
+
+&lt;p&gt;Estatísticas apontam que, a nível mundial, as pessoas passam em média cerca de 2h e 15 minutos por dia em redes sociais e 1,4 bilhão de pessoas acessam o Facebook diariamente. A pesquisa Digital Future Focus Brazil 2015, divulgada pela consultoria comScore mostra que os brasileiros são líderes no tempo gasto nas redes sociais - são 650 horas por mês! Além disso, um estudo conduzido pelo BI Intelligence apontou que os aplicativos de troca de mensagens já são mais usados do que as redes sociais nos smartphones.&lt;/p&gt;
+
+&lt;p&gt;Com o foco do usuário voltado para os apps de mensagens e redes sociais, é de extrema importância que as empresas montem uma estratégia para estas plataformas e desenvolvam uma relação de proximidade com seus clientes. Mas nem sempre é fácil marcar presença nas mídias digitais ou atender ao fluxo de contatos recebidos nas plataformas - como, por exemplo, o Facebook Messenger.&lt;/p&gt;
+
+&lt;p&gt;Neste contexto entram os chatbots.&lt;/p&gt;
+
+&lt;p&gt;Os chatbots podem ser responsáveis por solucionar dúvidas, fornecer informações, detalhar pedidos, realizar cadastros e, até mesmo, vender através de uma única interface. Isso facilita o acesso do cliente às informações e produtos/serviços oferecidos pela marca e gera diversos benefícios para a empresa, como aumento nas vendas, no engajamento com a marca e na geração de leads.&lt;/p&gt;
+
+&lt;p&gt;Quando se trata de geração de leads, uma boa base de dados é tão valiosa quanto ouro. Por vezes, pode ser difícil conseguir dados sobre seus possíveis clientes e suas preferências, mas os bots podem tornar isso simples apenas por conversar brevemente com o cliente. Eles dão conta de inúmeras quantidades de conversas em um curto espaço de tempo e cada conversa se torna uma nova fonte de dados.&lt;/p&gt;
+
+&lt;p&gt;Os bots também podem agir para a nutrição dos leads. Pouco adianta gerar leads e deixá-los de lado. É preciso mantê-los informados e interessados no que a empresa tem a oferecer para que ele venha a se tornar um cliente. Uma pesquisa conduzida nos EUA pela DigitasLBi indica que 59% dos americanos estão dispostos a receber cupons ou ofertas especiais através de um chatbot.&lt;/p&gt;
+
+&lt;p&gt;Além disso, os níveis de retenção de leads são muito maiores quando o contato é feito através de chatbots. Segundo Neil Patel (autor, empresário e profissional de marketing), a média de retenção de leads com o uso de bots gira em torno de 40% a 60%, enquanto a média de aplicativos é de 20% a 40%.&lt;/p&gt;
+
+&lt;p&gt;As interações do robô com os usuários aumentam o engajamento do público com a marca. Por serem uma ferramenta conversacional automatizada, os bots respondem rapidamente e acabam se mostrando acessíveis às demandas dos usuários. Conforme as pessoas interagem com os bots, a confiança e o envolvimento com a marca crescem. Dessa forma seus leads são convertidos em clientes e seus clientes passam a ser promotores da sua marca.&lt;/p&gt;
+
+&lt;p&gt;Quer saber mais sobre como os chatbots podem auxiliar em seu funil de vendas? A Ubots tem as melhores soluções para deixar seu atendimento mais rápido, interativo e personalizado.&lt;/p&gt;
+
+&lt;p&gt;Venha conversar conosco e #DigaOlá aos chatbots!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Mar 2018 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/03/28/gerando-leads-com-seu-chatbot.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/03/28/gerando-leads-com-seu-chatbot.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>Inteligência artificial como aliada na retenção de clientes</title>
@@ -342,53 +377,6 @@ The Developers Conference (Novembro)&lt;/p&gt;
         
         
         <category>institucional</category>
-        
-      </item>
-    
-      <item>
-        <title>WhatsApp for Business chega ao Brasil</title>
-        <description>&lt;p&gt;O WhatsApp, aplicativo de mensagens instantâneas com o mais rápido crescimento do mundo, tem atualmente cerca de 1 bilhão de usuários ativos diariamente trafegando mais de 55 bilhões de mensagens todos os dias. Só no Brasil, um dos países com o maior número de usuários da rede social, o aplicativo atingiu a marca de 120 milhões de usuários em maio de 2017.&lt;/p&gt;
-
-&lt;p&gt;De olho no crescimento exponencial da rede e no uso cada vez maior do aplicativo por parte de pequenas e médias empresas como canal de comunicação com seus consumidores, a Facebook Inc. lançou oficialmente esta semana uma nova ferramenta: o WhatsApp Business - disponível também no Brasil a partir desta quinta-feira (25/01).&lt;/p&gt;
-
-&lt;p&gt;A ferramenta é gratuita e está disponível para download em aparelhos do sistema Android através da Google Play Store. O WhatsApp Business surge para facilitar a comunicação entre empresas e clientes. Com ele é possível automatizar, classificar, analisar e responder as mensagens rapidamente.&lt;/p&gt;
-
-&lt;h2 id=&quot;sobre-o-aplicativo&quot;&gt;Sobre o aplicativo&lt;/h2&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;perfil-comercial&quot;&gt;Perfil comercial&lt;/h3&gt;
-
-&lt;p&gt;Crie um perfil comercial com informações úteis para seus clientes, como seu endereço, descrição da sua empresa, endereço de e-mail e website.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/whatsapp-intro.jpg&quot; style=&quot;width:80%&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;respostas-rápidas&quot;&gt;Respostas Rápidas&lt;/h3&gt;
-
-&lt;p&gt;Com a ferramenta de Respostas Rápidas, você pode salvar mensagens que são enviadas com frequência e reutilizá-las para responder as perguntas recorrentes sem demora.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/whatsapp-business-account.png&quot; style=&quot;width:80%&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;mensagens-automatizadas&quot;&gt;Mensagens automatizadas&lt;/h3&gt;
-
-&lt;p&gt;É possível definir uma mensagem automática para quando não conseguir responder aos seus clientes, assim eles são informados sobre quando receberão uma resposta. Você também pode configurar uma saudação para apresentar sua empresa aos seus clientes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/whatsapp-wab.jpg&quot; style=&quot;width:80%&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;estatísticas-do-fluxo-de-mensagens&quot;&gt;Estatísticas do fluxo de mensagens&lt;/h3&gt;
-
-&lt;p&gt;Para avaliar se a comunicação com os clientes está sendo bem-sucedida, as empresas podem consultar as estatísticas das mensagens. A área de métricas do WhatsApp Business exibe números como o de mensagens lidas para que seja possível identificar pontos a serem melhorados no atendimento.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/img/whatsapp-metricas.png&quot; style=&quot;width:80%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Infelizmente, as diretrizes do WhatsApp ainda não permitem a integração de chatbots na plataforma. O lançamento desta ferramenta pode ser um indicativo de que este poderá ser um próximo passo para a Facebook Inc.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 25 Jan 2018 00:00:00 -0200</pubDate>
-        <link>http://ubots.com.br/blog/tecnologia/2018/01/25/whatsapp-for-business-chega-ao-brasil.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/tecnologia/2018/01/25/whatsapp-for-business-chega-ao-brasil.html</guid>
-        
-        
-        <category>tecnologia</category>
         
       </item>
     
