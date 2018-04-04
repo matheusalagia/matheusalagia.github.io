@@ -5,9 +5,46 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 28 Mar 2018 10:54:31 -0300</pubDate>
-    <lastBuildDate>Wed, 28 Mar 2018 10:54:31 -0300</lastBuildDate>
+    <pubDate>Wed, 04 Apr 2018 10:11:28 -0300</pubDate>
+    <lastBuildDate>Wed, 04 Apr 2018 10:11:28 -0300</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Como construir seu chatbot de atendimento</title>
+        <description>&lt;p&gt;Os chatbots vem ganhando cada vez mais espaço nas centrais de atendimento ao consumidor das empresas. No Brasil, estima-se que em 2017 foram desenvolvidos cerca de 8 mil bots, que trafegam aproximadamente 500 milhões de mensagens a cada mês. Não é de se espantar que cada vez mais empresas apostem nesses robôs atendentes como solução para a melhoria do relacionamento com os clientes, afinal eles são sinônimo de agilidade, produtividade e eficiência.&lt;/p&gt;
+
+&lt;p&gt;Mas você sabe o que deve ser levado em consideração na hora de criar um chatbot e quais são os passos para o seu desenvolvimento?&lt;/p&gt;
+
+&lt;p&gt;Primeiramente, é importante pensar no perfil do seu cliente e na estratégia de comunicação que a sua companhia quer adotar. O objetivo de integrar um chatbot ao atendimento humanizado deve ser sempre o aperfeiçoamento da experiência do consumidor e para alcançá-lo é preciso pensar no todo: a persona que irá atendê-lo, o canal mais adequado para essa interação, a linguagem a ser utilizada e o conjunto de tecnologias.&lt;/p&gt;
+
+&lt;p&gt;Além disso, é necessário seguir alguns passos durante o processo de desenvolvimento de seu chatbot:&lt;/p&gt;
+&lt;h2 id=&quot;definir-um-propósito&quot;&gt;Definir um propósito&lt;/h2&gt;
+
+&lt;p&gt;Estabelecer os tipos de problemas que seu robô será capaz de solucionar, as informações que poderá fornecer em suas conversas, assim como as tarefas que poderá executar (consulta de dados e vendas, por exemplo).&lt;/p&gt;
+
+&lt;h2 id=&quot;atribuir-uma-personalidade-ao-seu-robô&quot;&gt;Atribuir uma personalidade ao seu robô&lt;/h2&gt;
+
+&lt;p&gt;Robôs são comumente associados à frieza e impessoalidade, ainda mais quando se pensa em robôs atendentes virtuais. É importante levar em consideração quais qualidades a empresa considera importante em seus atendentes e utilizá-las como base para conceber a personalidade de seu chatbot. Qual será o tom de suas mensagens? Utilizará uma linguagem mais formal ou informal, podendo incorporar gírias e expressões coloquiais? Atribuir uma personalidade e os valores da empresa ao chatbot garante um aspecto mais humanizado ao atendimento automatizado.&lt;/p&gt;
+
+&lt;h2 id=&quot;definir-o-conteúdo&quot;&gt;Definir o conteúdo&lt;/h2&gt;
+
+&lt;p&gt;Com o propósito de seu bot bem determinado, você precisa estipular quais perguntas e solicitações ele irá responder e, a partir desses dados, simular diálogos e possíveis fluxos para as conversas, algo como uma árvore de decisões. Existem dois tipos de chatbots no mercado: os baseados em inteligência artificial, que aprendem a partir de dados pré-estabelecidos e através das interações com os usuários; e os baseados em script, que seguem um roteiro previamente desenhado para responder às solicitações. Cabe à empresa definir com seu parceiro de tecnologia qual a melhor solução para o seu caso de acordo com seus objetivos e capacidade de investimento.&lt;/p&gt;
+
+&lt;h2 id=&quot;realizar-testes-com-um-piloto&quot;&gt;Realizar testes com um piloto&lt;/h2&gt;
+
+&lt;p&gt;Solicite um protótipo simples que permita realizar ajustes facilmente. Isso possibilitará qualificar o quanto a integração do chatbot será capaz de manter a naturalidade no contato com o cliente, além de avaliar o tempo que a empresa contratada leva para realizar os ajustes necessários.
+Com o piloto disponível, realize o máximo de testes que puder para se assegurar da qualidade do atendimento e se tudo está funcionando adequadamente antes de lançar o bot oficial.&lt;/p&gt;
+
+&lt;p&gt;Os chatbots, aliados ao atendimento humanizado, garantem às empresas diversos benefícios, além da melhora na qualidade e no fluxo de seus atendimentos. Mais do que uma tecnologia já consolidada no presente, os chatbots são uma forte tendência para o futuro no que diz respeito à inovação e ao bom relacionamento entre empresas e pessoas.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Apr 2018 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/04/04/como-construir-seu-chatbot-de-atendimento.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/04/04/como-construir-seu-chatbot-de-atendimento.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>Gerando leads com seu chatbot</title>
@@ -345,38 +382,6 @@ Nesta primeira fase, o bot é responsável por estabelecer uma relação com o u
         
         
         <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>Retrospectiva 2017</title>
-        <description>&lt;p&gt;Crescimento. Se tem uma palavra que pode descrever bem como foi o ano de 2017 para a Ubots é crescimento.&lt;/p&gt;
-
-&lt;p&gt;Nosso segundo ano de atuação foi marcado pelo constante desenvolvimento de novas funcionalidades e o aprimoramento de nossos chatbots. Destacamos, entre os avanços, a integração com o Skype e com os aplicativos de nossos clientes, o lançamento do WebChat, as APIs de integração entre os clientes e a Ubots e o lançamento da nossa plataforma de atendimentos e da interface de treinamento autônomo.&lt;/p&gt;
-
-&lt;p&gt;2017 também foi o ano em que novas empresas #DisseramOlá aos chatbots e confiaram na Ubots para levar inovação e tecnologia aos seus serviços de atendimento. Contar com empresas como Sicredi, Agco, Santa Casa, Nacional, Superdigital e Quanta como clientes só reforça nosso sentimento de que todo nosso trabalho tem rendido grandes frutos e parcerias singulares.&lt;/p&gt;
-
-&lt;p&gt;Ao longo do ano, tivemos a oportunidade de palestrar em diversos eventos (alguns dos quais mencionamos abaixo), nos quais foi possível não somente relatar nossas experiências e cases de sucesso, como trocar conhecimentos com os mais variados profissionais da área de tecnologia. Tivemos, também, a oportunidade de patrocinar o evento Bot Experience Day, um seminário sobre bots, assistentes pessoais virtuais e inteligência artificial, ocorrido em São Paulo em novembro.&lt;/p&gt;
-
-&lt;p&gt;TechParty, Faccat (Abril)
-IX TELECOMPTEC, Universidade LaSalle (Maio)
-5º Salão de Iniciação Científica, Faculdade Senai (Junho)
-Conecta, Faculdades Integradas São Judas Tadeu (Outubro)
-Meetup de Chatbots, organizado pela Trinca (Outubro)
-The Developers Conference (Novembro)&lt;/p&gt;
-
-&lt;p&gt;Em setembro firmamos uma parceria com a ViaFlow, parceira da IBM há 14 anos, para projetos que envolvam a construção de chatbots com IBM Watson.&lt;/p&gt;
-
-&lt;p&gt;E o mês de novembro estabeleceu um novo marco para a empresa com a nossa mudança de casa. Agora, com um escritório amplo e bem localizado, estamos prontos para receber novos clientes e seguir atendendo nossos clientes com qualidade e comprometimento.&lt;/p&gt;
-
-&lt;p&gt;Em 2018, venha conversar conosco e #DigaOlá aos chatbots!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 Jan 2018 00:00:00 -0200</pubDate>
-        <link>http://ubots.com.br/blog/institucional/2018/01/29/retrospectiva-2017.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/institucional/2018/01/29/retrospectiva-2017.html</guid>
-        
-        
-        <category>institucional</category>
         
       </item>
     
