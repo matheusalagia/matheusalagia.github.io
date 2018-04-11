@@ -5,9 +5,50 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 04 Apr 2018 10:11:28 -0300</pubDate>
-    <lastBuildDate>Wed, 04 Apr 2018 10:11:28 -0300</lastBuildDate>
+    <pubDate>Wed, 11 Apr 2018 10:09:43 -0300</pubDate>
+    <lastBuildDate>Wed, 11 Apr 2018 10:09:43 -0300</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Falando sobre computação cognitiva</title>
+        <description>&lt;p&gt;No próximo dia 18 de abril, a Ubots estará presente como apoiadora da trilha de Computação Cognitiva no evento The Developer’s Conference - Florianópolis. Além disso, nosso co-fundador Rafael Souza também será um dos coordenadores desta mesma trilha e, por isso, achamos importante falar aqui no blog um pouco sobre o tema.&lt;/p&gt;
+
+&lt;p&gt;Convidamos você a conhecer um pouco do universo que há por trás da Computação Cognitiva e o que ela tem a ver com chatbots.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-é-computação-cognitiva&quot;&gt;O que é Computação Cognitiva?&lt;/h2&gt;
+
+&lt;p&gt;A computação cognitiva surge da intersecção de duas ciências: a ciência cognitiva - que se propõe a estudar o cérebro humano e seu funcionamento - e a ciência da computação. A computação cognitiva se apoia nos conceitos de inteligência artificial e machine e deep learning para dar início a uma nova era computacional, na qual os sistemas passam a interagir de forma mais natural com os seres humanos através de processamento de linguagem natural, capacidade de aprendizagem e identificação de padrões, de maneira muito semelhante ao raciocínio humano.&lt;/p&gt;
+
+&lt;p&gt;A computação cognitiva é o pilar da 3ª era da computação, considerando que a 1ª era foi representada pelos sistemas de tabulação (1900) e a 2ª era pelos sistemas programáveis (1950). Uma era não vem para substituir a anterior, mas sim para enriquecê-la. Se os sistemas programáveis permitiram que criássemos dados através de processamento de números, a computação cognitiva nos permite compreender estes dados.&lt;/p&gt;
+
+&lt;h2 id=&quot;e-o-que-tem-a-ver-com-chatbots&quot;&gt;E o que tem a ver com chatbots?&lt;/h2&gt;
+
+&lt;p&gt;Simplesmente tudo! Chatbots são sistemas que utilizam computação cognitiva para simular o diálogo humano. Estes assistentes virtuais baseados em inteligência artificial se baseiam em intenções pré-programadas e são capazes de aprender a cada nova interação com os usuários, ampliando cada vez mais seu repertório de comunicação.&lt;/p&gt;
+
+&lt;p&gt;O avanço da computação cognitiva e o aperfeiçoamento das técnicas de machine learning ampliará a capacidade das máquinas de utilizar a linguagem para se comunicar com humanos da forma mais natural e coerente possível. E isso tornará o contato entre pessoas e empresas cada vez mais fácil, rápido e satisfatório.&lt;/p&gt;
+
+&lt;h2 id=&quot;como-ela-pode-ajudar-as-empresas&quot;&gt;Como ela pode ajudar as empresas?&lt;/h2&gt;
+
+&lt;p&gt;Os chatbots representam apenas uma das diversas possibilidades de uso da computação cognitiva nas empresas. Essa tecnologia pode ser uma forte aliada na comunicação tanto com o público externo (clientes) quanto o público interno (funcionários e colaboradores).&lt;/p&gt;
+
+&lt;p&gt;No setor de saúde, por exemplo, a computação cognitiva é capaz de analisar informações médicas de um paciente dentre um vasto banco de dados e conhecimentos especializados para oferecer opções de tratamentos baseadas em evidências e resultados. Futuramente, também será capaz de obter e avaliar dados em tempo real obtidos através de dispositivos inteligentes e wearables, que poderão ser usados na prevenção e detecção de doenças.&lt;/p&gt;
+
+&lt;p&gt;Já na indústria automotiva, a computação cognitiva vem sendo usada no processo de fabricação de veículos de modo a identificar questões de segurança e propor correções antes mesmo destas gerarem um custo à empresa. Também está presente em plataformas de conectividade que, dentre tantas funcionalidades, podem apresentar sugestões de trajetos, lembrar ao motorista de atividades ou lugares a serem visitados na volta para casa, informar sobre o posto de gasolina mais próximo no caso de uma possível falta de gasolina, ou fazer um pedido em um local preferido do usuário para ser retirado no caminho.&lt;/p&gt;
+
+&lt;p&gt;Todas essas funcionalidades são possíveis graças a algumas das características-chave da computação cognitiva, como a capacidade de compreender a linguagem natural humana - que vai além de textos, compreendendo também imagens e outros dados não estruturados -, a possibilidade de armazenar e processar um número enorme de informações e de compreender dados que antes eram inacessíveis ou incompreensíveis pela mente humana.
+A Inteligência Artificial também pode auxiliar os decisores das empresas a tomar melhores decisões e criar estratégias de longo prazo mais eficientes ao fornecer informações relevantes sobre seus clientes.&lt;/p&gt;
+
+&lt;p&gt;A computação cognitiva, impulsionada pelo desenvolvimento da IoT, Big Data e da computação em nuvem, ainda trará inúmeras tecnologias que facilitarão o dia-a-dia de pessoas e empresas.
+Se a sua empresa ainda não abraçou a computação cognitiva, fale conosco e leve inovação para o contato seus clientes através dos chatbots.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Apr 2018 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/04/11/falando-sobre-computacao-cognitiva.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/04/11/falando-sobre-computacao-cognitiva.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>Como construir seu chatbot de atendimento</title>
@@ -355,30 +396,6 @@ Nesta primeira fase, o bot é responsável por estabelecer uma relação com o u
         <pubDate>Tue, 06 Feb 2018 00:00:00 -0200</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2018/02/06/chatbot-conheca-o-novo-membro-da-sua-equipe.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/02/06/chatbot-conheca-o-novo-membro-da-sua-equipe.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>Como os chatbots podem reduzir as reclamações na sua empresa</title>
-        <description>&lt;p&gt;Lidar com as reclamações dos clientes nunca é uma tarefa fácil, nem mesmo para agentes de serviço de atendimento ao consumidor experientes. Clientes insatisfeitos - e até mesmo irritados - demandam atenção e cuidado no atendimento para que sua reclamação seja esclarecida e resolvida e ele retorne a fazer negócios com a empresa. Na maioria dos casos, as reclamações dos clientes são oriundas de serviço/atendimento de má qualidade, ao invés de algum problema ocorrido.&lt;/p&gt;
-
-&lt;p&gt;Para que se possa reduzir o número de reclamações, é preciso qualificar o serviço ou atendimento e prevenir situações que possam gerar descontentamento. Por exemplo: se um banco experiencia uma falha no funcionamento de seu aplicativo mobile, suas reclamações serão drasticamente reduzidas caso ele informe aos seus clientes sobre o problema antes mesmo que estes possam experienciá-lo também. Se o banco não informar seus clientes de antemão, ao notarem que o aplicativo está com problemas em seu funcionamento, estes irão bombardear os canais de atendimento do banco com reclamações, tornando mais difícil o processo de atendimento delas.&lt;/p&gt;
-
-&lt;p&gt;Os clientes precisam sentir que não é necessário um esforço muito grande para se comunicar com a empresa. Outros fatores que auxiliam na redução das reclamações de clientes são o tempo de espera em um atendimento, a falha na obtenção de informações corretas, a dificuldade de encontrar soluções para problemas apontados e o difícil e/ou exaustivo acesso aos canais de atendimento ao consumidor.&lt;/p&gt;
-
-&lt;p&gt;E é aí que entram os chatbots como uma alternativa eficaz na diminuição das reclamações contra as empresas. Estes atendentes virtuais estão disponíveis para interagir com os clientes 24 horas por dia, 7 dias por semana, 365 dias no ano. Integrados aos sistemas das empresas e programados de acordo com a personalidade que a empresa quer de transmitir aos seus clientes, os chatbots reduzem o tempo de espera por um atendimento, fornecem informações assertivas e propõem soluções para os problemas apontados pelos usuários.&lt;/p&gt;
-
-&lt;p&gt;Disponíveis em plataformas de chat integradas aos sites das empresas ou até mesmo em aplicativos de mensagens instantâneas - tais como Facebook Messenger, Telegram, Skype - os chatbots configuram uma ferramenta de fácil acesso aos usuários que querem solucionar problemas, tirar dúvidas, fazer solicitações e até mesmo reclamações.&lt;/p&gt;
-
-&lt;p&gt;Por agilizarem e facilitarem o processo de interação entre clientes e empresas, os chatbots estão ajudando as empresas a reduzirem o número de reclamações recebidas e aumentar o nível de satisfação dos clientes, somando cada vez mais clientes fieis.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 31 Jan 2018 00:00:00 -0200</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2018/01/31/como-chatbots-podem-reduzir-reclamacoes.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/01/31/como-chatbots-podem-reduzir-reclamacoes.html</guid>
         
         
         <category>chatbots</category>
