@@ -5,9 +5,62 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 18 Apr 2018 11:07:05 -0300</pubDate>
-    <lastBuildDate>Wed, 18 Apr 2018 11:07:05 -0300</lastBuildDate>
+    <pubDate>Wed, 25 Apr 2018 11:50:08 -0300</pubDate>
+    <lastBuildDate>Wed, 25 Apr 2018 11:50:08 -0300</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Principais problemas no atendimento ao cliente</title>
+        <description>&lt;p&gt;Uma pesquisa realizada por uma empresa americana de consultoria aponta que 70% das pessoas que se consideram mal atendidas por uma empresa não retornam a fazer negócio com a mesma. Um número expressivo como este serve de alerta para que as empresas se conscientizem quanto à importância de manter um bom relacionamento com seus clientes.&lt;/p&gt;
+
+&lt;p&gt;Com consumidores cada vez mais exigentes e cientes de seus direitos, criar estratégias para o setor de atendimento ao cliente é crucial para a retenção de clientes e melhoria no resultados. Uma tendência que tem se mostrado eficaz no aperfeiçoamento do relacionamento entre empresas e pessoas é a integração de chatbots nos canais de atendimento.&lt;/p&gt;
+
+&lt;p&gt;Chatbots são ferramentas conversacionais desenvolvidas através de softwares de comunicação automatizada. Por serem programas baseados em inteligência artificial, são capazes de engajar em uma conversa através de aplicativos de mensagens instantâneas, inferindo intenções, interpretando sentenças e respondendo, como em um diálogo entre humanos.&lt;/p&gt;
+
+&lt;p&gt;No setor de atendimento ao cliente, os chatbots são capazes de solucionar dúvidas (FAQ), transmitir informações sobre produtos e serviços, detalhar pedidos, realizar vendas e prestar serviço de ouvidoria. Por serem altamente personalizáveis, os chatbots podem incorporar os valores da empresa e representar uma personalidade estabelecida por ela no trato com seus clientes.&lt;/p&gt;
+
+&lt;p&gt;Confira abaixo alguns dos principais problemas encontrados pelos consumidores ao buscarem os serviços de SAC e que podem ser resolvidos com a implantação de um chatbot:&lt;/p&gt;
+
+&lt;h2 id=&quot;demora-no-tempo-de-atendimento-e-fila-de-espera&quot;&gt;Demora no tempo de atendimento e fila de espera&lt;/h2&gt;
+
+&lt;p&gt;Dificilmente se encontrará uma empresa que nunca tenha recebido uma reclamação quanto ao tempo de espera para atendimento via SAC ou pela demora na conclusão desse atendimento. Isso porque o fluxo de solicitações recebidas é sempre muito maior que o número de atendentes disponíveis para solucioná-las - entre outros fatores.&lt;/p&gt;
+
+&lt;p&gt;Os chatbots estão disponíveis para atendimento a qualquer horário do dia e da noite, todos os dias da semana, sem interrupção. Por serem robôs automatizados, não possuem limitações quanto ao número de atendimentos que conseguem realizar - inclusive simultaneamente. Sendo assim, os bots conseguem desafogar o fluxo de atendimentos solicitados, resolvendo um número maior de solicitações e permitindo que as equipes de atendimento se dediquem apenas àqueles casos mais específicos e difíceis.&lt;/p&gt;
+
+&lt;h2 id=&quot;horários-de-atendimento-e-número-de-atendentes&quot;&gt;Horários de atendimento e número de atendentes&lt;/h2&gt;
+
+&lt;p&gt;Como já mencionado, as centrais de atendimento ao clientes, em sua grande maioria, não possuem um número suficiente de funcionários disponíveis para solucionar as demandas de atendimento e, com isso, geram-se filas de espera enormes. O consumidor também esbarra nos horários de atendimento ao buscar ajuda. Os canais de atendimento tendem a seguir o horário de funcionamento comercial, não permitindo que o cliente encontre atendimento à noite, por exemplo.&lt;/p&gt;
+
+&lt;p&gt;Sabemos que problemas e dúvidas não possuem hora para acontecer: podem ocorrer a qualquer momento do dia e da noite. E como escalar diferentes equipes para atender em horário integral pode ser muito oneroso para as empresas, os chatbots surgem como uma opção barata para que se mantenham ao alcance dos clientes 24 horas por dia, 7 dias por semana.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-comunicação-não-é-clara-e-objetiva&quot;&gt;A comunicação não é clara e objetiva&lt;/h2&gt;
+
+&lt;p&gt;Muitas vezes, os atendentes de SAC se utilizam de termos técnicos e palavras consideradas difíceis, de forma inconsciente ou propositalmente, e este é um grande empecilho no atendimento ao cliente, principalmente na resolução de problemas. Com atendentes virtuais, é possível programar a linguagem que eles utilizarão, definindo se serão mais formais ou se usarão uma linguagem mais coloquial, com gírias e, até mesmo, emojis - símbolos comuns em aplicativos de mensagens que representam uma ideia, uma palavra ou uma frase completa.&lt;/p&gt;
+
+&lt;h2 id=&quot;os-atendentes-não-conhecem-os-clientes&quot;&gt;Os atendentes não conhecem os clientes&lt;/h2&gt;
+
+&lt;p&gt;Muitas empresas não investem em conhecer profundamente seus clientes. Muito mais do que possuir uma lista de dados cadastrais, conhecer seus consumidores significa entender suas preferências, demandas, desejos, suas dores e seus problemas. Por não terem este conhecimento detalhado de seus clientes, os atendentes exigem uma série de confirmações de informações e a repetição dos problemas mais de uma vez.&lt;/p&gt;
+
+&lt;p&gt;Os chatbots, por terem a possibilidade de integração com os sistemas das empresas, conseguem ter acesso aos dados dos clientes, históricos de pedidos e reclamações. Além disso, são capazes de reter informações das conversas e utilizá-las em atendimentos futuros. O que nos leva a um último problema.&lt;/p&gt;
+
+&lt;h2 id=&quot;transferências-entre-departamentos&quot;&gt;Transferências entre departamentos&lt;/h2&gt;
+
+&lt;p&gt;Quando integrados de forma efetiva ao sistema da empresa, os chatbots têm acesso à informações em diversos níveis. E dependendo de sua programação, conseguem realizar atendimentos em múltiplas esferas (FAQ, apresentação de produtos/serviços, vendas, ouvidoria, entre outros). Dessa forma, os bots solucionam um problema recorrente no atendimento ao consumidor: a transferência entre departamentos.&lt;/p&gt;
+
+&lt;p&gt;Tendo acesso às informações e estruturado para exercer as funções desejadas, os atendentes virtuais solucionam diferentes questões em um mesmo atendimento, de maneira rápida e sem esforço por parte do cliente.&lt;/p&gt;
+
+&lt;p&gt;Não restam dúvidas quanto aos benefícios que a integração de um chatbot nos canais de atendimento ao cliente pode trazer para uma empresa. Além das potencialidades citadas acima, os chatbots representam uma redução nos investimentos com pessoal, melhora na qualidade da gestão dos atendimentos, aumento nos níveis de satisfação dos clientes e nos resultados finais.&lt;/p&gt;
+
+&lt;p&gt;Agora que você já sabe como os atendentes virtuais podem melhorar o relacionamento da sua empresas com os clientes, #DigaOlá aos chatbots!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Apr 2018 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/04/25/principais-problemas-no-atendimento.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/04/25/principais-problemas-no-atendimento.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>A nova revolução do varejo já está aqui</title>
@@ -362,44 +415,6 @@ Nesta primeira fase, o bot é responsável por estabelecer uma relação com o u
         <pubDate>Wed, 21 Feb 2018 00:00:00 -0300</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2018/02/21/como-chatbots-ajudaram-a-panvel.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/02/21/como-chatbots-ajudaram-a-panvel.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>As vantagens dos chatbots de inteligência artificial</title>
-        <description>&lt;p&gt;Existem no mercado dois tipos de chatbots: os baseados em script (textos previamente desenhados) e os baseados em inteligência artificial. Os primeiros, mais simples, utilizam somente algumas pequenas automações e respostas programadas, oferecendo, assim, uma capacidade de interação mais reduzida. Os chatbots construídos com inteligência artificial, no entanto, são notavelmente mais sofisticados, pois têm a capacidade de aprender e aprimorar suas respostas de acordo com suas interações.&lt;/p&gt;
-
-&lt;p&gt;Para as empresas que buscam inovar no contato com seus clientes e otimizar seus canais de atendimento, os chatbots de inteligência artificial têm se mostrado ferramentas muito vantajosas e uma solução para muitos de seus desafios. Confira abaixo algumas das razões para isso:&lt;/p&gt;
-
-&lt;h2 id=&quot;1-versatilidade-acima-de-tudo&quot;&gt;1. Versatilidade acima de tudo&lt;/h2&gt;
-
-&lt;p&gt;As tecnologias de inteligência artificial podem ser utilizadas para uma série de finalidades. No âmbito do atendimento ao cliente, por exemplo, podem fornecer informações sobre produtos, detalhar pedidos, esclarecer dúvidas, transmitir orientações, agilizar interações e propor soluções para problemas apontados pelos usuários.&lt;/p&gt;
-
-&lt;h2 id=&quot;2-estão-mudando-a-vida-das-pessoas&quot;&gt;2. Estão mudando a vida das pessoas&lt;/h2&gt;
-
-&lt;p&gt;Por serem ferramentas fáceis de utilizar, muitas vezes integradas a aplicativos de mensagens instantâneas presentes na maioria de nossos smartphones, os chatbots descomplicam os sistemas de busca e canais de atendimento. Basta fazer uma pergunta e eles responderão em questão de segundos. Por funcionarem conectados à internet e integrados aos sistemas das empresas, são capazes de fornecer uma grande quantidade de informações e facilitar a comunicação com os clientes.&lt;/p&gt;
-
-&lt;h2 id=&quot;3-são-muito-mais-avançados-do-que-se-imagina&quot;&gt;3. São muito mais avançados do que se imagina&lt;/h2&gt;
-
-&lt;p&gt;Apesar da ideia de ter um robô trabalhando em sua empresa parecer algo muito futurístico, os chatbots de inteligência artificial são uma realidade e estão se consolidando no setor de atendimento ao consumidor. Isso quer dizer que, com a base de dados e o investimento necessário, sua empresa já pode contar com chatbots como parte da equipe.&lt;/p&gt;
-
-&lt;h2 id=&quot;4-podem-resolver-situações-delicadas&quot;&gt;4. Podem resolver situações delicadas&lt;/h2&gt;
-
-&lt;p&gt;Um exemplo: no setor de negociação de dívidas, por vezes os clientes endividados podem vir a se sentir constrangidos ao buscarem atendimento nos canais de seus bancos ou empresas do setor financeiro, uma vez que se trata de um assunto delicado. Em casos como estes, as empresas têm utilizados chatbots para realizar os atendimentos via chat próprio ou outros aplicativos, como o Facebook Messenger, facilitando o acesso dos clientes à informação e à resolução de seus problemas.&lt;/p&gt;
-
-&lt;h2 id=&quot;5-você-escolhe-a-personalidade-do-seu-chatbot&quot;&gt;5. Você escolhe a personalidade do seu chatbot&lt;/h2&gt;
-
-&lt;p&gt;Embora falar de robôs nos remeta a uma comunicação fria e impessoal, na prática o resultado é muito diferente. Chatbots são completamente personalizáveis. Você pode focar nas principais características dos seus principais funcionários de atendimento para determinar como será a personalidade do seu chatbot. Assim, eles manterão a identidade e os valores de sua empresa e proporcionarão uma experiência agradável e cativante aos seus clientes.&lt;/p&gt;
-
-&lt;p&gt;À medida que a tecnologia avança e os chatbots evoluem, cresce o número de benefícios que eles podem trazer a sua empresa. Aliar o uso de chatbots ao serviço de atendimento ao cliente garante agilidade, redução nos gastos com contratações e uma melhor integração entre clientes e empresa, conferindo um aumento no nível de satisfação de seus consumidores.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 06 Feb 2018 00:00:00 -0200</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2018/02/06/as-vantagens-dos-chatbots-de-inteligencia-artificial.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/02/06/as-vantagens-dos-chatbots-de-inteligencia-artificial.html</guid>
         
         
         <category>chatbots</category>
