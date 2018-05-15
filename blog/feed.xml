@@ -5,9 +5,72 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 02 May 2018 08:55:52 -0300</pubDate>
-    <lastBuildDate>Wed, 02 May 2018 08:55:52 -0300</lastBuildDate>
+    <pubDate>Tue, 15 May 2018 11:35:38 -0300</pubDate>
+    <lastBuildDate>Tue, 15 May 2018 11:35:38 -0300</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Características de um bom chatbot</title>
+        <description>&lt;p&gt;Muito tem se falado sobre os chatbots nos últimos anos dois anos. Cada vez mais empresas têm encontrado nestes atendentes virtuais a solução para a alta demanda de atendimento em seus canais de contato com clientes.&lt;/p&gt;
+
+&lt;p&gt;Além de representarem um baixo investimento se comparados com os custos de contratação de mão de obra e infraestrutura, os chatbots auxiliam também as empresas a aumentarem seu retorno sobre investimento ao aumentarem a retenção e a satisfação dos clientes com a qualidade do atendimento prestado.&lt;/p&gt;
+
+&lt;p&gt;Os aspectos e funcionalidades dos bots variam de acordo com a necessidade e o público-alvo que a empresa deseja atingir com a sua integração, mas existem características gerais que constituem um bom chatbot de AI*, as quais listamos em detalhe abaixo:&lt;/p&gt;
+
+&lt;h2 id=&quot;É-bem-elaborado&quot;&gt;É bem elaborado&lt;/h2&gt;
+
+&lt;p&gt;Parece óbvio de se afirmar isso, mas você precisa ter certeza de que está cobrindo alguns pontos importantes na construção de seu bot antes de lançá-lo ao mercado. 
+Caso você decida contratar uma empresa especializada para a construção do seu chatbot, certifique-se de fazer a escolha certa. Faça uma extensa pesquisa de mercado, selecione algumas opções, converse sobre seu projeto e solicite orçamentos. Busque fechar sua parceria com uma empresa que entenda suas necessidades e ofereça um serviço adequado e completo para atendê-la.
+É importante também estudar seu público-alvo, entender seu comportamento, suas dores, seus desejos, suas expectativas e necessidades. Mais ainda, conheça seus pontos de contato com o público e descubra qual plataforma exige uma maior presença de sua empresa. De nada adianta construir um ótimo chatbot e lançá-lo em uma plataforma onde poucos clientes procuram pelo seu atendimento.&lt;/p&gt;
+
+&lt;h2 id=&quot;É-focado-em-suas-tarefas&quot;&gt;É focado em suas tarefas&lt;/h2&gt;
+
+&lt;p&gt;Chatbots de AI podem configurar uma infinidade de possibilidades para todos envolvidos. Mas é muito fácil se perder nesse mar possíveis tarefas e funcionalidades. Por isso, você precisa focar em quem você deseja ajudar primeiro (seu cliente, sua equipe de vendas, sua equipe de RH, etc) e definir qual(is) tarefa(s) seu chatbot irá realizar para ajudá-lo. É sempre melhor focar em apenas uma ou duas tarefas e desenvolvê-las bem.
+A grande pegadinha com esse tipo de chatbot é que os usuários podem perceber a interação com o robô como uma conversa aberta, como as que temos com outros humanos. Isso pode tornar difícil para o bot seguir o caminho conversacional que você estipulou para levar seu cliente ao objetivo desejado.
+Se seu cliente percebe que ele pode trocar conversa fiada com seu chatbot, ele irá fazer isso. Então você deve planejar como seu bot irá se comportar com esse tipo de interação aleatória e como eles farão com que o usuário volte “aos trilhos” da conversa.&lt;/p&gt;
+
+&lt;h2 id=&quot;imita-a-conversação-natural&quot;&gt;Imita a conversação natural&lt;/h2&gt;
+
+&lt;p&gt;Embora os chatbots sejam programas de computador, eles não precisam soar como máquinas. Quando atribuímos uma personalidade aos chatbots, eles podem fazer com que o usuário se esqueça de que não está interagindo com um humano. Mais ainda, eles se tornam personificações da imagem da sua marca, transmitindo aos seus clientes a personalidade da empresa.
+Ao reproduzir a linguagem natural humana, os chatbots tornam mais próximo o relacionamento com o público, aumentando a confiança na marca e a percepção de que a empresa é acessível e atenciosa em seu atendimento.
+Para tornar a linguagem do bot mais parecida com a conversação humana, você pode fazer uso de gírias, palavras de preenchimento (como hmmms e ahams) e emojis (ícones gráficos que representam emoções, palavras ou frases completas).&lt;/p&gt;
+
+&lt;h2 id=&quot;está-sempre-em-treinamento&quot;&gt;Está sempre em treinamento&lt;/h2&gt;
+
+&lt;p&gt;Um chatbot não é algo que você pode desenvolver e abandonar logo após seu lançamento. Ele precisa ser constantemente aperfeiçoado e treinado para melhor interagir com os usuários.
+Você pode pensar que por se tratar de um robô construído a partir de inteligência artificial ele aprenderá tudo o que precisa saber a partir de suas interações, mas isso não é verdade. Inteligência artificial requer manutenção e cuidado.
+É preciso treinar seu bot antes, durante e depois de seu lançamento para que ele saiba o que dizer, quando dizer e qual a melhor maneira de dizer. Após lançar seu bot, é preciso monitorá-lo frequentemente para que ele continue respondendo de maneira adequada e de acordo com a personalidade da empresa.&lt;/p&gt;
+
+&lt;h2 id=&quot;proporciona-comodidade-e-valor-ao-usuário&quot;&gt;Proporciona comodidade e valor ao usuário&lt;/h2&gt;
+
+&lt;p&gt;Não faz sentido criar um chatbot para atender seu cliente se ele consegue entrar em contato com sua empresa de maneira mais fácil e rápida através de outros canais de atendimento. Como mencionado antes, você precisa observar qual plataforma/canal requer uma atenção maior no atendimento ao cliente e criar sua estratégia de bot para ela.
+O atendimento proporcionado pelo robô deve ser rápido, assertivo e personalizado, demonstrando que a empresa conhece e se importa com o cliente. Ele também deve oferecer algo que tenha valor para o usuário, seja a solução de dúvidas e problemas, o fornecimento de informações relevantes ou serviços adicionais.&lt;/p&gt;
+
+&lt;h2 id=&quot;É-desenvolvido-por-fases&quot;&gt;É desenvolvido por fases&lt;/h2&gt;
+
+&lt;p&gt;Embora existam cada vez mais desenvolvedores de chatbots no mercado, não é uma tarefa fácil construir um - e, principalmente, um bom chatbot e que atenda plenamente às suas necessidades. 
+A melhor forma de construir um ótimo chatbot - além de encontrar a parceria ideal com uma empresa especializada - é fazê-lo por fases. Não incorra no erro de tentar criar algo grandioso de uma só vez. Estabeleça metas menores para seu chatbot e vá o desenvolvendo por etapas.
+Desta forma, você consegue dar maior atenção para cada funcionalidade do seu bot e reduzir o número de erros e intenções não compreendidas. Você e seu bot aprenderão cada vez mais sobre as necessidades do seu público através das interações e seus usuários vão descobrindo mais sobre o seu bot pouco a pouco.&lt;/p&gt;
+
+&lt;h2 id=&quot;melhora-a-experiência-do-cliente&quot;&gt;Melhora a experiência do cliente&lt;/h2&gt;
+
+&lt;p&gt;Um bom chatbot traz melhorias significativas no relacionamento com seu cliente. Ao passar pela experiência de um atendimento rápido, assertivo e atencioso com um bot, o cliente criará uma preferência por este canal de atendimento e desejará ser atendimento sempre pelo bot.
+É senso comum que uma boa experiência no setor de atendimento de uma empresa traz uma maior satisfação para o cliente e, como consequência, ele provavelmente retornará a fazer negócios com a empresa, se tornará um promotor de sua marca - fazendo reviews positivas e indicando a outras pessoas - e poderá, também, aumentar seu ticket médio.&lt;/p&gt;
+
+&lt;p&gt;Agora que você já sabe quais as principais características de um bom chatbot, o que está esperando para construir o novo atendente virtual da sua empresa? Fale com a Ubots e #DigaOlá aos #chatbots!&lt;/p&gt;
+
+&lt;p&gt;* inteligência artificial, na sigla em inglês.&lt;/p&gt;
+
+&lt;p&gt;Texto traduzido do relatório de pesquisa “Say hello to Customer 3.0” realizado pela consultoria Accenture.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 May 2018 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/05/15/caracteristicas-de-um-bom-chatbot.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/05/15/caracteristicas-de-um-bom-chatbot.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>Marketing sazonal com chatbots</title>
@@ -377,44 +440,6 @@ Nesta primeira fase, o bot é responsável por estabelecer uma relação com o u
         <pubDate>Wed, 07 Mar 2018 00:00:00 -0300</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2018/03/07/chatbots-para-vendas.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/03/07/chatbots-para-vendas.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>Chatbots: tendência para e-commerce</title>
-        <description>&lt;p&gt;Os chatbots, programas de computador capazes de responder a interações humanas numa interface de chat, já têm seu espaço bastante consolidado no setor de atendimento ao cliente e FAQ (frequently asked questions). Desenvolvidos a partir de regras pré-estabelecidas e inteligência artificial, esses robôs conversacionais conseguem ler, interpretar, responder questionamentos e aprender a partir das conversas que estabelecem com os usuários.&lt;/p&gt;
-
-&lt;p&gt;Conforme as técnicas de inteligência artificial e as tecnologias utilizadas no desenvolvimento de chatbots evoluem, novos atributos e funcionalidades são conferidos a eles. Nos últimos anos, o número de bots especializados em vendas têm crescido rapidamente. Junto com o atendimento humanizado, os chatbots de vendas constituem o que chamamos de comércio conversacional.&lt;/p&gt;
-
-&lt;p&gt;A compra através de uma conversa com um bot pode trazer muitos aspectos semelhantes ao atendimento feito por pessoas em lojas físicas. Além do diálogo em si, é claro, os chatbots podem encontrar produtos, apresentar detalhes sobre estes, sugerir itens relacionados que possam interessar ao cliente e finalizar a compra, tudo isso dentro de um único ambiente: um aplicativo de mensagens instantâneas.&lt;/p&gt;
-
-&lt;p&gt;Além dos benefícios que a integração desses robôs no contato com os clientes e leads acarreta às empresas no que diz respeito aos custos por atendimento e retorno sobre investimento, podemos listar as seguintes vantagens que os tornam tendência para o e-commerce:&lt;/p&gt;
-
-&lt;h2 id=&quot;disponibilidade-integral&quot;&gt;Disponibilidade integral&lt;/h2&gt;
-&lt;p&gt;Chatbots não precisam ir ao banheiro, fazer intervalos, dormir e também não apresentam flutuações de humor, estão sempre prontos para atender bem o cliente e realizar vendas. Manter-se disponível aos clientes 24 horas por dia todos significa estar presente naqueles momentos em que o impulso de compra surge. A capacidade de atender rapidamente figura cada vez mais como um diferencial para as empresas de varejo que desejam se destacar e alavancar suas vendas.&lt;/p&gt;
-
-&lt;h2 id=&quot;agilidade-no-atendimento&quot;&gt;Agilidade no atendimento&lt;/h2&gt;
-&lt;p&gt;Vivemos em uma constante luta contra o tempo e não gostamos quando nos fazem esperar por algo, seja lá o que for. Com o atendimento sendo realizado por um robô, exclui-se a espera por um vendedor disponível e também o tempo que ele levaria para digitar, procurar um produto ou detalhá-lo. Ao passo que você pergunta algo, o bot responde imediatamente.&lt;/p&gt;
-
-&lt;h2 id=&quot;individualidade-e-personalização&quot;&gt;Individualidade e personalização&lt;/h2&gt;
-&lt;p&gt;O chatbot pode resgatar informações dos sistemas das empresas ou, até mesmo, de conversas prévias com o usuário para oferecer soluções personalizadas de acordo com os gostos do cliente, histórico e frequência de compras. Assim o atendimento se torna individualizado e com a cara do cliente.&lt;/p&gt;
-
-&lt;h2 id=&quot;up-sell-e-cross-sell&quot;&gt;Up-sell e cross-sell&lt;/h2&gt;
-&lt;p&gt;De acordo com os produtos solicitados pelo cliente, o bot pode indicar a melhor compra, fazer sugestões de produtos semelhantes, comparar produtos e propor adições ao pedido.&lt;/p&gt;
-
-&lt;p&gt;O que podemos observar nos dias atuais é que os consumidores estão cada vez mais exigentes e têm adotado um comportamento de compras multicanal - isto é, realizam suas pesquisas e compras através de lojas físicas, sites e aplicativos móveis. Com a integração de chatbots em aplicativos de mensagens instantâneas e webchats incorporados aos sites das empresas, os clientes encontram um novo canal para a realização de compras de modo rápido e fácil.&lt;/p&gt;
-
-&lt;p&gt;Embora ainda existam limitações quanto aos usos e funcionalidades dos chatbots - principalmente no que diz respeito à interpretação de diálogos e intenções - esta tecnologia desponta como uma das fortes tendências para o aperfeiçoamento dos e-commerces e do relacionamento com os consumidores.&lt;/p&gt;
-
-&lt;p&gt;E a sua empresa, está atenta às necessidades dos seus clientes? Convidamos você a conversar conosco e descobrir como os chatbots podem melhorar as vendas e o atendimento em seu e-commerce.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 28 Feb 2018 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2018/02/28/chatbots-tendencia-para-ecommerce.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/02/28/chatbots-tendencia-para-ecommerce.html</guid>
         
         
         <category>chatbots</category>
