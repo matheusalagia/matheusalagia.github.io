@@ -5,9 +5,59 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 06 Jun 2018 15:56:31 -0300</pubDate>
-    <lastBuildDate>Wed, 06 Jun 2018 15:56:31 -0300</lastBuildDate>
+    <pubDate>Wed, 13 Jun 2018 08:59:51 -0300</pubDate>
+    <lastBuildDate>Wed, 13 Jun 2018 08:59:51 -0300</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Por que os chatbots poderão dominar o setor bancário?</title>
+        <description>&lt;p&gt;Nem todos se sentem confortáveis em deixar que os outros saibam sobre sua situação financeira - o balanço de suas contas-correntes, o tamanho de sua hipoteca, empréstimos, muito menos o quanto ganham. O dinheiro, no final das contas, é privado. E é por isso que os chatbots farão sucesso no setor bancário.&lt;/p&gt;
+
+&lt;p&gt;Um chatbot é o canal mais próximo que temos de uma ida ao banco para falar com um funcionário. É de um-para-um, privado e - quando bem construído - a conversação é mantida não somente a um nível apropriado ao cliente, mas também em seu estilo de linguagem e em um horário conveniente para ele. É, também, uma interface universal - então ninguém precisa aprender a utilizá-lo - e ele costuma estar dentro de uma plataforma de chat pré-existente, tal qual o Facebook Messenger.&lt;/p&gt;
+
+&lt;p&gt;Isso tudo é importante. Para o consumidor, sua natureza íntima assinala o item ‘privacidade’; seu nível apropriado de comunicação e linguagem assinala o item ‘personalização’; e a falta de uma interface diferenciada e o fato de que você não precisa instalar um aplicativo assinalam o item ‘facilidade de uso’.&lt;/p&gt;
+
+&lt;p&gt;Do ponto de vista dos bancos, os chatbots abrem uma linha direta de comunicação que pode ser utilizada para construir uma relação profunda - uma menos provável de ser derrubada por um rival.&lt;/p&gt;
+
+&lt;p&gt;Chatbots são ferramentas de comunicação baseadas em texto e Inteligência Artificial. Eles aprendem os estilos de linguagem dos usuários, pegando suas palavras e expressões, ao invés de permanecerem presos ao vocabulário compilado pelo programador e pelo departamento de marketing do banco. Então, se você disser “cara, paga o gás”, ele saberá que precisa transferir dinheiro para o fornecedor de gás; da mesma forma, se você disser “mova três paus para a poupança”, ele saberá mover R$3.000,00 para sua conta poupança. É muito mais similar a uma conversa com um humano do que utilizar um menu jamais será.&lt;/p&gt;
+
+&lt;p&gt;A qualidade de um chatbot será medida por o quão rápido e o quão bem ele entenderá o correntista. Um bom serviço de chatbot vai se tornando cada vez mais pessoal e proativo com o passar do tempo. O retorno para os bancos é claro: como qualquer pessoa de vendas sabe, simular os padrões de discurso e a linguagem do seu alvo cria empatia, o que ajuda a fechar negócios.&lt;/p&gt;
+
+&lt;p&gt;E isso é exatamente o que o chatbot Cleo faz. Cleo é um chatbot baseado em IA de Londres que atua dentro do Facebook Messenger - embora o Facebook não tenha acesso ao chat de Cleo ou aos dados bancários do usuário.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Cleo envia mensagens sobre as finanças do usuário e informações que podem ser úteis para ele - quando seu salário entrou ou gastos excessivos em alguma categoria, como entretenimento, por exemplo. As notificações podem ser vistas pelos usuários como os convém.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Embora estas informações estejam disponíveis no app mobile ou no portal online do banco, o bot Cleo é mais proativo e engajador, tornando as interações muito mais pontuais e relevantes às circunstâncias individuais do usuário. Cleo permite que o usuário esteja no controle. É o usuário que configura a frequência e o tom do contato. O usuário também pode iniciar o contato, fazendo perguntas ou dando instruções.&lt;/p&gt;
+
+&lt;p&gt;Conforme os chatbots se desenvolvem, seus papéis se expandem de forma a se tornarem mais proativos - ajudando os usuários a alcançarem seus objetivos, evitando taxas e melhor gerenciando seu dinheiro. Por exemplo, eles irão rastrear gastos, identificar quando estão abaixo do usual e sugerir que a diferença seja transferida para a poupança.&lt;/p&gt;
+
+&lt;p&gt;Com o tempo, esse papel proativo será aprofundado, de forma que com consentimento prévio, os chatbots poderão movimentar o dinheiro entre contas, pagar faturas, configurar débito em conta para faturas regulares e encontrar melhores negócios para contas poupança, cartões de crédito, utilidades e, talvez, ajudar com a automatização de troca de produtos.&lt;/p&gt;
+
+&lt;p&gt;O chatbot Finn, do banco multinacional JPMorgan Chase, já faz algumas dessas coisas. Ele atua como um coach de poupança, incentivando os usuários a encerrar transações para economizar mais rápido. Para que isso funcione, o usuário precisa dar ao banco seu consentimento para agir em seu nome - algo que se tornará tão comum quanto dar consentimento para que um aplicativo tenha acesso às configurações de seu celular. E isso marcará um divisor de águas importante.&lt;/p&gt;
+
+&lt;p&gt;Quando os bancos tiverem o consentimento dos usuários, eles serão capazes de adotar uma abordagem verdadeiramente holística no gerenciamento do dinheiro dos usuários. Seu papel não será limitado a aconselhar. Uma vez informado dos objetivos do cliente, o banco poderá automatizar muitas das decisões ou tarefas que os clientes precisam realizar ao gerenciar suas finanças.&lt;/p&gt;
+
+&lt;p&gt;Manter o cliente informado das ações e das razões pelas quais uma ação foi tomada se tornará tão importante quanto obter consentimento para estas ações. Este tipo de serviço se desenvolverá juntamente de ecossistemas com diferentes empresas, serviços e setores.&lt;/p&gt;
+
+&lt;p&gt;Se os bancos construírem bons chatbots, eles estarão no coração destes ecossistemas. Os bancos serão responsáveis não apenas por ajudar as pessoas a economizar e comprar uma casa, eles também irão encontrar esta casa, avaliá-la ambientalmente, sugerir advogados, inspetores, construtores e avaliar se o preço pedido é justo.&lt;/p&gt;
+
+&lt;p&gt;Bots inteligentes também serão capazes de avisar aos clientes quando eles estão gastando demais ou encorajá-los a economizar para as próximas férias - sobre as quais o bot tem conhecimento pois já explorou as melhores ofertas, reservou os voos e hotéis, sugeriu excursões adequadas e ordenou os táxis de ida e volta para o aeroporto.&lt;/p&gt;
+
+&lt;p&gt;As pessoas geralmente querem que seus assuntos financeiros sejam privados e pessoais. Bancos privados têm se destacado em satisfazer esta necessidade para poucos. Com os chatbots, todos os bancos logo serão capazes de desempenhar este mesmo papel para todos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tradução do texto “Why chatbots can take over banking”, originalmente postado em https://www.finextra.com/blogposting/15357/why-chatbots-can-take-over-banking.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 13 Jun 2018 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/06/13/por-que-os-chatbots-vao-dominar-o-setor-bancario.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/06/13/por-que-os-chatbots-vao-dominar-o-setor-bancario.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>Ubots no CIAB Febraban</title>
@@ -357,61 +407,6 @@ Com o piloto disponível, realize o máximo de testes que puder para se assegura
         <pubDate>Wed, 28 Mar 2018 00:00:00 -0300</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2018/03/28/gerando-leads-com-seu-chatbot.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/03/28/gerando-leads-com-seu-chatbot.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>Inteligência artificial como aliada na retenção de clientes</title>
-        <description>&lt;p&gt;Há um consenso entre empresários, gestores e vendedores quanto à premissa de que manter e fidelizar um cliente é muito mais barato e rentável do que buscar novos clientes. Isso porque compreende-se que o processo de aquisição de novos clientes envolve muitas etapas - entre elas a atração, conquista, convencimento e a negociação - e cada uma delas pode ser bastante onerosa para as empresas.&lt;/p&gt;
-
-&lt;p&gt;Reter clientes e fidelizá-los pode não ser uma tarefa fácil e certamente demanda a tomada de ações e investimentos, porém tende a ser uma estratégia muito mais vantajosa para as empresas, não somente de um ponto de vista econômico, mas também em relação à qualidade da gestão e os resultados finais.&lt;/p&gt;
-
-&lt;p&gt;Existem diversos fatores que podem motivar um cliente a seguir fazendo negócios com uma empresa. Sendo assim, a retenção de clientes não pode se deter somente à ações comerciais ou de marketing. A qualidade dos produtos ou serviços oferecidos, se as soluções oferecidas atendem às suas necessidades, as experiências (tanto positivas quanto negativas) e o nível de confiança depositado na empresa são alguns dos fatores determinantes para que um cliente se mantenha fiel.&lt;/p&gt;
-
-&lt;p&gt;Então, falar de retenção de clientes vai muito além das ações comerciais e de marketing que a empresa possa adotar para “segurá-los”. Se trata da maneira como as empresas conduzem seus negócios, como se comportam no mercado e da atenção e cuidado que têm no atendimento aos seus clientes. E para que a empresa tenha sucesso em manter seus clientes ativos, faz-se necessária a tomada de uma série de ações, dentre as quais podemos listar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Conhecer profundamente seus clientes&lt;/strong&gt;: para que se possa oferecer produtos e serviços que atendam às necessidades de seus clientes, as empresas precisam conhecê-los e entender suas características, desejos, demandas e expectativas. Não faz mais sentido ter acesso apenas aos dados básicos dos consumidores, é preciso conhecê-los de maneira pessoal e manter este conhecimento sempre atualizado.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Estar próximo a eles&lt;/strong&gt;: manter um contato próximo com seus clientes ajuda não somente a ser lembrado, mas cria um vínculo e aumenta a confiança depositada na empresa. E estar próximo não implica em uma proximidade interesseira, com vistas apenas às vendas e ao lucro. Essa proximidade deve visar a satisfação do cliente e o aprimoramento das etapas de atendimento.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Oferecer soluções personalizadas&lt;/strong&gt;: os consumidores estão cada vez mais exigentes quanto às suas experiências e esperam receber soluções personalizadas. Uma vez que a empresa conhece profundamente seus clientes, ela é capaz de oferecer a solução que cada cliente necessita, no momento certo em que a demanda surge.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Vivemos atualmente uma constante transformação digital que vem impactando nossas vidas, tanto no âmbito pessoal como profissional. As empresas vêm apostando cada vez mais em inovação e tecnologia para atender às demandas de seus consumidores - que por sua parte estão mais bem informados e exigentes quanto às suas experiências de consumo, como já dito.&lt;/p&gt;
-
-&lt;p&gt;Levando em consideração as ações mencionadas acima (e tantas outras), a inteligência artificial surge como uma aliada de grande valor na retenção de clientes, auxiliando na captação de leads, no estreitamento dos laços entre os clientes e a empresa e, mais que tudo, criando experiências personalizadas e em tempo real.&lt;/p&gt;
-
-&lt;p&gt;Segundo um estudo realizado pela Salesforce cerca de 55% dos consumidores e 75% dos líderes de vendas esperam receber ofertas personalizadas. Estima-se que até 2020, 51% dos consumidores desejarão que as empresas antecipem suas necessidades e façam sugestões relevantes.&lt;/p&gt;
-
-&lt;p&gt;O levantamento também apontou que 37% das empresas já estão utilizando IA no atendimento aos clientes e 22% estão avaliando as soluções. Das empresas que utilizam a tecnologia, 80% afirmam ganho na produtividade no trabalho e 74% relatam aumento nas vendas e na retenção de clientes. Segundo o estudo, a adoção de tecnologias de inteligência artificial traz os seguintes benefícios:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Previsão de vendas;&lt;/li&gt;
-  &lt;li&gt;Classificação e personalização do atendimento ao cliente;&lt;/li&gt;
-  &lt;li&gt;Automatização da base de leads de vendas e marketing;&lt;/li&gt;
-  &lt;li&gt;Identificação e antecipação das oportunidades de vendas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Com tantos benefícios fica mais fácil alcançar seu público-alvo e interagir com ele, criando uma relação de confiança e encantamento entre clientes e empresa. Mais do que atender às demandas e solucionar problemas, a inteligência artificial permite que as empresas conheçam seus clientes profundamente e proporcionem a eles experiências personalizadas baseadas em seus gostos, necessidades, dores e desejos, indo além de suas expectativas iniciais.&lt;/p&gt;
-
-&lt;p&gt;Clientes satisfeitos são facilmente fidelizados e se tornam promotores de sua marca. Em média, clientes fiéis valem até 10 vezes mais que sua primeira compra*.&lt;/p&gt;
-
-&lt;p&gt;Então, que tal apostar na inteligência artificial para otimizar seu relacionamento com os clientes? Converse conosco e diga olá aos chatbots!&lt;/p&gt;
-
-&lt;p&gt;*Institute of Customer Services.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 21 Mar 2018 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2018/03/21/inteligencia-artificial-retencao-clientes.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/03/21/inteligencia-artificial-retencao-clientes.html</guid>
         
         
         <category>chatbots</category>
