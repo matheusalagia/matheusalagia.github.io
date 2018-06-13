@@ -5,8 +5,8 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 13 Jun 2018 08:59:51 -0300</pubDate>
-    <lastBuildDate>Wed, 13 Jun 2018 08:59:51 -0300</lastBuildDate>
+    <pubDate>Wed, 13 Jun 2018 09:02:32 -0300</pubDate>
+    <lastBuildDate>Wed, 13 Jun 2018 09:02:32 -0300</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
     
       <item>
@@ -25,8 +25,7 @@
 
 &lt;p&gt;E isso é exatamente o que o chatbot Cleo faz. Cleo é um chatbot baseado em IA de Londres que atua dentro do Facebook Messenger - embora o Facebook não tenha acesso ao chat de Cleo ou aos dados bancários do usuário.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Cleo envia mensagens sobre as finanças do usuário e informações que podem ser úteis para ele - quando seu salário entrou ou gastos excessivos em alguma categoria, como entretenimento, por exemplo. As notificações podem ser vistas pelos usuários como os convém.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Cleo envia mensagens sobre as finanças do usuário e informações que podem ser úteis para ele - quando seu salário entrou ou gastos excessivos em alguma categoria, como entretenimento, por exemplo. As notificações podem ser vistas pelos usuários como os convém.&lt;/p&gt;
 
 &lt;p&gt;Embora estas informações estejam disponíveis no app mobile ou no portal online do banco, o bot Cleo é mais proativo e engajador, tornando as interações muito mais pontuais e relevantes às circunstâncias individuais do usuário. Cleo permite que o usuário esteja no controle. É o usuário que configura a frequência e o tom do contato. O usuário também pode iniciar o contato, fazendo perguntas ou dando instruções.&lt;/p&gt;
 
