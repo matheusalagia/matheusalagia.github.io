@@ -5,9 +5,52 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 13 Jun 2018 09:02:32 -0300</pubDate>
-    <lastBuildDate>Wed, 13 Jun 2018 09:02:32 -0300</lastBuildDate>
+    <pubDate>Wed, 20 Jun 2018 14:08:43 -0300</pubDate>
+    <lastBuildDate>Wed, 20 Jun 2018 14:08:43 -0300</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Chegou a vez dos bots bancários</title>
+        <description>&lt;p&gt;Os chatbots vêm causando certo alvoroço onde quer que apareçam. Estas ferramentas baseadas em inteligência artificial e machine learning estão transformando o relacionamento entre empresas e clientes ao permitirem que estes entrem em contato as marcas a qualquer hora do dia ou da noite, através de aplicativos de troca de mensagens que já utilizam frequentemente.&lt;/p&gt;
+
+&lt;p&gt;E com o setor bancário não poderia ser diferente. Segundo um estudo realizado pela Juniper Research, os setores de saúde e bancários serão os maiores beneficiados com o uso de chatbots, que poderão representar uma economia de mais de US$8 milhões por ano até 2022. Além disso, estima-se que o percentual de interações realizadas com sucesso pelos bots - ou seja, aquelas que não precisam ser realocadas para um atendente humano - chegue a 90% até lá.&lt;/p&gt;
+
+&lt;p&gt;Mas o que faz dos chatbots um canal de atendimento tão forte no setor bancário? As razões são simples de compreender: sua acessibilidade, a facilidade em realizar transações e a capacidade de proverem dicas sobre finanças.&lt;/p&gt;
+
+&lt;p&gt;Os chatbots podem ser integrados a múltiplos canais de troca de mensagens nos quais os clientes já estão presentes, como o Facebook Messenger, ou onde eles mais buscam pelo auxílio de um representante, como no site da instituição bancária.&lt;/p&gt;
+
+&lt;p&gt;Por simularem o diálogo humano, os chatbots são o que temos de mais próximo a uma ida ao banco para falar com um funcionário ou gerente. E, ainda, por se tratarem de robôs virtuais, tornam a conversação mais fácil para muitas pessoas, visto que, para alguns, tratar sobre assuntos financeiros com outra pessoa pode ser algo desconfortável - principalmente em casos de dívidas, empréstimos e hipotecas.&lt;/p&gt;
+
+&lt;p&gt;As tarefas desempenhadas pelos bots bancários podem ser as mais variadas e isso vai depender do objetivo do banco com o uso da ferramenta, as demandas de seus clientes e, até mesmo, seu público-alvo. Mas existem algumas funcionalidades que já são consideradas essenciais quando se trata da praticidade e do valor que o atendimento via chatbot proporciona aos clientes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;consulta a saldos, extratos e faturas&lt;/li&gt;
+  &lt;li&gt;pesquisas por transações&lt;/li&gt;
+  &lt;li&gt;transferência de valores entre contas&lt;/li&gt;
+  &lt;li&gt;pagamentos e agendamentos de débitos&lt;/li&gt;
+  &lt;li&gt;dicas sobre finanças&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As pesquisas por transações, por exemplo, podem ser uma ferramenta de grande ajuda para os correntistas, pois permite que visualizem os gastos recentes com determinadas empresas e façam comparativos com outros períodos, gerando, assim, inteligência para administrar melhor seu dinheiro. Além disso, aos poucos, o bot pode passar a analisar os gastos recorrentes do cliente e avisá-lo quando algo pareça estar fora do normal ou sugerir cortes de despesas.&lt;/p&gt;
+
+&lt;p&gt;Com o tempo, espera-se que os chatbots se tornem cada vez mais proativos, levando sugestões aos clientes e fornecendo notificações relevantes. Dessa forma, o correntista poderá ser informado sobre faturas prestes a fechar, assinaturas próximas do vencimento, se o saldo da conta é suficiente para quitar os débitos automáticos, alterações em limites e em seu score de crédito.&lt;/p&gt;
+
+&lt;p&gt;Sendo assim, os chatbots chegam aos bancos não apenas como uma nova maneira de integrar tecnologia aos seus serviços, mas como uma forma de levar estes serviços até os canais onde seus clientes estão mais presentes no dia-a-dia, proporcionando conveniência, praticidade e agilidade no atendimento. Mais ainda, os bots garantem a customização destes serviços de acordo com as necessidades e o perfil de cada cliente, ajudando-os tanto nas transações mais simples como proporcionando informações para que possam administrar cada vez melhor suas finanças.&lt;/p&gt;
+
+&lt;p&gt;Mais do que uma promessa de um canal acessível e assertivo que resolverá até 90% das solicitações dos correntistas num futuro próximo, os chatbots já são uma realidade para muitos bancos e financeiras. E o seu banco, já conta com um bot para potencializar o atendimento ao cliente?&lt;/p&gt;
+
+&lt;p&gt;Faça como o Agibank, Sicredi, Unicred, Superdigital e a Quanta Previdência e conte com a Ubots para levar inovação ao seu serviço de atendimento ao cliente.
+#DigaOlá aos chatbots!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 Jun 2018 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/06/20/chegou-a-vez-dos-bots-bancarios.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/06/20/chegou-a-vez-dos-bots-bancarios.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>Por que os chatbots poderão dominar o setor bancário?</title>
@@ -371,41 +414,6 @@ Com o piloto disponível, realize o máximo de testes que puder para se assegura
         <pubDate>Wed, 04 Apr 2018 00:00:00 -0300</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2018/04/04/como-construir-seu-chatbot-de-atendimento.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/04/04/como-construir-seu-chatbot-de-atendimento.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>Gerando leads com seu chatbot</title>
-        <description>&lt;p&gt;Com o passar dos anos o processo de compra mudou drasticamente. Se antes era preciso ir até uma loja física para adquirir um produto ou serviço, hoje basta tirar o celular do bolso e, com alguns passos simples, o produto é adquirido e será entregue na porta de sua casa.&lt;/p&gt;
-
-&lt;p&gt;Com tanta comodidade e praticidade, os consumidores estão se tornando cada vez mais exigentes e as empresas precisam se manter constantemente atualizadas e buscar inovações que as aproximem do público. Meios de publicidade em massa - como o e-mail marketing - já não são tão eficientes na geração de leads como costumavam ser e os comerciantes e empresas precisam estar atentos aos canais onde seu público-alvo costuma interagir no meio online.&lt;/p&gt;
-
-&lt;p&gt;Estatísticas apontam que, a nível mundial, as pessoas passam em média cerca de 2h e 15 minutos por dia em redes sociais e 1,4 bilhão de pessoas acessam o Facebook diariamente. A pesquisa Digital Future Focus Brazil 2015, divulgada pela consultoria comScore mostra que os brasileiros são líderes no tempo gasto nas redes sociais - são 650 horas por mês! Além disso, um estudo conduzido pelo BI Intelligence apontou que os aplicativos de troca de mensagens já são mais usados do que as redes sociais nos smartphones.&lt;/p&gt;
-
-&lt;p&gt;Com o foco do usuário voltado para os apps de mensagens e redes sociais, é de extrema importância que as empresas montem uma estratégia para estas plataformas e desenvolvam uma relação de proximidade com seus clientes. Mas nem sempre é fácil marcar presença nas mídias digitais ou atender ao fluxo de contatos recebidos nas plataformas - como, por exemplo, o Facebook Messenger.&lt;/p&gt;
-
-&lt;p&gt;Neste contexto entram os chatbots.&lt;/p&gt;
-
-&lt;p&gt;Os chatbots podem ser responsáveis por solucionar dúvidas, fornecer informações, detalhar pedidos, realizar cadastros e, até mesmo, vender através de uma única interface. Isso facilita o acesso do cliente às informações e produtos/serviços oferecidos pela marca e gera diversos benefícios para a empresa, como aumento nas vendas, no engajamento com a marca e na geração de leads.&lt;/p&gt;
-
-&lt;p&gt;Quando se trata de geração de leads, uma boa base de dados é tão valiosa quanto ouro. Por vezes, pode ser difícil conseguir dados sobre seus possíveis clientes e suas preferências, mas os bots podem tornar isso simples apenas por conversar brevemente com o cliente. Eles dão conta de inúmeras quantidades de conversas em um curto espaço de tempo e cada conversa se torna uma nova fonte de dados.&lt;/p&gt;
-
-&lt;p&gt;Os bots também podem agir para a nutrição dos leads. Pouco adianta gerar leads e deixá-los de lado. É preciso mantê-los informados e interessados no que a empresa tem a oferecer para que ele venha a se tornar um cliente. Uma pesquisa conduzida nos EUA pela DigitasLBi indica que 59% dos americanos estão dispostos a receber cupons ou ofertas especiais através de um chatbot.&lt;/p&gt;
-
-&lt;p&gt;Além disso, os níveis de retenção de leads são muito maiores quando o contato é feito através de chatbots. Segundo Neil Patel (autor, empresário e profissional de marketing), a média de retenção de leads com o uso de bots gira em torno de 40% a 60%, enquanto a média de aplicativos é de 20% a 40%.&lt;/p&gt;
-
-&lt;p&gt;As interações do robô com os usuários aumentam o engajamento do público com a marca. Por serem uma ferramenta conversacional automatizada, os bots respondem rapidamente e acabam se mostrando acessíveis às demandas dos usuários. Conforme as pessoas interagem com os bots, a confiança e o envolvimento com a marca crescem. Dessa forma seus leads são convertidos em clientes e seus clientes passam a ser promotores da sua marca.&lt;/p&gt;
-
-&lt;p&gt;Quer saber mais sobre como os chatbots podem auxiliar em seu funil de vendas? A Ubots tem as melhores soluções para deixar seu atendimento mais rápido, interativo e personalizado.&lt;/p&gt;
-
-&lt;p&gt;Venha conversar conosco e #DigaOlá aos chatbots!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Mar 2018 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2018/03/28/gerando-leads-com-seu-chatbot.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/03/28/gerando-leads-com-seu-chatbot.html</guid>
         
         
         <category>chatbots</category>
