@@ -5,9 +5,63 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 04 Jul 2018 09:58:50 -0300</pubDate>
-    <lastBuildDate>Wed, 04 Jul 2018 09:58:50 -0300</lastBuildDate>
-    <generator>Jekyll v3.7.0</generator>
+    <pubDate>Wed, 11 Jul 2018 10:54:09 -0300</pubDate>
+    <lastBuildDate>Wed, 11 Jul 2018 10:54:09 -0300</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>O uso de rich media nos fluxos de chatbots</title>
+        <description>&lt;p&gt;Muitas vezes, ao desenvolver um chatbot, o foco de linguistas e desenvolvedores é construir um bot que resolva problemas e, por diversas vezes, acabam criando fluxos totalmente objetivos e, até mesmo, enrijecidos, esquecendo-se de uma parte essencial para construção de um bom chatbot: a humanização da linguagem.&lt;/p&gt;
+
+&lt;p&gt;Além de criar textos mais informais e amigáveis, usando gírias e expressões idiomáticas para aproximar a linguagem do robô da linguagem humana, o uso de elementos de rich media - isto é, imagens, gifs, memes, emojis/emoticons, áudios, vídeos, entre outros - traz uma contribuição significante para a humanização dos chatbots.&lt;/p&gt;
+
+&lt;p&gt;Além de melhorar o apelo estético dos bots, os elementos de rich media carregam em si também implicações práticas em sua aplicação no fluxo conversacional. Isso porque, além de tornar a linguagem dos bots mais humana, esses elementos incentivam os usuários a interagir e se envolver com os conteúdos apresentados.&lt;/p&gt;
+
+&lt;p&gt;Os elementos de rich media se tornaram uma parte fundamental da forma como as pessoas se comunicam via aplicativos de troca de mensagem nos últimos anos. Através de memes, gif e emojis, fica muito mais fácil expressar emoções e sintetizar o diálogo - pois como o próprio ditado diz: uma imagem vale mais que mil palavras. E trazer esse elementos para o fluxo dos bots torna a conversa com eles mais real e ajuda a desfazer a mentalidade das pessoas para com eles - ou seja, a ideia que muitos tem de uma interação robotizada, engessada e na qual o bot não o compreenderá.&lt;/p&gt;
+
+&lt;p&gt;Embora agregar conteúdo de rich media possa ser bastante vantajoso na experiência do usuário com o chatbot, é muito fácil se deixar levar e exagerar no uso desses elementos. Distribuí-los de forma aleatória e exageradamente tornará seu bot irritante e infantil, e não é isso que você quer. Por isso, destacamos quatro casos de uso em que os conteúdos de rich media enriquecem a experiência com o bot:&lt;/p&gt;
+
+&lt;h3 id=&quot;iniciar-conversa&quot;&gt;Iniciar conversa&lt;/h3&gt;
+
+&lt;p&gt;Muitas pessoas nunca interagiram com um chatbot ou, quando interagiram, não tiveram boas experiências. Por isso, incluir algum elemento de rich media na abertura da conversa - como uma imagem ilustrando a persona do bot ou um gif amigável - pode ajudar a quebrar o gelo e tornar a conversa mais atrativa para o usuário.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/post-blog-rich-media-1.png&quot; alt=&quot;Inicio de conversa&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;exemplificar-produtos-e-serviços&quot;&gt;Exemplificar produtos e serviços&lt;/h3&gt;
+
+&lt;p&gt;Essa é um caso de uso bastante óbvio, mas importante de ressaltar. Caso seu bot realize vendas, mostre tutoriais/passo-a-passos ou sugestões de produtos, utilizar elementos de rich media, como imagens, carrosséis e vídeos, torna o conteúdo muito mais atraente e fácil de assimilar para o usuário. Um bom exemplo são chatbots de restaurantes em que é possível realizar pedidos, como o bot da Pizza Hut:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/post-blog-rich-media-2.png&quot; alt=&quot;Exemplos&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;evocar-uma-memória-ou-um-sentimento&quot;&gt;Evocar uma memória ou um sentimento&lt;/h3&gt;
+
+&lt;p&gt;Digamos que o seu bot tenha como objetivo solucionar dúvidas dos clientes. E digamos também que, em certo ponto, o bot precise criar um laço, uma aproximação com o usuário por meio de uma memória ou um sentimento relacionado a um determinado assunto. Ele poderia simplesmente fazer isso com uma pergunta utilizando somente texto simples ou acrescentando a essa pergunta uma imagem que melhor expresse essa memória ou sentimento que está sendo retomado.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/post-blog-rich-media-3.png&quot; alt=&quot;Memoria&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O bot poderia apenas perguntar “Você se lembra de quando tínhamos apenas a internet discada?”, mas ao optar por incluir uma imagem ao fluxo, o bot consegue trazer ao usuário uma lembrança mais vívida.&lt;/p&gt;
+
+&lt;h3 id=&quot;expressar-reações&quot;&gt;Expressar reações&lt;/h3&gt;
+
+&lt;p&gt;Assim como no contexto anterior, elementos de rich media transmitem reações ou emoções mais genuinamente. Memes e gifs são ótimos para isso, como os exemplos abaixo:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/img/post-blog-rich-media-4.png&quot; width=&quot;300&quot; /&gt;
+&lt;img src=&quot;/blog/img/post-blog-rich-media-5.gif&quot; width=&quot;313&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;criar-intervalos-em-textos-longos&quot;&gt;Criar intervalos em textos longos&lt;/h3&gt;
+
+&lt;p&gt;Se o objetivo do seu bot é solucionar dúvidas ou gerar leads, por exemplo, pode ser que ele precise enviar longas sequências de texto e isso geralmente deixa os usuário entediados e desvia a atenção deles. Incluir uma imagem ou gif que faça sentido no contexto ou, até mesmo, algo que diga “ei, você ainda está acompanhando”, seguido de opções de resposta (botões de ‘sim’ e ‘não’, por exemplo) ajuda a manter o usuário envolvido e interagindo com o bot.&lt;/p&gt;
+
+&lt;p&gt;Enfim, as possibilidades de uso de conteúdos de rich media são inúmeras, você só precisa avaliar quais se adaptam melhor ao contexto do seu chatbot e achar o balanço certo entre o uso de texto simples e rich media para não sobrecarregá-lo ou deixá-lo muito infantilizado. É preciso, também, pensar e repensar muitas vezes se o conteúdo que você quer utilizar é apropriado, tanto em relação ao contexto e ao público do seu bot, quanto à usabilidade - de nada adianta encontrar o meme perfeito e ele ser tão pesado que leva muito tempo para carregar. Tudo é uma questão de equilíbrio, sempre!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Jul 2018 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/07/11/o-uso-de-rich-media-nos-fluxos-de-chatbot.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/07/11/o-uso-de-rich-media-nos-fluxos-de-chatbot.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>A linguística aplicada à tecnologia</title>
@@ -281,13 +335,13 @@ Para isso, existem diferentes maneiras de realizar pesquisas de satisfação dos
 
 &lt;p&gt;Os aspectos e funcionalidades dos bots variam de acordo com a necessidade e o público-alvo que a empresa deseja atingir com a sua integração, mas existem características gerais que constituem um bom chatbot de AI*, as quais listamos em detalhe abaixo:&lt;/p&gt;
 
-&lt;h2 id=&quot;É-bem-elaborado&quot;&gt;É bem elaborado&lt;/h2&gt;
+&lt;h2 id=&quot;é-bem-elaborado&quot;&gt;É bem elaborado&lt;/h2&gt;
 
 &lt;p&gt;Parece óbvio de se afirmar isso, mas você precisa ter certeza de que está cobrindo alguns pontos importantes na construção de seu bot antes de lançá-lo ao mercado. 
 Caso você decida contratar uma empresa especializada para a construção do seu chatbot, certifique-se de fazer a escolha certa. Faça uma extensa pesquisa de mercado, selecione algumas opções, converse sobre seu projeto e solicite orçamentos. Busque fechar sua parceria com uma empresa que entenda suas necessidades e ofereça um serviço adequado e completo para atendê-la.
 É importante também estudar seu público-alvo, entender seu comportamento, suas dores, seus desejos, suas expectativas e necessidades. Mais ainda, conheça seus pontos de contato com o público e descubra qual plataforma exige uma maior presença de sua empresa. De nada adianta construir um ótimo chatbot e lançá-lo em uma plataforma onde poucos clientes procuram pelo seu atendimento.&lt;/p&gt;
 
-&lt;h2 id=&quot;É-focado-em-suas-tarefas&quot;&gt;É focado em suas tarefas&lt;/h2&gt;
+&lt;h2 id=&quot;é-focado-em-suas-tarefas&quot;&gt;É focado em suas tarefas&lt;/h2&gt;
 
 &lt;p&gt;Chatbots de AI podem configurar uma infinidade de possibilidades para todos envolvidos. Mas é muito fácil se perder nesse mar possíveis tarefas e funcionalidades. Por isso, você precisa focar em quem você deseja ajudar primeiro (seu cliente, sua equipe de vendas, sua equipe de RH, etc) e definir qual(is) tarefa(s) seu chatbot irá realizar para ajudá-lo. É sempre melhor focar em apenas uma ou duas tarefas e desenvolvê-las bem.
 A grande pegadinha com esse tipo de chatbot é que os usuários podem perceber a interação com o robô como uma conversa aberta, como as que temos com outros humanos. Isso pode tornar difícil para o bot seguir o caminho conversacional que você estipulou para levar seu cliente ao objetivo desejado.
@@ -310,7 +364,7 @@ Você pode pensar que por se tratar de um robô construído a partir de intelig�
 &lt;p&gt;Não faz sentido criar um chatbot para atender seu cliente se ele consegue entrar em contato com sua empresa de maneira mais fácil e rápida através de outros canais de atendimento. Como mencionado antes, você precisa observar qual plataforma/canal requer uma atenção maior no atendimento ao cliente e criar sua estratégia de bot para ela.
 O atendimento proporcionado pelo robô deve ser rápido, assertivo e personalizado, demonstrando que a empresa conhece e se importa com o cliente. Ele também deve oferecer algo que tenha valor para o usuário, seja a solução de dúvidas e problemas, o fornecimento de informações relevantes ou serviços adicionais.&lt;/p&gt;
 
-&lt;h2 id=&quot;É-desenvolvido-por-fases&quot;&gt;É desenvolvido por fases&lt;/h2&gt;
+&lt;h2 id=&quot;é-desenvolvido-por-fases&quot;&gt;É desenvolvido por fases&lt;/h2&gt;
 
 &lt;p&gt;Embora existam cada vez mais desenvolvedores de chatbots no mercado, não é uma tarefa fácil construir um - e, principalmente, um bom chatbot e que atenda plenamente às suas necessidades. 
 A melhor forma de construir um ótimo chatbot - além de encontrar a parceria ideal com uma empresa especializada - é fazê-lo por fases. Não incorra no erro de tentar criar algo grandioso de uma só vez. Estabeleça metas menores para seu chatbot e vá o desenvolvendo por etapas.
@@ -406,35 +460,6 @@ Inovação e tecnologia aliadas ao desejo de satisfazer seus clientes são a cha
         <pubDate>Wed, 25 Apr 2018 00:00:00 -0300</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2018/04/25/principais-problemas-no-atendimento.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/04/25/principais-problemas-no-atendimento.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>A nova revolução do varejo já está aqui</title>
-        <description>&lt;p&gt;Quem atua no setor varejista sabe que manter-se atualizado e em constante busca pelo aperfeiçoamento das relações com os consumidores é essencial para a manutenção e o crescimento de sua empresa. Estamos vivendo um momento em que os consumidores têm vasta gama de opções de compra ao alcance de seus dedos, em seus smartphones, e estão cada vez mais exigentes quanto às suas experiências com as marcas.&lt;/p&gt;
-
-&lt;p&gt;Para o consumidor atual - por inúmeras vezes chamado também de consumidor 3.0 - não importa mais se a empresa X oferece o produto Y pelo menor preço. Se a empresa X não proporciona a ele uma experiência de compra agradável e significativa, ele não hesitará em trocá-la por outra empresa que o faça - mesmo que esta não ofereça um preço tão competitivo quanto a anterior.
-A tendência atual para o varejo é o foco na experiência e na satisfação do cliente. Não basta mais apenas oferecer os produtos que seu público-alvo procura, é preciso ouvi-lo e compreender suas necessidades, seus desejos, suas dores e expectativas, e transformar esse conhecimento em estratégias para melhor atendê-lo.&lt;/p&gt;
-
-&lt;p&gt;Neste cenário, os chatbots surgem para dar início a nova revolução do varejo. Para aqueles que não estão familiarizados com o termo, chatbots - uma mistura de chat (conversa) com robots (robôs) - são programas de computador baseados em inteligência artificial que simulam o diálogo humano em um ambiente de chat online. Estes robôs são capazes de automatizar tarefas relacionadas ao atendimento ao consumidor, permitindo que este se relacione com as empresas de uma forma mais natural e rápida.&lt;/p&gt;
-
-&lt;p&gt;A importância dos chatbots nessa nova era do varejo se dá pela simplificação que trazem às relações de consumo. Por serem integrados à aplicativos de mensagens instantâneas e aos sites das empresas, eles permitem que os consumidores tirem dúvidas, solucionem problemas, façam reclamações e, até mesmo, realizem compras em um único ambiente, sem esforço e com o mínimo de atrito possível. Isso porque os bots (em especial os que rodam através de Facebook Messenger, Skype ou Telegram) estão disponíveis em aplicativos de uso rotineiros do público, não exigindo que o usuário faça o download de aplicativo específico da empresa.&lt;/p&gt;
-
-&lt;p&gt;Mas para que os chatbots funcionem bem e proporcionem valor ao relacionamento com os clientes é preciso que o varejo esteja bem estruturado para esta operação, abraçando a tendência omnichannel, onde os diferentes canais de comunicação são integrados e as informações dos clientes circulam igualmente entre eles, fornecendo, assim, uma visão única de cada consumidor.&lt;/p&gt;
-
-&lt;p&gt;Mais do que mudar a operação de atendimento ao cliente inovando em tecnologia, as empresas precisam transformar sua estrutura corporativa, de modo que o foco de suas ações e estratégias seja o cliente e a entrega de uma experiência de consumo excelente.&lt;/p&gt;
-
-&lt;p&gt;O futuro das relações entre empresas e consumidores promete uma troca de experiências cada vez mais significativa e valorosa para ambos os lados e a revolução do varejo já está aqui, não na figura dos chatbots, mas na integração deles e dos demais canais de atendimento, atuando para o aperfeiçoamento dessas experiências.&lt;/p&gt;
-
-&lt;p&gt;A sua empresa está preparada para a revolução? Fale conosco e #DigaOlá para os chatbots.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 18 Apr 2018 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2018/04/18/a-nova-revolucao-do-varejo.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/04/18/a-nova-revolucao-do-varejo.html</guid>
         
         
         <category>chatbots</category>
