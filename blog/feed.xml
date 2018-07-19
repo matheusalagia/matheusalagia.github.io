@@ -5,9 +5,45 @@
     <description>Blog da Ubots que reúne conteúdo sobre atendimento, chatbots, inteligência artificial e outros. Confira!</description>
     <link>http://ubots.com.br/blog/</link>
     <atom:link href="http://ubots.com.br/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 11 Jul 2018 10:54:09 -0300</pubDate>
-    <lastBuildDate>Wed, 11 Jul 2018 10:54:09 -0300</lastBuildDate>
+    <pubDate>Thu, 19 Jul 2018 13:34:46 -0300</pubDate>
+    <lastBuildDate>Thu, 19 Jul 2018 13:34:46 -0300</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Alguém precisa alimentar os chatbots</title>
+        <description>&lt;p&gt;Apesar dos incríveis avanços em machine learning e processamento de linguagem natural (NLP, na sigla em inglês), os chatbots ainda estão em sua infância de várias formas. Assim como os bebês humanos, os chatbots chegam ao mundo despreparados para o convívio social. E como as criancinhas, os chatbots recém-nascidos precisam ser cuidados, alimentados e, até mesmo, vestidos. Com isso eu quero dizer que, atualmente, não há nenhuma solução totalmente pronta para bots conversacionais. Então, de modo a ter um chatbot útil - um que seja uma representação perfeita da sua marca - é preciso investir um bom tempo em treinamentos. Assim como a parentalidade, isso é mais difícil do que se imagina,&lt;/p&gt;
+
+&lt;h3 id=&quot;quando-você-quer-apenas-sim-ou-não&quot;&gt;Quando você quer apenas ‘sim’ ou ‘não’&lt;/h3&gt;
+
+&lt;p&gt;Em linhas gerais, um chatbot é incoerente e precisa de um treinamento cuidadoso e intencional para se tornar um bot melhor. Claro, existem atalhos. Você pode desenvolver seu bot para uma plataforma de Inteligência Artificial (IA) como a Alexa, da Amazon, ou Cortana, da Microsoft, e adaptar sua programação às suas correspondentes vozes e personalidades. Mas, ainda assim, você precisará escrever respostas que se alinhem com a personalidade do seu bot (isto é, da sua marca) e testá-lo extensivamente. Mesmo estes assistentes digitais de primeira categoria podem não entender a linguagem ou sintaxe específica da sua aplicação pretendida. Passe um tempinho com a Alexa, por exemplo, e você perceberá rapidamente que ela acerta em cheio questões como “qual é” ou “quem é”. Mas se sua pergunta se afasta da sintaxe que é familiar a ela ou inclui palavras-chave não encontrada em suas bases de dados, ela empaca. Ela não foi treinada para entender a sua pergunta e, muito provavelmente, sua pergunta é específica de um setor de conhecimento (um conjunto de dados) ao qual ela ainda não tem acesso.&lt;/p&gt;
+
+&lt;h3 id=&quot;para-além-de-um-simples-sim&quot;&gt;Para além de um simples ‘sim’&lt;/h3&gt;
+
+&lt;p&gt;Enquanto novos conjuntos de dados são criados todos os dias para Cortana e Alexa, dominar o relacionamento de conversação com seus clientes exige a criação de uma personalidade de chatbot específica da marca. Usar troca de mensagens ou uma plataforma como o Facebook Messenger para se envolver com seus cliente é o caminho certo. Para isso, você precisa escolher uma IA pronta para uso, como a Wit.ai do Facebook ou Luis.ai da Microsoft e, é claro, ter a equipe técnica necessária para programar para a plataforma.&lt;/p&gt;
+
+&lt;p&gt;É aí que as coisas ficam complicadas. O que você pode não perceber é que você precisará de “especialistas em palavras” tanto no front-end quanto no back-end para alimentar, vestir e ensinar seu bebê chatbot. Você precisará de alguém que construirá as respostas do seu chatbot com a personalidade da marca, assim como um redator/estrategista/especialista em User Experience (UX) que refletirá sobre a jornada do consumidor e fornecerá amostras de inputs dos clientes. Para construir um bot eficaz, todos os casos de uso precisam ser considerados e uma resposta do chatbot escrita para todos os tipos de interações que você imaginar. Isso tudo quer dizer que saber o que os seus consumidores estão perguntando e como eles fazem suas perguntas é tão importante quanto saber como o bot irá responder. E essa é apenas a fase de construção do bot. Para fazê-lo funcionar você precisará de linguistas dedicados para treiná-lo.&lt;/p&gt;
+
+&lt;h3 id=&quot;nuances-na-conversação&quot;&gt;Nuances na conversação&lt;/h3&gt;
+
+&lt;p&gt;Mesmo com todos os avanços em NLP e algoritmos de machine learning, a IA pronta para uso atual é, na verdade, bastante primitiva se comparada com o cérebro de uma criança. Embora tenhamos percorrido um longo caminho, bots baseados em IA ainda são confundidos por sintaxes incomuns que até uma criança de quatro anos poderia analisar. Esquecemos que nossos coloquialismos e expressões idiomáticas não fazem nenhum sentido para falantes não-nativos, e isso inclui a maioria dos bots. Para colocar de outra forma, os chatbots são construídos baseados em expectativas e probabilidades. Através do NLP da IA, o bot pode atribuir peso às palavras de acordo com sua importância e informar ao seu modelo preditivo, essencialmente adivinhando qual informação fornecer baseado na verossimilhança da intenção. Treinar um bot é, basicamente, construir associações entre sequências de palavras e prováveis intenções. Quando um chatbot chuta errado e entrega um conteúdo que não solicitamos, eles são, na melhor das hipóteses, hilários, mas na pior das hipóteses ofensivos e embaraçosos. A melhor prática para a implementação de um chatbot é evitar esses erros treinando rigorosamente perguntas e respostas para determinar onde essas falhas estão. O treinamento preenche essas lacunas no conjunto de dados do seu chatbot bebê.&lt;/p&gt;
+
+&lt;h3 id=&quot;validar-um-palpite&quot;&gt;Validar um palpite&lt;/h3&gt;
+
+&lt;p&gt;Treinar um chatbot é como brincar de ser o apresentador de um game-show. Você alimenta o bot com frases e palavras ou, até mesmo, exemplos de dúvidas, e verifica se o bot reconhece o que está sendo perguntado. Por exemplo, você pode dizer ao seu bot “Tenho espinafre, queijo e tomate na geladeira.” Seu bot avaliará a cada palavra para tentar combiná-las com uma intenção. Se o seu chatbot foi treinado para reconhecer e associar “espinafre” com “ingrediente” e ingredientes com a intenção de encontrar receitas, no treinamento o bot irá dizer “[a intenção é] encontrar receitas com ‘ingrediente’?” e o treinador irá validar essa suposição, selando a associação da palavra “espinafre” com a intenção encontrar-receitas. Validar o trabalho de adivinhação do seu chatbot bebê é o objetivo do treinamento. E o treinamento pode levar algum tempo, dependendo do quão complicado é seu roteiro de interação.&lt;/p&gt;
+
+&lt;p&gt;No final, se você investir seu tempo em treinar corretamente seu chatbot, você e sua marca colherão os frutos. Chatbots nunca irão substituir a interação entre humanos, mas se conseguirmos que eles simulem agradavelmente a conversação humana, eles serão capazes de nos ajudar a ter relacionamentos significativos com nossos clientes. E diferente de uma criança, os chatbots não se cansam nem ficam rabugentos e nunca (nunca mesmo!) irão culpar você pela sua existência miserável.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Texto traduzido, originalmente publicado em &lt;a target=&quot;_blank&quot; href=&quot;https://articles.wearepop.com/someone-has-to-feed-chatbots&quot;&gt;wearepop&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 19 Jul 2018 00:00:00 -0300</pubDate>
+        <link>http://ubots.com.br/blog/chatbots/2018/07/19/alguem-precisa-alimentar-os-chatbots.html</link>
+        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/07/19/alguem-precisa-alimentar-os-chatbots.html</guid>
+        
+        
+        <category>chatbots</category>
+        
+      </item>
     
       <item>
         <title>O uso de rich media nos fluxos de chatbots</title>
@@ -335,13 +371,13 @@ Para isso, existem diferentes maneiras de realizar pesquisas de satisfação dos
 
 &lt;p&gt;Os aspectos e funcionalidades dos bots variam de acordo com a necessidade e o público-alvo que a empresa deseja atingir com a sua integração, mas existem características gerais que constituem um bom chatbot de AI*, as quais listamos em detalhe abaixo:&lt;/p&gt;
 
-&lt;h2 id=&quot;é-bem-elaborado&quot;&gt;É bem elaborado&lt;/h2&gt;
+&lt;h2 id=&quot;É-bem-elaborado&quot;&gt;É bem elaborado&lt;/h2&gt;
 
 &lt;p&gt;Parece óbvio de se afirmar isso, mas você precisa ter certeza de que está cobrindo alguns pontos importantes na construção de seu bot antes de lançá-lo ao mercado. 
 Caso você decida contratar uma empresa especializada para a construção do seu chatbot, certifique-se de fazer a escolha certa. Faça uma extensa pesquisa de mercado, selecione algumas opções, converse sobre seu projeto e solicite orçamentos. Busque fechar sua parceria com uma empresa que entenda suas necessidades e ofereça um serviço adequado e completo para atendê-la.
 É importante também estudar seu público-alvo, entender seu comportamento, suas dores, seus desejos, suas expectativas e necessidades. Mais ainda, conheça seus pontos de contato com o público e descubra qual plataforma exige uma maior presença de sua empresa. De nada adianta construir um ótimo chatbot e lançá-lo em uma plataforma onde poucos clientes procuram pelo seu atendimento.&lt;/p&gt;
 
-&lt;h2 id=&quot;é-focado-em-suas-tarefas&quot;&gt;É focado em suas tarefas&lt;/h2&gt;
+&lt;h2 id=&quot;É-focado-em-suas-tarefas&quot;&gt;É focado em suas tarefas&lt;/h2&gt;
 
 &lt;p&gt;Chatbots de AI podem configurar uma infinidade de possibilidades para todos envolvidos. Mas é muito fácil se perder nesse mar possíveis tarefas e funcionalidades. Por isso, você precisa focar em quem você deseja ajudar primeiro (seu cliente, sua equipe de vendas, sua equipe de RH, etc) e definir qual(is) tarefa(s) seu chatbot irá realizar para ajudá-lo. É sempre melhor focar em apenas uma ou duas tarefas e desenvolvê-las bem.
 A grande pegadinha com esse tipo de chatbot é que os usuários podem perceber a interação com o robô como uma conversa aberta, como as que temos com outros humanos. Isso pode tornar difícil para o bot seguir o caminho conversacional que você estipulou para levar seu cliente ao objetivo desejado.
@@ -364,7 +400,7 @@ Você pode pensar que por se tratar de um robô construído a partir de intelig�
 &lt;p&gt;Não faz sentido criar um chatbot para atender seu cliente se ele consegue entrar em contato com sua empresa de maneira mais fácil e rápida através de outros canais de atendimento. Como mencionado antes, você precisa observar qual plataforma/canal requer uma atenção maior no atendimento ao cliente e criar sua estratégia de bot para ela.
 O atendimento proporcionado pelo robô deve ser rápido, assertivo e personalizado, demonstrando que a empresa conhece e se importa com o cliente. Ele também deve oferecer algo que tenha valor para o usuário, seja a solução de dúvidas e problemas, o fornecimento de informações relevantes ou serviços adicionais.&lt;/p&gt;
 
-&lt;h2 id=&quot;é-desenvolvido-por-fases&quot;&gt;É desenvolvido por fases&lt;/h2&gt;
+&lt;h2 id=&quot;É-desenvolvido-por-fases&quot;&gt;É desenvolvido por fases&lt;/h2&gt;
 
 &lt;p&gt;Embora existam cada vez mais desenvolvedores de chatbots no mercado, não é uma tarefa fácil construir um - e, principalmente, um bom chatbot e que atenda plenamente às suas necessidades. 
 A melhor forma de construir um ótimo chatbot - além de encontrar a parceria ideal com uma empresa especializada - é fazê-lo por fases. Não incorra no erro de tentar criar algo grandioso de uma só vez. Estabeleça metas menores para seu chatbot e vá o desenvolvendo por etapas.
@@ -407,59 +443,6 @@ Inovação e tecnologia aliadas ao desejo de satisfazer seus clientes são a cha
         <pubDate>Wed, 02 May 2018 00:00:00 -0300</pubDate>
         <link>http://ubots.com.br/blog/chatbots/2018/05/02/marketing-sazonal-com-chatbots.html</link>
         <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/05/02/marketing-sazonal-com-chatbots.html</guid>
-        
-        
-        <category>chatbots</category>
-        
-      </item>
-    
-      <item>
-        <title>Principais problemas no atendimento ao cliente</title>
-        <description>&lt;p&gt;Uma pesquisa realizada por uma empresa americana de consultoria aponta que 70% das pessoas que se consideram mal atendidas por uma empresa não retornam a fazer negócio com a mesma. Um número expressivo como este serve de alerta para que as empresas se conscientizem quanto à importância de manter um bom relacionamento com seus clientes.&lt;/p&gt;
-
-&lt;p&gt;Com consumidores cada vez mais exigentes e cientes de seus direitos, criar estratégias para o setor de atendimento ao cliente é crucial para a retenção de clientes e melhoria no resultados. Uma tendência que tem se mostrado eficaz no aperfeiçoamento do relacionamento entre empresas e pessoas é a integração de chatbots nos canais de atendimento.&lt;/p&gt;
-
-&lt;p&gt;Chatbots são ferramentas conversacionais desenvolvidas através de softwares de comunicação automatizada. Por serem programas baseados em inteligência artificial, são capazes de engajar em uma conversa através de aplicativos de mensagens instantâneas, inferindo intenções, interpretando sentenças e respondendo, como em um diálogo entre humanos.&lt;/p&gt;
-
-&lt;p&gt;No setor de atendimento ao cliente, os chatbots são capazes de solucionar dúvidas (FAQ), transmitir informações sobre produtos e serviços, detalhar pedidos, realizar vendas e prestar serviço de ouvidoria. Por serem altamente personalizáveis, os chatbots podem incorporar os valores da empresa e representar uma personalidade estabelecida por ela no trato com seus clientes.&lt;/p&gt;
-
-&lt;p&gt;Confira abaixo alguns dos principais problemas encontrados pelos consumidores ao buscarem os serviços de SAC e que podem ser resolvidos com a implantação de um chatbot:&lt;/p&gt;
-
-&lt;h2 id=&quot;demora-no-tempo-de-atendimento-e-fila-de-espera&quot;&gt;Demora no tempo de atendimento e fila de espera&lt;/h2&gt;
-
-&lt;p&gt;Dificilmente se encontrará uma empresa que nunca tenha recebido uma reclamação quanto ao tempo de espera para atendimento via SAC ou pela demora na conclusão desse atendimento. Isso porque o fluxo de solicitações recebidas é sempre muito maior que o número de atendentes disponíveis para solucioná-las - entre outros fatores.&lt;/p&gt;
-
-&lt;p&gt;Os chatbots estão disponíveis para atendimento a qualquer horário do dia e da noite, todos os dias da semana, sem interrupção. Por serem robôs automatizados, não possuem limitações quanto ao número de atendimentos que conseguem realizar - inclusive simultaneamente. Sendo assim, os bots conseguem desafogar o fluxo de atendimentos solicitados, resolvendo um número maior de solicitações e permitindo que as equipes de atendimento se dediquem apenas àqueles casos mais específicos e difíceis.&lt;/p&gt;
-
-&lt;h2 id=&quot;horários-de-atendimento-e-número-de-atendentes&quot;&gt;Horários de atendimento e número de atendentes&lt;/h2&gt;
-
-&lt;p&gt;Como já mencionado, as centrais de atendimento ao clientes, em sua grande maioria, não possuem um número suficiente de funcionários disponíveis para solucionar as demandas de atendimento e, com isso, geram-se filas de espera enormes. O consumidor também esbarra nos horários de atendimento ao buscar ajuda. Os canais de atendimento tendem a seguir o horário de funcionamento comercial, não permitindo que o cliente encontre atendimento à noite, por exemplo.&lt;/p&gt;
-
-&lt;p&gt;Sabemos que problemas e dúvidas não possuem hora para acontecer: podem ocorrer a qualquer momento do dia e da noite. E como escalar diferentes equipes para atender em horário integral pode ser muito oneroso para as empresas, os chatbots surgem como uma opção barata para que se mantenham ao alcance dos clientes 24 horas por dia, 7 dias por semana.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-comunicação-não-é-clara-e-objetiva&quot;&gt;A comunicação não é clara e objetiva&lt;/h2&gt;
-
-&lt;p&gt;Muitas vezes, os atendentes de SAC se utilizam de termos técnicos e palavras consideradas difíceis, de forma inconsciente ou propositalmente, e este é um grande empecilho no atendimento ao cliente, principalmente na resolução de problemas. Com atendentes virtuais, é possível programar a linguagem que eles utilizarão, definindo se serão mais formais ou se usarão uma linguagem mais coloquial, com gírias e, até mesmo, emojis - símbolos comuns em aplicativos de mensagens que representam uma ideia, uma palavra ou uma frase completa.&lt;/p&gt;
-
-&lt;h2 id=&quot;os-atendentes-não-conhecem-os-clientes&quot;&gt;Os atendentes não conhecem os clientes&lt;/h2&gt;
-
-&lt;p&gt;Muitas empresas não investem em conhecer profundamente seus clientes. Muito mais do que possuir uma lista de dados cadastrais, conhecer seus consumidores significa entender suas preferências, demandas, desejos, suas dores e seus problemas. Por não terem este conhecimento detalhado de seus clientes, os atendentes exigem uma série de confirmações de informações e a repetição dos problemas mais de uma vez.&lt;/p&gt;
-
-&lt;p&gt;Os chatbots, por terem a possibilidade de integração com os sistemas das empresas, conseguem ter acesso aos dados dos clientes, históricos de pedidos e reclamações. Além disso, são capazes de reter informações das conversas e utilizá-las em atendimentos futuros. O que nos leva a um último problema.&lt;/p&gt;
-
-&lt;h2 id=&quot;transferências-entre-departamentos&quot;&gt;Transferências entre departamentos&lt;/h2&gt;
-
-&lt;p&gt;Quando integrados de forma efetiva ao sistema da empresa, os chatbots têm acesso à informações em diversos níveis. E dependendo de sua programação, conseguem realizar atendimentos em múltiplas esferas (FAQ, apresentação de produtos/serviços, vendas, ouvidoria, entre outros). Dessa forma, os bots solucionam um problema recorrente no atendimento ao consumidor: a transferência entre departamentos.&lt;/p&gt;
-
-&lt;p&gt;Tendo acesso às informações e estruturado para exercer as funções desejadas, os atendentes virtuais solucionam diferentes questões em um mesmo atendimento, de maneira rápida e sem esforço por parte do cliente.&lt;/p&gt;
-
-&lt;p&gt;Não restam dúvidas quanto aos benefícios que a integração de um chatbot nos canais de atendimento ao cliente pode trazer para uma empresa. Além das potencialidades citadas acima, os chatbots representam uma redução nos investimentos com pessoal, melhora na qualidade da gestão dos atendimentos, aumento nos níveis de satisfação dos clientes e nos resultados finais.&lt;/p&gt;
-
-&lt;p&gt;Agora que você já sabe como os atendentes virtuais podem melhorar o relacionamento da sua empresas com os clientes, #DigaOlá aos chatbots!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Apr 2018 00:00:00 -0300</pubDate>
-        <link>http://ubots.com.br/blog/chatbots/2018/04/25/principais-problemas-no-atendimento.html</link>
-        <guid isPermaLink="true">http://ubots.com.br/blog/chatbots/2018/04/25/principais-problemas-no-atendimento.html</guid>
         
         
         <category>chatbots</category>
